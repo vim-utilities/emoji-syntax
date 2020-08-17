@@ -1,0 +1,62 @@
+*emoji-syntax.txt*  For Vim version 8.0.  Last change: 
+
+
+                  Emoji Syntax by S0AndS0
+
+
+Emoji Syntax                                                    *emoji-syntax*
+
+1. Install                                              |emoji-syntax-install|
+2. Update                                                |emoji-syntax-update|
+3. Usage                                                  |emoji-syntax-usage|
+4. Languages                                                 |emoji-languages|
+5. Notes                                                  |emoji-syntax-notes|
+
+==============================================================================
+1. Install                                              *emoji-syntax-install*
+
+If not utilizing a plugin manager, this repository may be installed via the
+`link-install.sh` Bash script. Example: >
+                cd ~/git/hub/vim-utilities/emoji-syntax
+                bash link-install.sh
+<
+
+==============================================================================
+2. Update                                                *emoji-syntax-update*
+
+If not utilizing a plugin manager, this repository may be updated via Git
+Example: >
+                cd ~/git/hub/vim-utilities/emoji-syntax
+                git pull
+                bash linked-install.sh
+<
+
+==============================================================================
+3. Usage                                                  *emoji-syntax-usage*
+
+Ensure the |conceallevel| is greater than `0`. Example: >
+                :set conceallevel=1
+<
+
+See `:help conceallevel` for further details.
+
+==============================================================================
+4. Languages                                                 *emoji-languages*
+
+Supported languages/file-types for `emoji-syntax` currently are;
+
+- `markdown`, |emoji-syntax-markdown| example: >
+                :set filetype=markdown
+<
+
+==============================================================================
+5. Notes                                                  *emoji-syntax-notes*
+
+The `Emoji_Syntax__Toggle()` function may be used to toggle |conceallevel|
+between `0` and `1`. Adding a `<Leader>` mapping may be desirable to toggle if
+Emoji are displayed. Example >
+                nnoremap <Leader>cl :call Emoji_Syntax__Toggle()
+<
+
+
+ vim:tw=78:ts=8:ft=help:norl:

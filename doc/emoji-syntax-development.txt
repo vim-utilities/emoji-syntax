@@ -1,0 +1,38 @@
+*emoji-syntax-development.txt*  For Vim version 8.0.  Last change: 
+
+
+                  Emoji Syntax Development      by S0AndS0
+
+
+Emoji Syntax Development                            *emoji-syntax-development*
+
+1. Install                                  |emoji-syntax-development-install|
+2. Scripts                                  |emoji-syntax-development-scripts|
+3. Update                                    |emoji-syntax-development-update|
+
+==============================================================================
+1. Install                                  *emoji-syntax-development-install*
+
+This repository utilizes NPM and NodeJS to build Emoji syntax configuration.
+To install development dependencies issue the following... >
+                cd ~/git/hub/vim-utilities/emoji-syntax
+
+                npm install
+<
+
+==============================================================================
+2. Scripts                                  *emoji-syntax-development-scripts*
+
+TypeScript is utilized for _type safety_ for NodeJS scripts, after editing
+please remember to re-compile. Example: >
+                npm run ts-build
+<
+
+==============================================================================
+3. Update                                    *emoji-syntax-development-update*
+
+Rebuilding the Emoji configuration file may be done via NPM run command: >
+                npm run build-emoji
+<
+
+ vim:tw=78:ts=8:ft=help:norl:

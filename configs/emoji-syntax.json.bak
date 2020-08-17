@@ -1,0 +1,11220 @@
+{
+  "100": {
+    "hex_list": [
+      "1f4af"
+    ],
+    "symbols": "💯"
+  },
+  "1234": {
+    "hex_list": [
+      "1f522"
+    ],
+    "symbols": "🔢"
+  },
+  "+1": {
+    "hex_list": [
+      "1f44d"
+    ],
+    "symbols": "👍"
+  },
+  "-1": {
+    "hex_list": [
+      "1f44e"
+    ],
+    "symbols": "👎"
+  },
+  "1st_place_medal": {
+    "hex_list": [
+      "1f947"
+    ],
+    "symbols": "🥇"
+  },
+  "2nd_place_medal": {
+    "hex_list": [
+      "1f948"
+    ],
+    "symbols": "🥈"
+  },
+  "3rd_place_medal": {
+    "hex_list": [
+      "1f949"
+    ],
+    "symbols": "🥉"
+  },
+  "8ball": {
+    "hex_list": [
+      "1f3b1"
+    ],
+    "symbols": "🎱"
+  },
+  "a": {
+    "hex_list": [
+      "1f170"
+    ],
+    "symbols": "🅰"
+  },
+  "ab": {
+    "hex_list": [
+      "1f18e"
+    ],
+    "symbols": "🆎"
+  },
+  "abacus": {
+    "hex_list": [
+      "1f9ee"
+    ],
+    "symbols": "🧮"
+  },
+  "abc": {
+    "hex_list": [
+      "1f524"
+    ],
+    "symbols": "🔤"
+  },
+  "abcd": {
+    "hex_list": [
+      "1f521"
+    ],
+    "symbols": "🔡"
+  },
+  "accept": {
+    "hex_list": [
+      "1f251"
+    ],
+    "symbols": "🉑"
+  },
+  "adhesive_bandage": {
+    "hex_list": [
+      "1fa79"
+    ],
+    "symbols": "🩹"
+  },
+  "adult": {
+    "hex_list": [
+      "1f9d1"
+    ],
+    "symbols": "🧑"
+  },
+  "aerial_tramway": {
+    "hex_list": [
+      "1f6a1"
+    ],
+    "symbols": "🚡"
+  },
+  "afghanistan": {
+    "hex_list": [
+      "1f1e6",
+      "1f1eb"
+    ],
+    "symbols": "🇦🇫"
+  },
+  "airplane": {
+    "hex_list": [
+      "2708"
+    ],
+    "symbols": "✈"
+  },
+  "aland_islands": {
+    "hex_list": [
+      "1f1e6",
+      "1f1fd"
+    ],
+    "symbols": "🇦🇽"
+  },
+  "alarm_clock": {
+    "hex_list": [
+      "23f0"
+    ],
+    "symbols": "⏰"
+  },
+  "albania": {
+    "hex_list": [
+      "1f1e6",
+      "1f1f1"
+    ],
+    "symbols": "🇦🇱"
+  },
+  "alembic": {
+    "hex_list": [
+      "2697"
+    ],
+    "symbols": "⚗"
+  },
+  "algeria": {
+    "hex_list": [
+      "1f1e9",
+      "1f1ff"
+    ],
+    "symbols": "🇩🇿"
+  },
+  "alien": {
+    "hex_list": [
+      "1f47d"
+    ],
+    "symbols": "👽"
+  },
+  "ambulance": {
+    "hex_list": [
+      "1f691"
+    ],
+    "symbols": "🚑"
+  },
+  "american_samoa": {
+    "hex_list": [
+      "1f1e6",
+      "1f1f8"
+    ],
+    "symbols": "🇦🇸"
+  },
+  "amphora": {
+    "hex_list": [
+      "1f3fa"
+    ],
+    "symbols": "🏺"
+  },
+  "anchor": {
+    "hex_list": [
+      "2693"
+    ],
+    "symbols": "⚓"
+  },
+  "andorra": {
+    "hex_list": [
+      "1f1e6",
+      "1f1e9"
+    ],
+    "symbols": "🇦🇩"
+  },
+  "angel": {
+    "hex_list": [
+      "1f47c"
+    ],
+    "symbols": "👼"
+  },
+  "anger": {
+    "hex_list": [
+      "1f4a2"
+    ],
+    "symbols": "💢"
+  },
+  "angola": {
+    "hex_list": [
+      "1f1e6",
+      "1f1f4"
+    ],
+    "symbols": "🇦🇴"
+  },
+  "angry": {
+    "hex_list": [
+      "1f620"
+    ],
+    "symbols": "😠"
+  },
+  "anguilla": {
+    "hex_list": [
+      "1f1e6",
+      "1f1ee"
+    ],
+    "symbols": "🇦🇮"
+  },
+  "anguished": {
+    "hex_list": [
+      "1f627"
+    ],
+    "symbols": "😧"
+  },
+  "ant": {
+    "hex_list": [
+      "1f41c"
+    ],
+    "symbols": "🐜"
+  },
+  "antarctica": {
+    "hex_list": [
+      "1f1e6",
+      "1f1f6"
+    ],
+    "symbols": "🇦🇶"
+  },
+  "antigua_barbuda": {
+    "hex_list": [
+      "1f1e6",
+      "1f1ec"
+    ],
+    "symbols": "🇦🇬"
+  },
+  "apple": {
+    "hex_list": [
+      "1f34e"
+    ],
+    "symbols": "🍎"
+  },
+  "aquarius": {
+    "hex_list": [
+      "2652"
+    ],
+    "symbols": "♒"
+  },
+  "argentina": {
+    "hex_list": [
+      "1f1e6",
+      "1f1f7"
+    ],
+    "symbols": "🇦🇷"
+  },
+  "aries": {
+    "hex_list": [
+      "2648"
+    ],
+    "symbols": "♈"
+  },
+  "armenia": {
+    "hex_list": [
+      "1f1e6",
+      "1f1f2"
+    ],
+    "symbols": "🇦🇲"
+  },
+  "arrow_backward": {
+    "hex_list": [
+      "25c0"
+    ],
+    "symbols": "◀"
+  },
+  "arrow_double_down": {
+    "hex_list": [
+      "23ec"
+    ],
+    "symbols": "⏬"
+  },
+  "arrow_double_up": {
+    "hex_list": [
+      "23eb"
+    ],
+    "symbols": "⏫"
+  },
+  "arrow_down": {
+    "hex_list": [
+      "2b07"
+    ],
+    "symbols": "⬇"
+  },
+  "arrow_down_small": {
+    "hex_list": [
+      "1f53d"
+    ],
+    "symbols": "🔽"
+  },
+  "arrow_forward": {
+    "hex_list": [
+      "25b6"
+    ],
+    "symbols": "▶"
+  },
+  "arrow_heading_down": {
+    "hex_list": [
+      "2935"
+    ],
+    "symbols": "⤵"
+  },
+  "arrow_heading_up": {
+    "hex_list": [
+      "2934"
+    ],
+    "symbols": "⤴"
+  },
+  "arrow_left": {
+    "hex_list": [
+      "2b05"
+    ],
+    "symbols": "⬅"
+  },
+  "arrow_lower_left": {
+    "hex_list": [
+      "2199"
+    ],
+    "symbols": "↙"
+  },
+  "arrow_lower_right": {
+    "hex_list": [
+      "2198"
+    ],
+    "symbols": "↘"
+  },
+  "arrow_right": {
+    "hex_list": [
+      "27a1"
+    ],
+    "symbols": "➡"
+  },
+  "arrow_right_hook": {
+    "hex_list": [
+      "21aa"
+    ],
+    "symbols": "↪"
+  },
+  "arrow_up": {
+    "hex_list": [
+      "2b06"
+    ],
+    "symbols": "⬆"
+  },
+  "arrow_up_down": {
+    "hex_list": [
+      "2195"
+    ],
+    "symbols": "↕"
+  },
+  "arrow_up_small": {
+    "hex_list": [
+      "1f53c"
+    ],
+    "symbols": "🔼"
+  },
+  "arrow_upper_left": {
+    "hex_list": [
+      "2196"
+    ],
+    "symbols": "↖"
+  },
+  "arrow_upper_right": {
+    "hex_list": [
+      "2197"
+    ],
+    "symbols": "↗"
+  },
+  "arrows_clockwise": {
+    "hex_list": [
+      "1f503"
+    ],
+    "symbols": "🔃"
+  },
+  "arrows_counterclockwise": {
+    "hex_list": [
+      "1f504"
+    ],
+    "symbols": "🔄"
+  },
+  "art": {
+    "hex_list": [
+      "1f3a8"
+    ],
+    "symbols": "🎨"
+  },
+  "articulated_lorry": {
+    "hex_list": [
+      "1f69b"
+    ],
+    "symbols": "🚛"
+  },
+  "artificial_satellite": {
+    "hex_list": [
+      "1f6f0"
+    ],
+    "symbols": "🛰"
+  },
+  "artist": {
+    "hex_list": [
+      "1f9d1",
+      "1f3a8"
+    ],
+    "symbols": "🧑🎨"
+  },
+  "aruba": {
+    "hex_list": [
+      "1f1e6",
+      "1f1fc"
+    ],
+    "symbols": "🇦🇼"
+  },
+  "ascension_island": {
+    "hex_list": [
+      "1f1e6",
+      "1f1e8"
+    ],
+    "symbols": "🇦🇨"
+  },
+  "asterisk": {
+    "hex_list": [
+      "002a",
+      "20e3"
+    ],
+    "symbols": "*⃣"
+  },
+  "astonished": {
+    "hex_list": [
+      "1f632"
+    ],
+    "symbols": "😲"
+  },
+  "astronaut": {
+    "hex_list": [
+      "1f9d1",
+      "1f680"
+    ],
+    "symbols": "🧑🚀"
+  },
+  "athletic_shoe": {
+    "hex_list": [
+      "1f45f"
+    ],
+    "symbols": "👟"
+  },
+  "atm": {
+    "hex_list": [
+      "1f3e7"
+    ],
+    "symbols": "🏧"
+  },
+  "atom_symbol": {
+    "hex_list": [
+      "269b"
+    ],
+    "symbols": "⚛"
+  },
+  "australia": {
+    "hex_list": [
+      "1f1e6",
+      "1f1fa"
+    ],
+    "symbols": "🇦🇺"
+  },
+  "austria": {
+    "hex_list": [
+      "1f1e6",
+      "1f1f9"
+    ],
+    "symbols": "🇦🇹"
+  },
+  "auto_rickshaw": {
+    "hex_list": [
+      "1f6fa"
+    ],
+    "symbols": "🛺"
+  },
+  "avocado": {
+    "hex_list": [
+      "1f951"
+    ],
+    "symbols": "🥑"
+  },
+  "axe": {
+    "hex_list": [
+      "1fa93"
+    ],
+    "symbols": "🪓"
+  },
+  "azerbaijan": {
+    "hex_list": [
+      "1f1e6",
+      "1f1ff"
+    ],
+    "symbols": "🇦🇿"
+  },
+  "b": {
+    "hex_list": [
+      "1f171"
+    ],
+    "symbols": "🅱"
+  },
+  "baby": {
+    "hex_list": [
+      "1f476"
+    ],
+    "symbols": "👶"
+  },
+  "baby_bottle": {
+    "hex_list": [
+      "1f37c"
+    ],
+    "symbols": "🍼"
+  },
+  "baby_chick": {
+    "hex_list": [
+      "1f424"
+    ],
+    "symbols": "🐤"
+  },
+  "baby_symbol": {
+    "hex_list": [
+      "1f6bc"
+    ],
+    "symbols": "🚼"
+  },
+  "back": {
+    "hex_list": [
+      "1f519"
+    ],
+    "symbols": "🔙"
+  },
+  "bacon": {
+    "hex_list": [
+      "1f953"
+    ],
+    "symbols": "🥓"
+  },
+  "badger": {
+    "hex_list": [
+      "1f9a1"
+    ],
+    "symbols": "🦡"
+  },
+  "badminton": {
+    "hex_list": [
+      "1f3f8"
+    ],
+    "symbols": "🏸"
+  },
+  "bagel": {
+    "hex_list": [
+      "1f96f"
+    ],
+    "symbols": "🥯"
+  },
+  "baggage_claim": {
+    "hex_list": [
+      "1f6c4"
+    ],
+    "symbols": "🛄"
+  },
+  "baguette_bread": {
+    "hex_list": [
+      "1f956"
+    ],
+    "symbols": "🥖"
+  },
+  "bahamas": {
+    "hex_list": [
+      "1f1e7",
+      "1f1f8"
+    ],
+    "symbols": "🇧🇸"
+  },
+  "bahrain": {
+    "hex_list": [
+      "1f1e7",
+      "1f1ed"
+    ],
+    "symbols": "🇧🇭"
+  },
+  "balance_scale": {
+    "hex_list": [
+      "2696"
+    ],
+    "symbols": "⚖"
+  },
+  "bald_man": {
+    "hex_list": [
+      "1f468",
+      "1f9b2"
+    ],
+    "symbols": "👨🦲"
+  },
+  "bald_woman": {
+    "hex_list": [
+      "1f469",
+      "1f9b2"
+    ],
+    "symbols": "👩🦲"
+  },
+  "ballet_shoes": {
+    "hex_list": [
+      "1fa70"
+    ],
+    "symbols": "🩰"
+  },
+  "balloon": {
+    "hex_list": [
+      "1f388"
+    ],
+    "symbols": "🎈"
+  },
+  "ballot_box": {
+    "hex_list": [
+      "1f5f3"
+    ],
+    "symbols": "🗳"
+  },
+  "ballot_box_with_check": {
+    "hex_list": [
+      "2611"
+    ],
+    "symbols": "☑"
+  },
+  "bamboo": {
+    "hex_list": [
+      "1f38d"
+    ],
+    "symbols": "🎍"
+  },
+  "banana": {
+    "hex_list": [
+      "1f34c"
+    ],
+    "symbols": "🍌"
+  },
+  "bangbang": {
+    "hex_list": [
+      "203c"
+    ],
+    "symbols": "‼"
+  },
+  "bangladesh": {
+    "hex_list": [
+      "1f1e7",
+      "1f1e9"
+    ],
+    "symbols": "🇧🇩"
+  },
+  "banjo": {
+    "hex_list": [
+      "1fa95"
+    ],
+    "symbols": "🪕"
+  },
+  "bank": {
+    "hex_list": [
+      "1f3e6"
+    ],
+    "symbols": "🏦"
+  },
+  "bar_chart": {
+    "hex_list": [
+      "1f4ca"
+    ],
+    "symbols": "📊"
+  },
+  "barbados": {
+    "hex_list": [
+      "1f1e7",
+      "1f1e7"
+    ],
+    "symbols": "🇧🇧"
+  },
+  "barber": {
+    "hex_list": [
+      "1f488"
+    ],
+    "symbols": "💈"
+  },
+  "baseball": {
+    "hex_list": [
+      "26be"
+    ],
+    "symbols": "⚾"
+  },
+  "basket": {
+    "hex_list": [
+      "1f9fa"
+    ],
+    "symbols": "🧺"
+  },
+  "basketball": {
+    "hex_list": [
+      "1f3c0"
+    ],
+    "symbols": "🏀"
+  },
+  "basketball_man": {
+    "hex_list": [
+      "26f9",
+      "2642"
+    ],
+    "symbols": "⛹♂"
+  },
+  "basketball_woman": {
+    "hex_list": [
+      "26f9",
+      "2640"
+    ],
+    "symbols": "⛹♀"
+  },
+  "bat": {
+    "hex_list": [
+      "1f987"
+    ],
+    "symbols": "🦇"
+  },
+  "bath": {
+    "hex_list": [
+      "1f6c0"
+    ],
+    "symbols": "🛀"
+  },
+  "bathtub": {
+    "hex_list": [
+      "1f6c1"
+    ],
+    "symbols": "🛁"
+  },
+  "battery": {
+    "hex_list": [
+      "1f50b"
+    ],
+    "symbols": "🔋"
+  },
+  "beach_umbrella": {
+    "hex_list": [
+      "1f3d6"
+    ],
+    "symbols": "🏖"
+  },
+  "bear": {
+    "hex_list": [
+      "1f43b"
+    ],
+    "symbols": "🐻"
+  },
+  "bearded_person": {
+    "hex_list": [
+      "1f9d4"
+    ],
+    "symbols": "🧔"
+  },
+  "bed": {
+    "hex_list": [
+      "1f6cf"
+    ],
+    "symbols": "🛏"
+  },
+  "bee": {
+    "hex_list": [
+      "1f41d"
+    ],
+    "symbols": "🐝"
+  },
+  "beer": {
+    "hex_list": [
+      "1f37a"
+    ],
+    "symbols": "🍺"
+  },
+  "beers": {
+    "hex_list": [
+      "1f37b"
+    ],
+    "symbols": "🍻"
+  },
+  "beetle": {
+    "hex_list": [
+      "1f41e"
+    ],
+    "symbols": "🐞"
+  },
+  "beginner": {
+    "hex_list": [
+      "1f530"
+    ],
+    "symbols": "🔰"
+  },
+  "belarus": {
+    "hex_list": [
+      "1f1e7",
+      "1f1fe"
+    ],
+    "symbols": "🇧🇾"
+  },
+  "belgium": {
+    "hex_list": [
+      "1f1e7",
+      "1f1ea"
+    ],
+    "symbols": "🇧🇪"
+  },
+  "belize": {
+    "hex_list": [
+      "1f1e7",
+      "1f1ff"
+    ],
+    "symbols": "🇧🇿"
+  },
+  "bell": {
+    "hex_list": [
+      "1f514"
+    ],
+    "symbols": "🔔"
+  },
+  "bellhop_bell": {
+    "hex_list": [
+      "1f6ce"
+    ],
+    "symbols": "🛎"
+  },
+  "benin": {
+    "hex_list": [
+      "1f1e7",
+      "1f1ef"
+    ],
+    "symbols": "🇧🇯"
+  },
+  "bento": {
+    "hex_list": [
+      "1f371"
+    ],
+    "symbols": "🍱"
+  },
+  "bermuda": {
+    "hex_list": [
+      "1f1e7",
+      "1f1f2"
+    ],
+    "symbols": "🇧🇲"
+  },
+  "beverage_box": {
+    "hex_list": [
+      "1f9c3"
+    ],
+    "symbols": "🧃"
+  },
+  "bhutan": {
+    "hex_list": [
+      "1f1e7",
+      "1f1f9"
+    ],
+    "symbols": "🇧🇹"
+  },
+  "bicyclist": {
+    "hex_list": [
+      "1f6b4"
+    ],
+    "symbols": "🚴"
+  },
+  "bike": {
+    "hex_list": [
+      "1f6b2"
+    ],
+    "symbols": "🚲"
+  },
+  "biking_man": {
+    "hex_list": [
+      "1f6b4",
+      "2642"
+    ],
+    "symbols": "🚴♂"
+  },
+  "biking_woman": {
+    "hex_list": [
+      "1f6b4",
+      "2640"
+    ],
+    "symbols": "🚴♀"
+  },
+  "bikini": {
+    "hex_list": [
+      "1f459"
+    ],
+    "symbols": "👙"
+  },
+  "billed_cap": {
+    "hex_list": [
+      "1f9e2"
+    ],
+    "symbols": "🧢"
+  },
+  "biohazard": {
+    "hex_list": [
+      "2623"
+    ],
+    "symbols": "☣"
+  },
+  "bird": {
+    "hex_list": [
+      "1f426"
+    ],
+    "symbols": "🐦"
+  },
+  "birthday": {
+    "hex_list": [
+      "1f382"
+    ],
+    "symbols": "🎂"
+  },
+  "black_circle": {
+    "hex_list": [
+      "26ab"
+    ],
+    "symbols": "⚫"
+  },
+  "black_flag": {
+    "hex_list": [
+      "1f3f4"
+    ],
+    "symbols": "🏴"
+  },
+  "black_heart": {
+    "hex_list": [
+      "1f5a4"
+    ],
+    "symbols": "🖤"
+  },
+  "black_joker": {
+    "hex_list": [
+      "1f0cf"
+    ],
+    "symbols": "🃏"
+  },
+  "black_large_square": {
+    "hex_list": [
+      "2b1b"
+    ],
+    "symbols": "⬛"
+  },
+  "black_medium_small_square": {
+    "hex_list": [
+      "25fe"
+    ],
+    "symbols": "◾"
+  },
+  "black_medium_square": {
+    "hex_list": [
+      "25fc"
+    ],
+    "symbols": "◼"
+  },
+  "black_nib": {
+    "hex_list": [
+      "2712"
+    ],
+    "symbols": "✒"
+  },
+  "black_small_square": {
+    "hex_list": [
+      "25aa"
+    ],
+    "symbols": "▪"
+  },
+  "black_square_button": {
+    "hex_list": [
+      "1f532"
+    ],
+    "symbols": "🔲"
+  },
+  "blond_haired_man": {
+    "hex_list": [
+      "1f471",
+      "2642"
+    ],
+    "symbols": "👱♂"
+  },
+  "blond_haired_person": {
+    "hex_list": [
+      "1f471"
+    ],
+    "symbols": "👱"
+  },
+  "blond_haired_woman": {
+    "hex_list": [
+      "1f471",
+      "2640"
+    ],
+    "symbols": "👱♀"
+  },
+  "blonde_woman": {
+    "hex_list": [
+      "1f471",
+      "2640"
+    ],
+    "symbols": "👱♀"
+  },
+  "blossom": {
+    "hex_list": [
+      "1f33c"
+    ],
+    "symbols": "🌼"
+  },
+  "blowfish": {
+    "hex_list": [
+      "1f421"
+    ],
+    "symbols": "🐡"
+  },
+  "blue_book": {
+    "hex_list": [
+      "1f4d8"
+    ],
+    "symbols": "📘"
+  },
+  "blue_car": {
+    "hex_list": [
+      "1f699"
+    ],
+    "symbols": "🚙"
+  },
+  "blue_heart": {
+    "hex_list": [
+      "1f499"
+    ],
+    "symbols": "💙"
+  },
+  "blue_square": {
+    "hex_list": [
+      "1f7e6"
+    ],
+    "symbols": "🟦"
+  },
+  "blush": {
+    "hex_list": [
+      "1f60a"
+    ],
+    "symbols": "😊"
+  },
+  "boar": {
+    "hex_list": [
+      "1f417"
+    ],
+    "symbols": "🐗"
+  },
+  "boat": {
+    "hex_list": [
+      "26f5"
+    ],
+    "symbols": "⛵"
+  },
+  "bolivia": {
+    "hex_list": [
+      "1f1e7",
+      "1f1f4"
+    ],
+    "symbols": "🇧🇴"
+  },
+  "bomb": {
+    "hex_list": [
+      "1f4a3"
+    ],
+    "symbols": "💣"
+  },
+  "bone": {
+    "hex_list": [
+      "1f9b4"
+    ],
+    "symbols": "🦴"
+  },
+  "book": {
+    "hex_list": [
+      "1f4d6"
+    ],
+    "symbols": "📖"
+  },
+  "bookmark": {
+    "hex_list": [
+      "1f516"
+    ],
+    "symbols": "🔖"
+  },
+  "bookmark_tabs": {
+    "hex_list": [
+      "1f4d1"
+    ],
+    "symbols": "📑"
+  },
+  "books": {
+    "hex_list": [
+      "1f4da"
+    ],
+    "symbols": "📚"
+  },
+  "boom": {
+    "hex_list": [
+      "1f4a5"
+    ],
+    "symbols": "💥"
+  },
+  "boot": {
+    "hex_list": [
+      "1f462"
+    ],
+    "symbols": "👢"
+  },
+  "bosnia_herzegovina": {
+    "hex_list": [
+      "1f1e7",
+      "1f1e6"
+    ],
+    "symbols": "🇧🇦"
+  },
+  "botswana": {
+    "hex_list": [
+      "1f1e7",
+      "1f1fc"
+    ],
+    "symbols": "🇧🇼"
+  },
+  "bouncing_ball_man": {
+    "hex_list": [
+      "26f9",
+      "2642"
+    ],
+    "symbols": "⛹♂"
+  },
+  "bouncing_ball_person": {
+    "hex_list": [
+      "26f9"
+    ],
+    "symbols": "⛹"
+  },
+  "bouncing_ball_woman": {
+    "hex_list": [
+      "26f9",
+      "2640"
+    ],
+    "symbols": "⛹♀"
+  },
+  "bouquet": {
+    "hex_list": [
+      "1f490"
+    ],
+    "symbols": "💐"
+  },
+  "bouvet_island": {
+    "hex_list": [
+      "1f1e7",
+      "1f1fb"
+    ],
+    "symbols": "🇧🇻"
+  },
+  "bow": {
+    "hex_list": [
+      "1f647"
+    ],
+    "symbols": "🙇"
+  },
+  "bow_and_arrow": {
+    "hex_list": [
+      "1f3f9"
+    ],
+    "symbols": "🏹"
+  },
+  "bowing_man": {
+    "hex_list": [
+      "1f647",
+      "2642"
+    ],
+    "symbols": "🙇♂"
+  },
+  "bowing_woman": {
+    "hex_list": [
+      "1f647",
+      "2640"
+    ],
+    "symbols": "🙇♀"
+  },
+  "bowl_with_spoon": {
+    "hex_list": [
+      "1f963"
+    ],
+    "symbols": "🥣"
+  },
+  "bowling": {
+    "hex_list": [
+      "1f3b3"
+    ],
+    "symbols": "🎳"
+  },
+  "boxing_glove": {
+    "hex_list": [
+      "1f94a"
+    ],
+    "symbols": "🥊"
+  },
+  "boy": {
+    "hex_list": [
+      "1f466"
+    ],
+    "symbols": "👦"
+  },
+  "brain": {
+    "hex_list": [
+      "1f9e0"
+    ],
+    "symbols": "🧠"
+  },
+  "brazil": {
+    "hex_list": [
+      "1f1e7",
+      "1f1f7"
+    ],
+    "symbols": "🇧🇷"
+  },
+  "bread": {
+    "hex_list": [
+      "1f35e"
+    ],
+    "symbols": "🍞"
+  },
+  "breast_feeding": {
+    "hex_list": [
+      "1f931"
+    ],
+    "symbols": "🤱"
+  },
+  "bricks": {
+    "hex_list": [
+      "1f9f1"
+    ],
+    "symbols": "🧱"
+  },
+  "bride_with_veil": {
+    "hex_list": [
+      "1f470"
+    ],
+    "symbols": "👰"
+  },
+  "bridge_at_night": {
+    "hex_list": [
+      "1f309"
+    ],
+    "symbols": "🌉"
+  },
+  "briefcase": {
+    "hex_list": [
+      "1f4bc"
+    ],
+    "symbols": "💼"
+  },
+  "british_indian_ocean_territory": {
+    "hex_list": [
+      "1f1ee",
+      "1f1f4"
+    ],
+    "symbols": "🇮🇴"
+  },
+  "british_virgin_islands": {
+    "hex_list": [
+      "1f1fb",
+      "1f1ec"
+    ],
+    "symbols": "🇻🇬"
+  },
+  "broccoli": {
+    "hex_list": [
+      "1f966"
+    ],
+    "symbols": "🥦"
+  },
+  "broken_heart": {
+    "hex_list": [
+      "1f494"
+    ],
+    "symbols": "💔"
+  },
+  "broom": {
+    "hex_list": [
+      "1f9f9"
+    ],
+    "symbols": "🧹"
+  },
+  "brown_circle": {
+    "hex_list": [
+      "1f7e4"
+    ],
+    "symbols": "🟤"
+  },
+  "brown_heart": {
+    "hex_list": [
+      "1f90e"
+    ],
+    "symbols": "🤎"
+  },
+  "brown_square": {
+    "hex_list": [
+      "1f7eb"
+    ],
+    "symbols": "🟫"
+  },
+  "brunei": {
+    "hex_list": [
+      "1f1e7",
+      "1f1f3"
+    ],
+    "symbols": "🇧🇳"
+  },
+  "bug": {
+    "hex_list": [
+      "1f41b"
+    ],
+    "symbols": "🐛"
+  },
+  "building_construction": {
+    "hex_list": [
+      "1f3d7"
+    ],
+    "symbols": "🏗"
+  },
+  "bulb": {
+    "hex_list": [
+      "1f4a1"
+    ],
+    "symbols": "💡"
+  },
+  "bulgaria": {
+    "hex_list": [
+      "1f1e7",
+      "1f1ec"
+    ],
+    "symbols": "🇧🇬"
+  },
+  "bullettrain_front": {
+    "hex_list": [
+      "1f685"
+    ],
+    "symbols": "🚅"
+  },
+  "bullettrain_side": {
+    "hex_list": [
+      "1f684"
+    ],
+    "symbols": "🚄"
+  },
+  "burkina_faso": {
+    "hex_list": [
+      "1f1e7",
+      "1f1eb"
+    ],
+    "symbols": "🇧🇫"
+  },
+  "burrito": {
+    "hex_list": [
+      "1f32f"
+    ],
+    "symbols": "🌯"
+  },
+  "burundi": {
+    "hex_list": [
+      "1f1e7",
+      "1f1ee"
+    ],
+    "symbols": "🇧🇮"
+  },
+  "bus": {
+    "hex_list": [
+      "1f68c"
+    ],
+    "symbols": "🚌"
+  },
+  "business_suit_levitating": {
+    "hex_list": [
+      "1f574"
+    ],
+    "symbols": "🕴"
+  },
+  "busstop": {
+    "hex_list": [
+      "1f68f"
+    ],
+    "symbols": "🚏"
+  },
+  "bust_in_silhouette": {
+    "hex_list": [
+      "1f464"
+    ],
+    "symbols": "👤"
+  },
+  "busts_in_silhouette": {
+    "hex_list": [
+      "1f465"
+    ],
+    "symbols": "👥"
+  },
+  "butter": {
+    "hex_list": [
+      "1f9c8"
+    ],
+    "symbols": "🧈"
+  },
+  "butterfly": {
+    "hex_list": [
+      "1f98b"
+    ],
+    "symbols": "🦋"
+  },
+  "cactus": {
+    "hex_list": [
+      "1f335"
+    ],
+    "symbols": "🌵"
+  },
+  "cake": {
+    "hex_list": [
+      "1f370"
+    ],
+    "symbols": "🍰"
+  },
+  "calendar": {
+    "hex_list": [
+      "1f4c6"
+    ],
+    "symbols": "📆"
+  },
+  "call_me_hand": {
+    "hex_list": [
+      "1f919"
+    ],
+    "symbols": "🤙"
+  },
+  "calling": {
+    "hex_list": [
+      "1f4f2"
+    ],
+    "symbols": "📲"
+  },
+  "cambodia": {
+    "hex_list": [
+      "1f1f0",
+      "1f1ed"
+    ],
+    "symbols": "🇰🇭"
+  },
+  "camel": {
+    "hex_list": [
+      "1f42b"
+    ],
+    "symbols": "🐫"
+  },
+  "camera": {
+    "hex_list": [
+      "1f4f7"
+    ],
+    "symbols": "📷"
+  },
+  "camera_flash": {
+    "hex_list": [
+      "1f4f8"
+    ],
+    "symbols": "📸"
+  },
+  "cameroon": {
+    "hex_list": [
+      "1f1e8",
+      "1f1f2"
+    ],
+    "symbols": "🇨🇲"
+  },
+  "camping": {
+    "hex_list": [
+      "1f3d5"
+    ],
+    "symbols": "🏕"
+  },
+  "canada": {
+    "hex_list": [
+      "1f1e8",
+      "1f1e6"
+    ],
+    "symbols": "🇨🇦"
+  },
+  "canary_islands": {
+    "hex_list": [
+      "1f1ee",
+      "1f1e8"
+    ],
+    "symbols": "🇮🇨"
+  },
+  "cancer": {
+    "hex_list": [
+      "264b"
+    ],
+    "symbols": "♋"
+  },
+  "candle": {
+    "hex_list": [
+      "1f56f"
+    ],
+    "symbols": "🕯"
+  },
+  "candy": {
+    "hex_list": [
+      "1f36c"
+    ],
+    "symbols": "🍬"
+  },
+  "canned_food": {
+    "hex_list": [
+      "1f96b"
+    ],
+    "symbols": "🥫"
+  },
+  "canoe": {
+    "hex_list": [
+      "1f6f6"
+    ],
+    "symbols": "🛶"
+  },
+  "cape_verde": {
+    "hex_list": [
+      "1f1e8",
+      "1f1fb"
+    ],
+    "symbols": "🇨🇻"
+  },
+  "capital_abcd": {
+    "hex_list": [
+      "1f520"
+    ],
+    "symbols": "🔠"
+  },
+  "capricorn": {
+    "hex_list": [
+      "2651"
+    ],
+    "symbols": "♑"
+  },
+  "car": {
+    "hex_list": [
+      "1f697"
+    ],
+    "symbols": "🚗"
+  },
+  "card_file_box": {
+    "hex_list": [
+      "1f5c3"
+    ],
+    "symbols": "🗃"
+  },
+  "card_index": {
+    "hex_list": [
+      "1f4c7"
+    ],
+    "symbols": "📇"
+  },
+  "card_index_dividers": {
+    "hex_list": [
+      "1f5c2"
+    ],
+    "symbols": "🗂"
+  },
+  "caribbean_netherlands": {
+    "hex_list": [
+      "1f1e7",
+      "1f1f6"
+    ],
+    "symbols": "🇧🇶"
+  },
+  "carousel_horse": {
+    "hex_list": [
+      "1f3a0"
+    ],
+    "symbols": "🎠"
+  },
+  "carrot": {
+    "hex_list": [
+      "1f955"
+    ],
+    "symbols": "🥕"
+  },
+  "cartwheeling": {
+    "hex_list": [
+      "1f938"
+    ],
+    "symbols": "🤸"
+  },
+  "cat": {
+    "hex_list": [
+      "1f431"
+    ],
+    "symbols": "🐱"
+  },
+  "cat2": {
+    "hex_list": [
+      "1f408"
+    ],
+    "symbols": "🐈"
+  },
+  "cayman_islands": {
+    "hex_list": [
+      "1f1f0",
+      "1f1fe"
+    ],
+    "symbols": "🇰🇾"
+  },
+  "cd": {
+    "hex_list": [
+      "1f4bf"
+    ],
+    "symbols": "💿"
+  },
+  "central_african_republic": {
+    "hex_list": [
+      "1f1e8",
+      "1f1eb"
+    ],
+    "symbols": "🇨🇫"
+  },
+  "ceuta_melilla": {
+    "hex_list": [
+      "1f1ea",
+      "1f1e6"
+    ],
+    "symbols": "🇪🇦"
+  },
+  "chad": {
+    "hex_list": [
+      "1f1f9",
+      "1f1e9"
+    ],
+    "symbols": "🇹🇩"
+  },
+  "chains": {
+    "hex_list": [
+      "26d3"
+    ],
+    "symbols": "⛓"
+  },
+  "chair": {
+    "hex_list": [
+      "1fa91"
+    ],
+    "symbols": "🪑"
+  },
+  "champagne": {
+    "hex_list": [
+      "1f37e"
+    ],
+    "symbols": "🍾"
+  },
+  "chart": {
+    "hex_list": [
+      "1f4b9"
+    ],
+    "symbols": "💹"
+  },
+  "chart_with_downwards_trend": {
+    "hex_list": [
+      "1f4c9"
+    ],
+    "symbols": "📉"
+  },
+  "chart_with_upwards_trend": {
+    "hex_list": [
+      "1f4c8"
+    ],
+    "symbols": "📈"
+  },
+  "checkered_flag": {
+    "hex_list": [
+      "1f3c1"
+    ],
+    "symbols": "🏁"
+  },
+  "cheese": {
+    "hex_list": [
+      "1f9c0"
+    ],
+    "symbols": "🧀"
+  },
+  "cherries": {
+    "hex_list": [
+      "1f352"
+    ],
+    "symbols": "🍒"
+  },
+  "cherry_blossom": {
+    "hex_list": [
+      "1f338"
+    ],
+    "symbols": "🌸"
+  },
+  "chess_pawn": {
+    "hex_list": [
+      "265f"
+    ],
+    "symbols": "♟"
+  },
+  "chestnut": {
+    "hex_list": [
+      "1f330"
+    ],
+    "symbols": "🌰"
+  },
+  "chicken": {
+    "hex_list": [
+      "1f414"
+    ],
+    "symbols": "🐔"
+  },
+  "child": {
+    "hex_list": [
+      "1f9d2"
+    ],
+    "symbols": "🧒"
+  },
+  "children_crossing": {
+    "hex_list": [
+      "1f6b8"
+    ],
+    "symbols": "🚸"
+  },
+  "chile": {
+    "hex_list": [
+      "1f1e8",
+      "1f1f1"
+    ],
+    "symbols": "🇨🇱"
+  },
+  "chipmunk": {
+    "hex_list": [
+      "1f43f"
+    ],
+    "symbols": "🐿"
+  },
+  "chocolate_bar": {
+    "hex_list": [
+      "1f36b"
+    ],
+    "symbols": "🍫"
+  },
+  "chopsticks": {
+    "hex_list": [
+      "1f962"
+    ],
+    "symbols": "🥢"
+  },
+  "christmas_island": {
+    "hex_list": [
+      "1f1e8",
+      "1f1fd"
+    ],
+    "symbols": "🇨🇽"
+  },
+  "christmas_tree": {
+    "hex_list": [
+      "1f384"
+    ],
+    "symbols": "🎄"
+  },
+  "church": {
+    "hex_list": [
+      "26ea"
+    ],
+    "symbols": "⛪"
+  },
+  "cinema": {
+    "hex_list": [
+      "1f3a6"
+    ],
+    "symbols": "🎦"
+  },
+  "circus_tent": {
+    "hex_list": [
+      "1f3aa"
+    ],
+    "symbols": "🎪"
+  },
+  "city_sunrise": {
+    "hex_list": [
+      "1f307"
+    ],
+    "symbols": "🌇"
+  },
+  "city_sunset": {
+    "hex_list": [
+      "1f306"
+    ],
+    "symbols": "🌆"
+  },
+  "cityscape": {
+    "hex_list": [
+      "1f3d9"
+    ],
+    "symbols": "🏙"
+  },
+  "cl": {
+    "hex_list": [
+      "1f191"
+    ],
+    "symbols": "🆑"
+  },
+  "clamp": {
+    "hex_list": [
+      "1f5dc"
+    ],
+    "symbols": "🗜"
+  },
+  "clap": {
+    "hex_list": [
+      "1f44f"
+    ],
+    "symbols": "👏"
+  },
+  "clapper": {
+    "hex_list": [
+      "1f3ac"
+    ],
+    "symbols": "🎬"
+  },
+  "classical_building": {
+    "hex_list": [
+      "1f3db"
+    ],
+    "symbols": "🏛"
+  },
+  "climbing": {
+    "hex_list": [
+      "1f9d7"
+    ],
+    "symbols": "🧗"
+  },
+  "climbing_man": {
+    "hex_list": [
+      "1f9d7",
+      "2642"
+    ],
+    "symbols": "🧗♂"
+  },
+  "climbing_woman": {
+    "hex_list": [
+      "1f9d7",
+      "2640"
+    ],
+    "symbols": "🧗♀"
+  },
+  "clinking_glasses": {
+    "hex_list": [
+      "1f942"
+    ],
+    "symbols": "🥂"
+  },
+  "clipboard": {
+    "hex_list": [
+      "1f4cb"
+    ],
+    "symbols": "📋"
+  },
+  "clipperton_island": {
+    "hex_list": [
+      "1f1e8",
+      "1f1f5"
+    ],
+    "symbols": "🇨🇵"
+  },
+  "clock1": {
+    "hex_list": [
+      "1f550"
+    ],
+    "symbols": "🕐"
+  },
+  "clock10": {
+    "hex_list": [
+      "1f559"
+    ],
+    "symbols": "🕙"
+  },
+  "clock1030": {
+    "hex_list": [
+      "1f565"
+    ],
+    "symbols": "🕥"
+  },
+  "clock11": {
+    "hex_list": [
+      "1f55a"
+    ],
+    "symbols": "🕚"
+  },
+  "clock1130": {
+    "hex_list": [
+      "1f566"
+    ],
+    "symbols": "🕦"
+  },
+  "clock12": {
+    "hex_list": [
+      "1f55b"
+    ],
+    "symbols": "🕛"
+  },
+  "clock1230": {
+    "hex_list": [
+      "1f567"
+    ],
+    "symbols": "🕧"
+  },
+  "clock130": {
+    "hex_list": [
+      "1f55c"
+    ],
+    "symbols": "🕜"
+  },
+  "clock2": {
+    "hex_list": [
+      "1f551"
+    ],
+    "symbols": "🕑"
+  },
+  "clock230": {
+    "hex_list": [
+      "1f55d"
+    ],
+    "symbols": "🕝"
+  },
+  "clock3": {
+    "hex_list": [
+      "1f552"
+    ],
+    "symbols": "🕒"
+  },
+  "clock330": {
+    "hex_list": [
+      "1f55e"
+    ],
+    "symbols": "🕞"
+  },
+  "clock4": {
+    "hex_list": [
+      "1f553"
+    ],
+    "symbols": "🕓"
+  },
+  "clock430": {
+    "hex_list": [
+      "1f55f"
+    ],
+    "symbols": "🕟"
+  },
+  "clock5": {
+    "hex_list": [
+      "1f554"
+    ],
+    "symbols": "🕔"
+  },
+  "clock530": {
+    "hex_list": [
+      "1f560"
+    ],
+    "symbols": "🕠"
+  },
+  "clock6": {
+    "hex_list": [
+      "1f555"
+    ],
+    "symbols": "🕕"
+  },
+  "clock630": {
+    "hex_list": [
+      "1f561"
+    ],
+    "symbols": "🕡"
+  },
+  "clock7": {
+    "hex_list": [
+      "1f556"
+    ],
+    "symbols": "🕖"
+  },
+  "clock730": {
+    "hex_list": [
+      "1f562"
+    ],
+    "symbols": "🕢"
+  },
+  "clock8": {
+    "hex_list": [
+      "1f557"
+    ],
+    "symbols": "🕗"
+  },
+  "clock830": {
+    "hex_list": [
+      "1f563"
+    ],
+    "symbols": "🕣"
+  },
+  "clock9": {
+    "hex_list": [
+      "1f558"
+    ],
+    "symbols": "🕘"
+  },
+  "clock930": {
+    "hex_list": [
+      "1f564"
+    ],
+    "symbols": "🕤"
+  },
+  "closed_book": {
+    "hex_list": [
+      "1f4d5"
+    ],
+    "symbols": "📕"
+  },
+  "closed_lock_with_key": {
+    "hex_list": [
+      "1f510"
+    ],
+    "symbols": "🔐"
+  },
+  "closed_umbrella": {
+    "hex_list": [
+      "1f302"
+    ],
+    "symbols": "🌂"
+  },
+  "cloud": {
+    "hex_list": [
+      "2601"
+    ],
+    "symbols": "☁"
+  },
+  "cloud_with_lightning": {
+    "hex_list": [
+      "1f329"
+    ],
+    "symbols": "🌩"
+  },
+  "cloud_with_lightning_and_rain": {
+    "hex_list": [
+      "26c8"
+    ],
+    "symbols": "⛈"
+  },
+  "cloud_with_rain": {
+    "hex_list": [
+      "1f327"
+    ],
+    "symbols": "🌧"
+  },
+  "cloud_with_snow": {
+    "hex_list": [
+      "1f328"
+    ],
+    "symbols": "🌨"
+  },
+  "clown_face": {
+    "hex_list": [
+      "1f921"
+    ],
+    "symbols": "🤡"
+  },
+  "clubs": {
+    "hex_list": [
+      "2663"
+    ],
+    "symbols": "♣"
+  },
+  "cn": {
+    "hex_list": [
+      "1f1e8",
+      "1f1f3"
+    ],
+    "symbols": "🇨🇳"
+  },
+  "coat": {
+    "hex_list": [
+      "1f9e5"
+    ],
+    "symbols": "🧥"
+  },
+  "cocktail": {
+    "hex_list": [
+      "1f378"
+    ],
+    "symbols": "🍸"
+  },
+  "coconut": {
+    "hex_list": [
+      "1f965"
+    ],
+    "symbols": "🥥"
+  },
+  "cocos_islands": {
+    "hex_list": [
+      "1f1e8",
+      "1f1e8"
+    ],
+    "symbols": "🇨🇨"
+  },
+  "coffee": {
+    "hex_list": [
+      "2615"
+    ],
+    "symbols": "☕"
+  },
+  "coffin": {
+    "hex_list": [
+      "26b0"
+    ],
+    "symbols": "⚰"
+  },
+  "cold_face": {
+    "hex_list": [
+      "1f976"
+    ],
+    "symbols": "🥶"
+  },
+  "cold_sweat": {
+    "hex_list": [
+      "1f630"
+    ],
+    "symbols": "😰"
+  },
+  "collision": {
+    "hex_list": [
+      "1f4a5"
+    ],
+    "symbols": "💥"
+  },
+  "colombia": {
+    "hex_list": [
+      "1f1e8",
+      "1f1f4"
+    ],
+    "symbols": "🇨🇴"
+  },
+  "comet": {
+    "hex_list": [
+      "2604"
+    ],
+    "symbols": "☄"
+  },
+  "comoros": {
+    "hex_list": [
+      "1f1f0",
+      "1f1f2"
+    ],
+    "symbols": "🇰🇲"
+  },
+  "compass": {
+    "hex_list": [
+      "1f9ed"
+    ],
+    "symbols": "🧭"
+  },
+  "computer": {
+    "hex_list": [
+      "1f4bb"
+    ],
+    "symbols": "💻"
+  },
+  "computer_mouse": {
+    "hex_list": [
+      "1f5b1"
+    ],
+    "symbols": "🖱"
+  },
+  "confetti_ball": {
+    "hex_list": [
+      "1f38a"
+    ],
+    "symbols": "🎊"
+  },
+  "confounded": {
+    "hex_list": [
+      "1f616"
+    ],
+    "symbols": "😖"
+  },
+  "confused": {
+    "hex_list": [
+      "1f615"
+    ],
+    "symbols": "😕"
+  },
+  "congo_brazzaville": {
+    "hex_list": [
+      "1f1e8",
+      "1f1ec"
+    ],
+    "symbols": "🇨🇬"
+  },
+  "congo_kinshasa": {
+    "hex_list": [
+      "1f1e8",
+      "1f1e9"
+    ],
+    "symbols": "🇨🇩"
+  },
+  "congratulations": {
+    "hex_list": [
+      "3297"
+    ],
+    "symbols": "㊗"
+  },
+  "construction": {
+    "hex_list": [
+      "1f6a7"
+    ],
+    "symbols": "🚧"
+  },
+  "construction_worker": {
+    "hex_list": [
+      "1f477"
+    ],
+    "symbols": "👷"
+  },
+  "construction_worker_man": {
+    "hex_list": [
+      "1f477",
+      "2642"
+    ],
+    "symbols": "👷♂"
+  },
+  "construction_worker_woman": {
+    "hex_list": [
+      "1f477",
+      "2640"
+    ],
+    "symbols": "👷♀"
+  },
+  "control_knobs": {
+    "hex_list": [
+      "1f39b"
+    ],
+    "symbols": "🎛"
+  },
+  "convenience_store": {
+    "hex_list": [
+      "1f3ea"
+    ],
+    "symbols": "🏪"
+  },
+  "cook": {
+    "hex_list": [
+      "1f9d1",
+      "1f373"
+    ],
+    "symbols": "🧑🍳"
+  },
+  "cook_islands": {
+    "hex_list": [
+      "1f1e8",
+      "1f1f0"
+    ],
+    "symbols": "🇨🇰"
+  },
+  "cookie": {
+    "hex_list": [
+      "1f36a"
+    ],
+    "symbols": "🍪"
+  },
+  "cool": {
+    "hex_list": [
+      "1f192"
+    ],
+    "symbols": "🆒"
+  },
+  "cop": {
+    "hex_list": [
+      "1f46e"
+    ],
+    "symbols": "👮"
+  },
+  "copyright": {
+    "hex_list": [
+      "00a9"
+    ],
+    "symbols": "©"
+  },
+  "corn": {
+    "hex_list": [
+      "1f33d"
+    ],
+    "symbols": "🌽"
+  },
+  "costa_rica": {
+    "hex_list": [
+      "1f1e8",
+      "1f1f7"
+    ],
+    "symbols": "🇨🇷"
+  },
+  "cote_divoire": {
+    "hex_list": [
+      "1f1e8",
+      "1f1ee"
+    ],
+    "symbols": "🇨🇮"
+  },
+  "couch_and_lamp": {
+    "hex_list": [
+      "1f6cb"
+    ],
+    "symbols": "🛋"
+  },
+  "couple": {
+    "hex_list": [
+      "1f46b"
+    ],
+    "symbols": "👫"
+  },
+  "couple_with_heart": {
+    "hex_list": [
+      "1f491"
+    ],
+    "symbols": "💑"
+  },
+  "couple_with_heart_man_man": {
+    "hex_list": [
+      "1f468",
+      "2764",
+      "1f468"
+    ],
+    "symbols": "👨❤👨"
+  },
+  "couple_with_heart_woman_man": {
+    "hex_list": [
+      "1f469",
+      "2764",
+      "1f468"
+    ],
+    "symbols": "👩❤👨"
+  },
+  "couple_with_heart_woman_woman": {
+    "hex_list": [
+      "1f469",
+      "2764",
+      "1f469"
+    ],
+    "symbols": "👩❤👩"
+  },
+  "couplekiss": {
+    "hex_list": [
+      "1f48f"
+    ],
+    "symbols": "💏"
+  },
+  "couplekiss_man_man": {
+    "hex_list": [
+      "1f468",
+      "2764",
+      "1f48b",
+      "1f468"
+    ],
+    "symbols": "👨❤💋👨"
+  },
+  "couplekiss_man_woman": {
+    "hex_list": [
+      "1f469",
+      "2764",
+      "1f48b",
+      "1f468"
+    ],
+    "symbols": "👩❤💋👨"
+  },
+  "couplekiss_woman_woman": {
+    "hex_list": [
+      "1f469",
+      "2764",
+      "1f48b",
+      "1f469"
+    ],
+    "symbols": "👩❤💋👩"
+  },
+  "cow": {
+    "hex_list": [
+      "1f42e"
+    ],
+    "symbols": "🐮"
+  },
+  "cow2": {
+    "hex_list": [
+      "1f404"
+    ],
+    "symbols": "🐄"
+  },
+  "cowboy_hat_face": {
+    "hex_list": [
+      "1f920"
+    ],
+    "symbols": "🤠"
+  },
+  "crab": {
+    "hex_list": [
+      "1f980"
+    ],
+    "symbols": "🦀"
+  },
+  "crayon": {
+    "hex_list": [
+      "1f58d"
+    ],
+    "symbols": "🖍"
+  },
+  "credit_card": {
+    "hex_list": [
+      "1f4b3"
+    ],
+    "symbols": "💳"
+  },
+  "crescent_moon": {
+    "hex_list": [
+      "1f319"
+    ],
+    "symbols": "🌙"
+  },
+  "cricket": {
+    "hex_list": [
+      "1f997"
+    ],
+    "symbols": "🦗"
+  },
+  "cricket_game": {
+    "hex_list": [
+      "1f3cf"
+    ],
+    "symbols": "🏏"
+  },
+  "croatia": {
+    "hex_list": [
+      "1f1ed",
+      "1f1f7"
+    ],
+    "symbols": "🇭🇷"
+  },
+  "crocodile": {
+    "hex_list": [
+      "1f40a"
+    ],
+    "symbols": "🐊"
+  },
+  "croissant": {
+    "hex_list": [
+      "1f950"
+    ],
+    "symbols": "🥐"
+  },
+  "crossed_fingers": {
+    "hex_list": [
+      "1f91e"
+    ],
+    "symbols": "🤞"
+  },
+  "crossed_flags": {
+    "hex_list": [
+      "1f38c"
+    ],
+    "symbols": "🎌"
+  },
+  "crossed_swords": {
+    "hex_list": [
+      "2694"
+    ],
+    "symbols": "⚔"
+  },
+  "crown": {
+    "hex_list": [
+      "1f451"
+    ],
+    "symbols": "👑"
+  },
+  "cry": {
+    "hex_list": [
+      "1f622"
+    ],
+    "symbols": "😢"
+  },
+  "crying_cat_face": {
+    "hex_list": [
+      "1f63f"
+    ],
+    "symbols": "😿"
+  },
+  "crystal_ball": {
+    "hex_list": [
+      "1f52e"
+    ],
+    "symbols": "🔮"
+  },
+  "cuba": {
+    "hex_list": [
+      "1f1e8",
+      "1f1fa"
+    ],
+    "symbols": "🇨🇺"
+  },
+  "cucumber": {
+    "hex_list": [
+      "1f952"
+    ],
+    "symbols": "🥒"
+  },
+  "cup_with_straw": {
+    "hex_list": [
+      "1f964"
+    ],
+    "symbols": "🥤"
+  },
+  "cupcake": {
+    "hex_list": [
+      "1f9c1"
+    ],
+    "symbols": "🧁"
+  },
+  "cupid": {
+    "hex_list": [
+      "1f498"
+    ],
+    "symbols": "💘"
+  },
+  "curacao": {
+    "hex_list": [
+      "1f1e8",
+      "1f1fc"
+    ],
+    "symbols": "🇨🇼"
+  },
+  "curling_stone": {
+    "hex_list": [
+      "1f94c"
+    ],
+    "symbols": "🥌"
+  },
+  "curly_haired_man": {
+    "hex_list": [
+      "1f468",
+      "1f9b1"
+    ],
+    "symbols": "👨🦱"
+  },
+  "curly_haired_woman": {
+    "hex_list": [
+      "1f469",
+      "1f9b1"
+    ],
+    "symbols": "👩🦱"
+  },
+  "curly_loop": {
+    "hex_list": [
+      "27b0"
+    ],
+    "symbols": "➰"
+  },
+  "currency_exchange": {
+    "hex_list": [
+      "1f4b1"
+    ],
+    "symbols": "💱"
+  },
+  "curry": {
+    "hex_list": [
+      "1f35b"
+    ],
+    "symbols": "🍛"
+  },
+  "cursing_face": {
+    "hex_list": [
+      "1f92c"
+    ],
+    "symbols": "🤬"
+  },
+  "custard": {
+    "hex_list": [
+      "1f36e"
+    ],
+    "symbols": "🍮"
+  },
+  "customs": {
+    "hex_list": [
+      "1f6c3"
+    ],
+    "symbols": "🛃"
+  },
+  "cut_of_meat": {
+    "hex_list": [
+      "1f969"
+    ],
+    "symbols": "🥩"
+  },
+  "cyclone": {
+    "hex_list": [
+      "1f300"
+    ],
+    "symbols": "🌀"
+  },
+  "cyprus": {
+    "hex_list": [
+      "1f1e8",
+      "1f1fe"
+    ],
+    "symbols": "🇨🇾"
+  },
+  "czech_republic": {
+    "hex_list": [
+      "1f1e8",
+      "1f1ff"
+    ],
+    "symbols": "🇨🇿"
+  },
+  "dagger": {
+    "hex_list": [
+      "1f5e1"
+    ],
+    "symbols": "🗡"
+  },
+  "dancer": {
+    "hex_list": [
+      "1f483"
+    ],
+    "symbols": "💃"
+  },
+  "dancers": {
+    "hex_list": [
+      "1f46f"
+    ],
+    "symbols": "👯"
+  },
+  "dancing_men": {
+    "hex_list": [
+      "1f46f",
+      "2642"
+    ],
+    "symbols": "👯♂"
+  },
+  "dancing_women": {
+    "hex_list": [
+      "1f46f",
+      "2640"
+    ],
+    "symbols": "👯♀"
+  },
+  "dango": {
+    "hex_list": [
+      "1f361"
+    ],
+    "symbols": "🍡"
+  },
+  "dark_sunglasses": {
+    "hex_list": [
+      "1f576"
+    ],
+    "symbols": "🕶"
+  },
+  "dart": {
+    "hex_list": [
+      "1f3af"
+    ],
+    "symbols": "🎯"
+  },
+  "dash": {
+    "hex_list": [
+      "1f4a8"
+    ],
+    "symbols": "💨"
+  },
+  "date": {
+    "hex_list": [
+      "1f4c5"
+    ],
+    "symbols": "📅"
+  },
+  "de": {
+    "hex_list": [
+      "1f1e9",
+      "1f1ea"
+    ],
+    "symbols": "🇩🇪"
+  },
+  "deaf_man": {
+    "hex_list": [
+      "1f9cf",
+      "2642"
+    ],
+    "symbols": "🧏♂"
+  },
+  "deaf_person": {
+    "hex_list": [
+      "1f9cf"
+    ],
+    "symbols": "🧏"
+  },
+  "deaf_woman": {
+    "hex_list": [
+      "1f9cf",
+      "2640"
+    ],
+    "symbols": "🧏♀"
+  },
+  "deciduous_tree": {
+    "hex_list": [
+      "1f333"
+    ],
+    "symbols": "🌳"
+  },
+  "deer": {
+    "hex_list": [
+      "1f98c"
+    ],
+    "symbols": "🦌"
+  },
+  "denmark": {
+    "hex_list": [
+      "1f1e9",
+      "1f1f0"
+    ],
+    "symbols": "🇩🇰"
+  },
+  "department_store": {
+    "hex_list": [
+      "1f3ec"
+    ],
+    "symbols": "🏬"
+  },
+  "derelict_house": {
+    "hex_list": [
+      "1f3da"
+    ],
+    "symbols": "🏚"
+  },
+  "desert": {
+    "hex_list": [
+      "1f3dc"
+    ],
+    "symbols": "🏜"
+  },
+  "desert_island": {
+    "hex_list": [
+      "1f3dd"
+    ],
+    "symbols": "🏝"
+  },
+  "desktop_computer": {
+    "hex_list": [
+      "1f5a5"
+    ],
+    "symbols": "🖥"
+  },
+  "detective": {
+    "hex_list": [
+      "1f575"
+    ],
+    "symbols": "🕵"
+  },
+  "diamond_shape_with_a_dot_inside": {
+    "hex_list": [
+      "1f4a0"
+    ],
+    "symbols": "💠"
+  },
+  "diamonds": {
+    "hex_list": [
+      "2666"
+    ],
+    "symbols": "♦"
+  },
+  "diego_garcia": {
+    "hex_list": [
+      "1f1e9",
+      "1f1ec"
+    ],
+    "symbols": "🇩🇬"
+  },
+  "disappointed": {
+    "hex_list": [
+      "1f61e"
+    ],
+    "symbols": "😞"
+  },
+  "disappointed_relieved": {
+    "hex_list": [
+      "1f625"
+    ],
+    "symbols": "😥"
+  },
+  "diving_mask": {
+    "hex_list": [
+      "1f93f"
+    ],
+    "symbols": "🤿"
+  },
+  "diya_lamp": {
+    "hex_list": [
+      "1fa94"
+    ],
+    "symbols": "🪔"
+  },
+  "dizzy": {
+    "hex_list": [
+      "1f4ab"
+    ],
+    "symbols": "💫"
+  },
+  "dizzy_face": {
+    "hex_list": [
+      "1f635"
+    ],
+    "symbols": "😵"
+  },
+  "djibouti": {
+    "hex_list": [
+      "1f1e9",
+      "1f1ef"
+    ],
+    "symbols": "🇩🇯"
+  },
+  "dna": {
+    "hex_list": [
+      "1f9ec"
+    ],
+    "symbols": "🧬"
+  },
+  "do_not_litter": {
+    "hex_list": [
+      "1f6af"
+    ],
+    "symbols": "🚯"
+  },
+  "dog": {
+    "hex_list": [
+      "1f436"
+    ],
+    "symbols": "🐶"
+  },
+  "dog2": {
+    "hex_list": [
+      "1f415"
+    ],
+    "symbols": "🐕"
+  },
+  "dollar": {
+    "hex_list": [
+      "1f4b5"
+    ],
+    "symbols": "💵"
+  },
+  "dolls": {
+    "hex_list": [
+      "1f38e"
+    ],
+    "symbols": "🎎"
+  },
+  "dolphin": {
+    "hex_list": [
+      "1f42c"
+    ],
+    "symbols": "🐬"
+  },
+  "dominica": {
+    "hex_list": [
+      "1f1e9",
+      "1f1f2"
+    ],
+    "symbols": "🇩🇲"
+  },
+  "dominican_republic": {
+    "hex_list": [
+      "1f1e9",
+      "1f1f4"
+    ],
+    "symbols": "🇩🇴"
+  },
+  "door": {
+    "hex_list": [
+      "1f6aa"
+    ],
+    "symbols": "🚪"
+  },
+  "doughnut": {
+    "hex_list": [
+      "1f369"
+    ],
+    "symbols": "🍩"
+  },
+  "dove": {
+    "hex_list": [
+      "1f54a"
+    ],
+    "symbols": "🕊"
+  },
+  "dragon": {
+    "hex_list": [
+      "1f409"
+    ],
+    "symbols": "🐉"
+  },
+  "dragon_face": {
+    "hex_list": [
+      "1f432"
+    ],
+    "symbols": "🐲"
+  },
+  "dress": {
+    "hex_list": [
+      "1f457"
+    ],
+    "symbols": "👗"
+  },
+  "dromedary_camel": {
+    "hex_list": [
+      "1f42a"
+    ],
+    "symbols": "🐪"
+  },
+  "drooling_face": {
+    "hex_list": [
+      "1f924"
+    ],
+    "symbols": "🤤"
+  },
+  "drop_of_blood": {
+    "hex_list": [
+      "1fa78"
+    ],
+    "symbols": "🩸"
+  },
+  "droplet": {
+    "hex_list": [
+      "1f4a7"
+    ],
+    "symbols": "💧"
+  },
+  "drum": {
+    "hex_list": [
+      "1f941"
+    ],
+    "symbols": "🥁"
+  },
+  "duck": {
+    "hex_list": [
+      "1f986"
+    ],
+    "symbols": "🦆"
+  },
+  "dumpling": {
+    "hex_list": [
+      "1f95f"
+    ],
+    "symbols": "🥟"
+  },
+  "dvd": {
+    "hex_list": [
+      "1f4c0"
+    ],
+    "symbols": "📀"
+  },
+  "e-mail": {
+    "hex_list": [
+      "1f4e7"
+    ],
+    "symbols": "📧"
+  },
+  "eagle": {
+    "hex_list": [
+      "1f985"
+    ],
+    "symbols": "🦅"
+  },
+  "ear": {
+    "hex_list": [
+      "1f442"
+    ],
+    "symbols": "👂"
+  },
+  "ear_of_rice": {
+    "hex_list": [
+      "1f33e"
+    ],
+    "symbols": "🌾"
+  },
+  "ear_with_hearing_aid": {
+    "hex_list": [
+      "1f9bb"
+    ],
+    "symbols": "🦻"
+  },
+  "earth_africa": {
+    "hex_list": [
+      "1f30d"
+    ],
+    "symbols": "🌍"
+  },
+  "earth_americas": {
+    "hex_list": [
+      "1f30e"
+    ],
+    "symbols": "🌎"
+  },
+  "earth_asia": {
+    "hex_list": [
+      "1f30f"
+    ],
+    "symbols": "🌏"
+  },
+  "ecuador": {
+    "hex_list": [
+      "1f1ea",
+      "1f1e8"
+    ],
+    "symbols": "🇪🇨"
+  },
+  "egg": {
+    "hex_list": [
+      "1f95a"
+    ],
+    "symbols": "🥚"
+  },
+  "eggplant": {
+    "hex_list": [
+      "1f346"
+    ],
+    "symbols": "🍆"
+  },
+  "egypt": {
+    "hex_list": [
+      "1f1ea",
+      "1f1ec"
+    ],
+    "symbols": "🇪🇬"
+  },
+  "eight": {
+    "hex_list": [
+      "0038",
+      "20e3"
+    ],
+    "symbols": "8⃣"
+  },
+  "eight_pointed_black_star": {
+    "hex_list": [
+      "2734"
+    ],
+    "symbols": "✴"
+  },
+  "eight_spoked_asterisk": {
+    "hex_list": [
+      "2733"
+    ],
+    "symbols": "✳"
+  },
+  "eject_button": {
+    "hex_list": [
+      "23cf"
+    ],
+    "symbols": "⏏"
+  },
+  "el_salvador": {
+    "hex_list": [
+      "1f1f8",
+      "1f1fb"
+    ],
+    "symbols": "🇸🇻"
+  },
+  "electric_plug": {
+    "hex_list": [
+      "1f50c"
+    ],
+    "symbols": "🔌"
+  },
+  "elephant": {
+    "hex_list": [
+      "1f418"
+    ],
+    "symbols": "🐘"
+  },
+  "elf": {
+    "hex_list": [
+      "1f9dd"
+    ],
+    "symbols": "🧝"
+  },
+  "elf_man": {
+    "hex_list": [
+      "1f9dd",
+      "2642"
+    ],
+    "symbols": "🧝♂"
+  },
+  "elf_woman": {
+    "hex_list": [
+      "1f9dd",
+      "2640"
+    ],
+    "symbols": "🧝♀"
+  },
+  "email": {
+    "hex_list": [
+      "2709"
+    ],
+    "symbols": "✉"
+  },
+  "end": {
+    "hex_list": [
+      "1f51a"
+    ],
+    "symbols": "🔚"
+  },
+  "england": {
+    "hex_list": [
+      "1f3f4",
+      "e0067",
+      "e0062",
+      "e0065",
+      "e006e",
+      "e0067",
+      "e007f"
+    ],
+    "symbols": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  "envelope": {
+    "hex_list": [
+      "2709"
+    ],
+    "symbols": "✉"
+  },
+  "envelope_with_arrow": {
+    "hex_list": [
+      "1f4e9"
+    ],
+    "symbols": "📩"
+  },
+  "equatorial_guinea": {
+    "hex_list": [
+      "1f1ec",
+      "1f1f6"
+    ],
+    "symbols": "🇬🇶"
+  },
+  "eritrea": {
+    "hex_list": [
+      "1f1ea",
+      "1f1f7"
+    ],
+    "symbols": "🇪🇷"
+  },
+  "es": {
+    "hex_list": [
+      "1f1ea",
+      "1f1f8"
+    ],
+    "symbols": "🇪🇸"
+  },
+  "estonia": {
+    "hex_list": [
+      "1f1ea",
+      "1f1ea"
+    ],
+    "symbols": "🇪🇪"
+  },
+  "ethiopia": {
+    "hex_list": [
+      "1f1ea",
+      "1f1f9"
+    ],
+    "symbols": "🇪🇹"
+  },
+  "eu": {
+    "hex_list": [
+      "1f1ea",
+      "1f1fa"
+    ],
+    "symbols": "🇪🇺"
+  },
+  "euro": {
+    "hex_list": [
+      "1f4b6"
+    ],
+    "symbols": "💶"
+  },
+  "european_castle": {
+    "hex_list": [
+      "1f3f0"
+    ],
+    "symbols": "🏰"
+  },
+  "european_post_office": {
+    "hex_list": [
+      "1f3e4"
+    ],
+    "symbols": "🏤"
+  },
+  "european_union": {
+    "hex_list": [
+      "1f1ea",
+      "1f1fa"
+    ],
+    "symbols": "🇪🇺"
+  },
+  "evergreen_tree": {
+    "hex_list": [
+      "1f332"
+    ],
+    "symbols": "🌲"
+  },
+  "exclamation": {
+    "hex_list": [
+      "2757"
+    ],
+    "symbols": "❗"
+  },
+  "exploding_head": {
+    "hex_list": [
+      "1f92f"
+    ],
+    "symbols": "🤯"
+  },
+  "expressionless": {
+    "hex_list": [
+      "1f611"
+    ],
+    "symbols": "😑"
+  },
+  "eye": {
+    "hex_list": [
+      "1f441"
+    ],
+    "symbols": "👁"
+  },
+  "eye_speech_bubble": {
+    "hex_list": [
+      "1f441",
+      "1f5e8"
+    ],
+    "symbols": "👁🗨"
+  },
+  "eyeglasses": {
+    "hex_list": [
+      "1f453"
+    ],
+    "symbols": "👓"
+  },
+  "eyes": {
+    "hex_list": [
+      "1f440"
+    ],
+    "symbols": "👀"
+  },
+  "face_with_head_bandage": {
+    "hex_list": [
+      "1f915"
+    ],
+    "symbols": "🤕"
+  },
+  "face_with_thermometer": {
+    "hex_list": [
+      "1f912"
+    ],
+    "symbols": "🤒"
+  },
+  "facepalm": {
+    "hex_list": [
+      "1f926"
+    ],
+    "symbols": "🤦"
+  },
+  "facepunch": {
+    "hex_list": [
+      "1f44a"
+    ],
+    "symbols": "👊"
+  },
+  "factory": {
+    "hex_list": [
+      "1f3ed"
+    ],
+    "symbols": "🏭"
+  },
+  "factory_worker": {
+    "hex_list": [
+      "1f9d1",
+      "1f3ed"
+    ],
+    "symbols": "🧑🏭"
+  },
+  "fairy": {
+    "hex_list": [
+      "1f9da"
+    ],
+    "symbols": "🧚"
+  },
+  "fairy_man": {
+    "hex_list": [
+      "1f9da",
+      "2642"
+    ],
+    "symbols": "🧚♂"
+  },
+  "fairy_woman": {
+    "hex_list": [
+      "1f9da",
+      "2640"
+    ],
+    "symbols": "🧚♀"
+  },
+  "falafel": {
+    "hex_list": [
+      "1f9c6"
+    ],
+    "symbols": "🧆"
+  },
+  "falkland_islands": {
+    "hex_list": [
+      "1f1eb",
+      "1f1f0"
+    ],
+    "symbols": "🇫🇰"
+  },
+  "fallen_leaf": {
+    "hex_list": [
+      "1f342"
+    ],
+    "symbols": "🍂"
+  },
+  "family": {
+    "hex_list": [
+      "1f46a"
+    ],
+    "symbols": "👪"
+  },
+  "family_man_boy": {
+    "hex_list": [
+      "1f468",
+      "1f466"
+    ],
+    "symbols": "👨👦"
+  },
+  "family_man_boy_boy": {
+    "hex_list": [
+      "1f468",
+      "1f466",
+      "1f466"
+    ],
+    "symbols": "👨👦👦"
+  },
+  "family_man_girl": {
+    "hex_list": [
+      "1f468",
+      "1f467"
+    ],
+    "symbols": "👨👧"
+  },
+  "family_man_girl_boy": {
+    "hex_list": [
+      "1f468",
+      "1f467",
+      "1f466"
+    ],
+    "symbols": "👨👧👦"
+  },
+  "family_man_girl_girl": {
+    "hex_list": [
+      "1f468",
+      "1f467",
+      "1f467"
+    ],
+    "symbols": "👨👧👧"
+  },
+  "family_man_man_boy": {
+    "hex_list": [
+      "1f468",
+      "1f468",
+      "1f466"
+    ],
+    "symbols": "👨👨👦"
+  },
+  "family_man_man_boy_boy": {
+    "hex_list": [
+      "1f468",
+      "1f468",
+      "1f466",
+      "1f466"
+    ],
+    "symbols": "👨👨👦👦"
+  },
+  "family_man_man_girl": {
+    "hex_list": [
+      "1f468",
+      "1f468",
+      "1f467"
+    ],
+    "symbols": "👨👨👧"
+  },
+  "family_man_man_girl_boy": {
+    "hex_list": [
+      "1f468",
+      "1f468",
+      "1f467",
+      "1f466"
+    ],
+    "symbols": "👨👨👧👦"
+  },
+  "family_man_man_girl_girl": {
+    "hex_list": [
+      "1f468",
+      "1f468",
+      "1f467",
+      "1f467"
+    ],
+    "symbols": "👨👨👧👧"
+  },
+  "family_man_woman_boy": {
+    "hex_list": [
+      "1f468",
+      "1f469",
+      "1f466"
+    ],
+    "symbols": "👨👩👦"
+  },
+  "family_man_woman_boy_boy": {
+    "hex_list": [
+      "1f468",
+      "1f469",
+      "1f466",
+      "1f466"
+    ],
+    "symbols": "👨👩👦👦"
+  },
+  "family_man_woman_girl": {
+    "hex_list": [
+      "1f468",
+      "1f469",
+      "1f467"
+    ],
+    "symbols": "👨👩👧"
+  },
+  "family_man_woman_girl_boy": {
+    "hex_list": [
+      "1f468",
+      "1f469",
+      "1f467",
+      "1f466"
+    ],
+    "symbols": "👨👩👧👦"
+  },
+  "family_man_woman_girl_girl": {
+    "hex_list": [
+      "1f468",
+      "1f469",
+      "1f467",
+      "1f467"
+    ],
+    "symbols": "👨👩👧👧"
+  },
+  "family_woman_boy": {
+    "hex_list": [
+      "1f469",
+      "1f466"
+    ],
+    "symbols": "👩👦"
+  },
+  "family_woman_boy_boy": {
+    "hex_list": [
+      "1f469",
+      "1f466",
+      "1f466"
+    ],
+    "symbols": "👩👦👦"
+  },
+  "family_woman_girl": {
+    "hex_list": [
+      "1f469",
+      "1f467"
+    ],
+    "symbols": "👩👧"
+  },
+  "family_woman_girl_boy": {
+    "hex_list": [
+      "1f469",
+      "1f467",
+      "1f466"
+    ],
+    "symbols": "👩👧👦"
+  },
+  "family_woman_girl_girl": {
+    "hex_list": [
+      "1f469",
+      "1f467",
+      "1f467"
+    ],
+    "symbols": "👩👧👧"
+  },
+  "family_woman_woman_boy": {
+    "hex_list": [
+      "1f469",
+      "1f469",
+      "1f466"
+    ],
+    "symbols": "👩👩👦"
+  },
+  "family_woman_woman_boy_boy": {
+    "hex_list": [
+      "1f469",
+      "1f469",
+      "1f466",
+      "1f466"
+    ],
+    "symbols": "👩👩👦👦"
+  },
+  "family_woman_woman_girl": {
+    "hex_list": [
+      "1f469",
+      "1f469",
+      "1f467"
+    ],
+    "symbols": "👩👩👧"
+  },
+  "family_woman_woman_girl_boy": {
+    "hex_list": [
+      "1f469",
+      "1f469",
+      "1f467",
+      "1f466"
+    ],
+    "symbols": "👩👩👧👦"
+  },
+  "family_woman_woman_girl_girl": {
+    "hex_list": [
+      "1f469",
+      "1f469",
+      "1f467",
+      "1f467"
+    ],
+    "symbols": "👩👩👧👧"
+  },
+  "farmer": {
+    "hex_list": [
+      "1f9d1",
+      "1f33e"
+    ],
+    "symbols": "🧑🌾"
+  },
+  "faroe_islands": {
+    "hex_list": [
+      "1f1eb",
+      "1f1f4"
+    ],
+    "symbols": "🇫🇴"
+  },
+  "fast_forward": {
+    "hex_list": [
+      "23e9"
+    ],
+    "symbols": "⏩"
+  },
+  "fax": {
+    "hex_list": [
+      "1f4e0"
+    ],
+    "symbols": "📠"
+  },
+  "fearful": {
+    "hex_list": [
+      "1f628"
+    ],
+    "symbols": "😨"
+  },
+  "feet": {
+    "hex_list": [
+      "1f43e"
+    ],
+    "symbols": "🐾"
+  },
+  "female_detective": {
+    "hex_list": [
+      "1f575",
+      "2640"
+    ],
+    "symbols": "🕵♀"
+  },
+  "female_sign": {
+    "hex_list": [
+      "2640"
+    ],
+    "symbols": "♀"
+  },
+  "ferris_wheel": {
+    "hex_list": [
+      "1f3a1"
+    ],
+    "symbols": "🎡"
+  },
+  "ferry": {
+    "hex_list": [
+      "26f4"
+    ],
+    "symbols": "⛴"
+  },
+  "field_hockey": {
+    "hex_list": [
+      "1f3d1"
+    ],
+    "symbols": "🏑"
+  },
+  "fiji": {
+    "hex_list": [
+      "1f1eb",
+      "1f1ef"
+    ],
+    "symbols": "🇫🇯"
+  },
+  "file_cabinet": {
+    "hex_list": [
+      "1f5c4"
+    ],
+    "symbols": "🗄"
+  },
+  "file_folder": {
+    "hex_list": [
+      "1f4c1"
+    ],
+    "symbols": "📁"
+  },
+  "film_projector": {
+    "hex_list": [
+      "1f4fd"
+    ],
+    "symbols": "📽"
+  },
+  "film_strip": {
+    "hex_list": [
+      "1f39e"
+    ],
+    "symbols": "🎞"
+  },
+  "finland": {
+    "hex_list": [
+      "1f1eb",
+      "1f1ee"
+    ],
+    "symbols": "🇫🇮"
+  },
+  "fire": {
+    "hex_list": [
+      "1f525"
+    ],
+    "symbols": "🔥"
+  },
+  "fire_engine": {
+    "hex_list": [
+      "1f692"
+    ],
+    "symbols": "🚒"
+  },
+  "fire_extinguisher": {
+    "hex_list": [
+      "1f9ef"
+    ],
+    "symbols": "🧯"
+  },
+  "firecracker": {
+    "hex_list": [
+      "1f9e8"
+    ],
+    "symbols": "🧨"
+  },
+  "firefighter": {
+    "hex_list": [
+      "1f9d1",
+      "1f692"
+    ],
+    "symbols": "🧑🚒"
+  },
+  "fireworks": {
+    "hex_list": [
+      "1f386"
+    ],
+    "symbols": "🎆"
+  },
+  "first_quarter_moon": {
+    "hex_list": [
+      "1f313"
+    ],
+    "symbols": "🌓"
+  },
+  "first_quarter_moon_with_face": {
+    "hex_list": [
+      "1f31b"
+    ],
+    "symbols": "🌛"
+  },
+  "fish": {
+    "hex_list": [
+      "1f41f"
+    ],
+    "symbols": "🐟"
+  },
+  "fish_cake": {
+    "hex_list": [
+      "1f365"
+    ],
+    "symbols": "🍥"
+  },
+  "fishing_pole_and_fish": {
+    "hex_list": [
+      "1f3a3"
+    ],
+    "symbols": "🎣"
+  },
+  "fist": {
+    "hex_list": [
+      "270a"
+    ],
+    "symbols": "✊"
+  },
+  "fist_left": {
+    "hex_list": [
+      "1f91b"
+    ],
+    "symbols": "🤛"
+  },
+  "fist_oncoming": {
+    "hex_list": [
+      "1f44a"
+    ],
+    "symbols": "👊"
+  },
+  "fist_raised": {
+    "hex_list": [
+      "270a"
+    ],
+    "symbols": "✊"
+  },
+  "fist_right": {
+    "hex_list": [
+      "1f91c"
+    ],
+    "symbols": "🤜"
+  },
+  "five": {
+    "hex_list": [
+      "0035",
+      "20e3"
+    ],
+    "symbols": "5⃣"
+  },
+  "flags": {
+    "hex_list": [
+      "1f38f"
+    ],
+    "symbols": "🎏"
+  },
+  "flamingo": {
+    "hex_list": [
+      "1f9a9"
+    ],
+    "symbols": "🦩"
+  },
+  "flashlight": {
+    "hex_list": [
+      "1f526"
+    ],
+    "symbols": "🔦"
+  },
+  "flat_shoe": {
+    "hex_list": [
+      "1f97f"
+    ],
+    "symbols": "🥿"
+  },
+  "fleur_de_lis": {
+    "hex_list": [
+      "269c"
+    ],
+    "symbols": "⚜"
+  },
+  "flight_arrival": {
+    "hex_list": [
+      "1f6ec"
+    ],
+    "symbols": "🛬"
+  },
+  "flight_departure": {
+    "hex_list": [
+      "1f6eb"
+    ],
+    "symbols": "🛫"
+  },
+  "flipper": {
+    "hex_list": [
+      "1f42c"
+    ],
+    "symbols": "🐬"
+  },
+  "floppy_disk": {
+    "hex_list": [
+      "1f4be"
+    ],
+    "symbols": "💾"
+  },
+  "flower_playing_cards": {
+    "hex_list": [
+      "1f3b4"
+    ],
+    "symbols": "🎴"
+  },
+  "flushed": {
+    "hex_list": [
+      "1f633"
+    ],
+    "symbols": "😳"
+  },
+  "flying_disc": {
+    "hex_list": [
+      "1f94f"
+    ],
+    "symbols": "🥏"
+  },
+  "flying_saucer": {
+    "hex_list": [
+      "1f6f8"
+    ],
+    "symbols": "🛸"
+  },
+  "fog": {
+    "hex_list": [
+      "1f32b"
+    ],
+    "symbols": "🌫"
+  },
+  "foggy": {
+    "hex_list": [
+      "1f301"
+    ],
+    "symbols": "🌁"
+  },
+  "foot": {
+    "hex_list": [
+      "1f9b6"
+    ],
+    "symbols": "🦶"
+  },
+  "football": {
+    "hex_list": [
+      "1f3c8"
+    ],
+    "symbols": "🏈"
+  },
+  "footprints": {
+    "hex_list": [
+      "1f463"
+    ],
+    "symbols": "👣"
+  },
+  "fork_and_knife": {
+    "hex_list": [
+      "1f374"
+    ],
+    "symbols": "🍴"
+  },
+  "fortune_cookie": {
+    "hex_list": [
+      "1f960"
+    ],
+    "symbols": "🥠"
+  },
+  "fountain": {
+    "hex_list": [
+      "26f2"
+    ],
+    "symbols": "⛲"
+  },
+  "fountain_pen": {
+    "hex_list": [
+      "1f58b"
+    ],
+    "symbols": "🖋"
+  },
+  "four": {
+    "hex_list": [
+      "0034",
+      "20e3"
+    ],
+    "symbols": "4⃣"
+  },
+  "four_leaf_clover": {
+    "hex_list": [
+      "1f340"
+    ],
+    "symbols": "🍀"
+  },
+  "fox_face": {
+    "hex_list": [
+      "1f98a"
+    ],
+    "symbols": "🦊"
+  },
+  "fr": {
+    "hex_list": [
+      "1f1eb",
+      "1f1f7"
+    ],
+    "symbols": "🇫🇷"
+  },
+  "framed_picture": {
+    "hex_list": [
+      "1f5bc"
+    ],
+    "symbols": "🖼"
+  },
+  "free": {
+    "hex_list": [
+      "1f193"
+    ],
+    "symbols": "🆓"
+  },
+  "french_guiana": {
+    "hex_list": [
+      "1f1ec",
+      "1f1eb"
+    ],
+    "symbols": "🇬🇫"
+  },
+  "french_polynesia": {
+    "hex_list": [
+      "1f1f5",
+      "1f1eb"
+    ],
+    "symbols": "🇵🇫"
+  },
+  "french_southern_territories": {
+    "hex_list": [
+      "1f1f9",
+      "1f1eb"
+    ],
+    "symbols": "🇹🇫"
+  },
+  "fried_egg": {
+    "hex_list": [
+      "1f373"
+    ],
+    "symbols": "🍳"
+  },
+  "fried_shrimp": {
+    "hex_list": [
+      "1f364"
+    ],
+    "symbols": "🍤"
+  },
+  "fries": {
+    "hex_list": [
+      "1f35f"
+    ],
+    "symbols": "🍟"
+  },
+  "frog": {
+    "hex_list": [
+      "1f438"
+    ],
+    "symbols": "🐸"
+  },
+  "frowning": {
+    "hex_list": [
+      "1f626"
+    ],
+    "symbols": "😦"
+  },
+  "frowning_face": {
+    "hex_list": [
+      "2639"
+    ],
+    "symbols": "☹"
+  },
+  "frowning_man": {
+    "hex_list": [
+      "1f64d",
+      "2642"
+    ],
+    "symbols": "🙍♂"
+  },
+  "frowning_person": {
+    "hex_list": [
+      "1f64d"
+    ],
+    "symbols": "🙍"
+  },
+  "frowning_woman": {
+    "hex_list": [
+      "1f64d",
+      "2640"
+    ],
+    "symbols": "🙍♀"
+  },
+  "fu": {
+    "hex_list": [
+      "1f595"
+    ],
+    "symbols": "🖕"
+  },
+  "fuelpump": {
+    "hex_list": [
+      "26fd"
+    ],
+    "symbols": "⛽"
+  },
+  "full_moon": {
+    "hex_list": [
+      "1f315"
+    ],
+    "symbols": "🌕"
+  },
+  "full_moon_with_face": {
+    "hex_list": [
+      "1f31d"
+    ],
+    "symbols": "🌝"
+  },
+  "funeral_urn": {
+    "hex_list": [
+      "26b1"
+    ],
+    "symbols": "⚱"
+  },
+  "gabon": {
+    "hex_list": [
+      "1f1ec",
+      "1f1e6"
+    ],
+    "symbols": "🇬🇦"
+  },
+  "gambia": {
+    "hex_list": [
+      "1f1ec",
+      "1f1f2"
+    ],
+    "symbols": "🇬🇲"
+  },
+  "game_die": {
+    "hex_list": [
+      "1f3b2"
+    ],
+    "symbols": "🎲"
+  },
+  "garlic": {
+    "hex_list": [
+      "1f9c4"
+    ],
+    "symbols": "🧄"
+  },
+  "gb": {
+    "hex_list": [
+      "1f1ec",
+      "1f1e7"
+    ],
+    "symbols": "🇬🇧"
+  },
+  "gear": {
+    "hex_list": [
+      "2699"
+    ],
+    "symbols": "⚙"
+  },
+  "gem": {
+    "hex_list": [
+      "1f48e"
+    ],
+    "symbols": "💎"
+  },
+  "gemini": {
+    "hex_list": [
+      "264a"
+    ],
+    "symbols": "♊"
+  },
+  "genie": {
+    "hex_list": [
+      "1f9de"
+    ],
+    "symbols": "🧞"
+  },
+  "genie_man": {
+    "hex_list": [
+      "1f9de",
+      "2642"
+    ],
+    "symbols": "🧞♂"
+  },
+  "genie_woman": {
+    "hex_list": [
+      "1f9de",
+      "2640"
+    ],
+    "symbols": "🧞♀"
+  },
+  "georgia": {
+    "hex_list": [
+      "1f1ec",
+      "1f1ea"
+    ],
+    "symbols": "🇬🇪"
+  },
+  "ghana": {
+    "hex_list": [
+      "1f1ec",
+      "1f1ed"
+    ],
+    "symbols": "🇬🇭"
+  },
+  "ghost": {
+    "hex_list": [
+      "1f47b"
+    ],
+    "symbols": "👻"
+  },
+  "gibraltar": {
+    "hex_list": [
+      "1f1ec",
+      "1f1ee"
+    ],
+    "symbols": "🇬🇮"
+  },
+  "gift": {
+    "hex_list": [
+      "1f381"
+    ],
+    "symbols": "🎁"
+  },
+  "gift_heart": {
+    "hex_list": [
+      "1f49d"
+    ],
+    "symbols": "💝"
+  },
+  "giraffe": {
+    "hex_list": [
+      "1f992"
+    ],
+    "symbols": "🦒"
+  },
+  "girl": {
+    "hex_list": [
+      "1f467"
+    ],
+    "symbols": "👧"
+  },
+  "globe_with_meridians": {
+    "hex_list": [
+      "1f310"
+    ],
+    "symbols": "🌐"
+  },
+  "gloves": {
+    "hex_list": [
+      "1f9e4"
+    ],
+    "symbols": "🧤"
+  },
+  "goal_net": {
+    "hex_list": [
+      "1f945"
+    ],
+    "symbols": "🥅"
+  },
+  "goat": {
+    "hex_list": [
+      "1f410"
+    ],
+    "symbols": "🐐"
+  },
+  "goggles": {
+    "hex_list": [
+      "1f97d"
+    ],
+    "symbols": "🥽"
+  },
+  "golf": {
+    "hex_list": [
+      "26f3"
+    ],
+    "symbols": "⛳"
+  },
+  "golfing": {
+    "hex_list": [
+      "1f3cc"
+    ],
+    "symbols": "🏌"
+  },
+  "golfing_man": {
+    "hex_list": [
+      "1f3cc",
+      "2642"
+    ],
+    "symbols": "🏌♂"
+  },
+  "golfing_woman": {
+    "hex_list": [
+      "1f3cc",
+      "2640"
+    ],
+    "symbols": "🏌♀"
+  },
+  "gorilla": {
+    "hex_list": [
+      "1f98d"
+    ],
+    "symbols": "🦍"
+  },
+  "grapes": {
+    "hex_list": [
+      "1f347"
+    ],
+    "symbols": "🍇"
+  },
+  "greece": {
+    "hex_list": [
+      "1f1ec",
+      "1f1f7"
+    ],
+    "symbols": "🇬🇷"
+  },
+  "green_apple": {
+    "hex_list": [
+      "1f34f"
+    ],
+    "symbols": "🍏"
+  },
+  "green_book": {
+    "hex_list": [
+      "1f4d7"
+    ],
+    "symbols": "📗"
+  },
+  "green_circle": {
+    "hex_list": [
+      "1f7e2"
+    ],
+    "symbols": "🟢"
+  },
+  "green_heart": {
+    "hex_list": [
+      "1f49a"
+    ],
+    "symbols": "💚"
+  },
+  "green_salad": {
+    "hex_list": [
+      "1f957"
+    ],
+    "symbols": "🥗"
+  },
+  "green_square": {
+    "hex_list": [
+      "1f7e9"
+    ],
+    "symbols": "🟩"
+  },
+  "greenland": {
+    "hex_list": [
+      "1f1ec",
+      "1f1f1"
+    ],
+    "symbols": "🇬🇱"
+  },
+  "grenada": {
+    "hex_list": [
+      "1f1ec",
+      "1f1e9"
+    ],
+    "symbols": "🇬🇩"
+  },
+  "grey_exclamation": {
+    "hex_list": [
+      "2755"
+    ],
+    "symbols": "❕"
+  },
+  "grey_question": {
+    "hex_list": [
+      "2754"
+    ],
+    "symbols": "❔"
+  },
+  "grimacing": {
+    "hex_list": [
+      "1f62c"
+    ],
+    "symbols": "😬"
+  },
+  "grin": {
+    "hex_list": [
+      "1f601"
+    ],
+    "symbols": "😁"
+  },
+  "grinning": {
+    "hex_list": [
+      "1f600"
+    ],
+    "symbols": "😀"
+  },
+  "guadeloupe": {
+    "hex_list": [
+      "1f1ec",
+      "1f1f5"
+    ],
+    "symbols": "🇬🇵"
+  },
+  "guam": {
+    "hex_list": [
+      "1f1ec",
+      "1f1fa"
+    ],
+    "symbols": "🇬🇺"
+  },
+  "guard": {
+    "hex_list": [
+      "1f482"
+    ],
+    "symbols": "💂"
+  },
+  "guardsman": {
+    "hex_list": [
+      "1f482",
+      "2642"
+    ],
+    "symbols": "💂♂"
+  },
+  "guardswoman": {
+    "hex_list": [
+      "1f482",
+      "2640"
+    ],
+    "symbols": "💂♀"
+  },
+  "guatemala": {
+    "hex_list": [
+      "1f1ec",
+      "1f1f9"
+    ],
+    "symbols": "🇬🇹"
+  },
+  "guernsey": {
+    "hex_list": [
+      "1f1ec",
+      "1f1ec"
+    ],
+    "symbols": "🇬🇬"
+  },
+  "guide_dog": {
+    "hex_list": [
+      "1f9ae"
+    ],
+    "symbols": "🦮"
+  },
+  "guinea": {
+    "hex_list": [
+      "1f1ec",
+      "1f1f3"
+    ],
+    "symbols": "🇬🇳"
+  },
+  "guinea_bissau": {
+    "hex_list": [
+      "1f1ec",
+      "1f1fc"
+    ],
+    "symbols": "🇬🇼"
+  },
+  "guitar": {
+    "hex_list": [
+      "1f3b8"
+    ],
+    "symbols": "🎸"
+  },
+  "gun": {
+    "hex_list": [
+      "1f52b"
+    ],
+    "symbols": "🔫"
+  },
+  "guyana": {
+    "hex_list": [
+      "1f1ec",
+      "1f1fe"
+    ],
+    "symbols": "🇬🇾"
+  },
+  "haircut": {
+    "hex_list": [
+      "1f487"
+    ],
+    "symbols": "💇"
+  },
+  "haircut_man": {
+    "hex_list": [
+      "1f487",
+      "2642"
+    ],
+    "symbols": "💇♂"
+  },
+  "haircut_woman": {
+    "hex_list": [
+      "1f487",
+      "2640"
+    ],
+    "symbols": "💇♀"
+  },
+  "haiti": {
+    "hex_list": [
+      "1f1ed",
+      "1f1f9"
+    ],
+    "symbols": "🇭🇹"
+  },
+  "hamburger": {
+    "hex_list": [
+      "1f354"
+    ],
+    "symbols": "🍔"
+  },
+  "hammer": {
+    "hex_list": [
+      "1f528"
+    ],
+    "symbols": "🔨"
+  },
+  "hammer_and_pick": {
+    "hex_list": [
+      "2692"
+    ],
+    "symbols": "⚒"
+  },
+  "hammer_and_wrench": {
+    "hex_list": [
+      "1f6e0"
+    ],
+    "symbols": "🛠"
+  },
+  "hamster": {
+    "hex_list": [
+      "1f439"
+    ],
+    "symbols": "🐹"
+  },
+  "hand": {
+    "hex_list": [
+      "270b"
+    ],
+    "symbols": "✋"
+  },
+  "hand_over_mouth": {
+    "hex_list": [
+      "1f92d"
+    ],
+    "symbols": "🤭"
+  },
+  "handbag": {
+    "hex_list": [
+      "1f45c"
+    ],
+    "symbols": "👜"
+  },
+  "handball_person": {
+    "hex_list": [
+      "1f93e"
+    ],
+    "symbols": "🤾"
+  },
+  "handshake": {
+    "hex_list": [
+      "1f91d"
+    ],
+    "symbols": "🤝"
+  },
+  "hankey": {
+    "hex_list": [
+      "1f4a9"
+    ],
+    "symbols": "💩"
+  },
+  "hash": {
+    "hex_list": [
+      "0023",
+      "20e3"
+    ],
+    "symbols": "#⃣"
+  },
+  "hatched_chick": {
+    "hex_list": [
+      "1f425"
+    ],
+    "symbols": "🐥"
+  },
+  "hatching_chick": {
+    "hex_list": [
+      "1f423"
+    ],
+    "symbols": "🐣"
+  },
+  "headphones": {
+    "hex_list": [
+      "1f3a7"
+    ],
+    "symbols": "🎧"
+  },
+  "health_worker": {
+    "hex_list": [
+      "1f9d1",
+      "2695"
+    ],
+    "symbols": "🧑⚕"
+  },
+  "hear_no_evil": {
+    "hex_list": [
+      "1f649"
+    ],
+    "symbols": "🙉"
+  },
+  "heard_mcdonald_islands": {
+    "hex_list": [
+      "1f1ed",
+      "1f1f2"
+    ],
+    "symbols": "🇭🇲"
+  },
+  "heart": {
+    "hex_list": [
+      "2764"
+    ],
+    "symbols": "❤"
+  },
+  "heart_decoration": {
+    "hex_list": [
+      "1f49f"
+    ],
+    "symbols": "💟"
+  },
+  "heart_eyes": {
+    "hex_list": [
+      "1f60d"
+    ],
+    "symbols": "😍"
+  },
+  "heart_eyes_cat": {
+    "hex_list": [
+      "1f63b"
+    ],
+    "symbols": "😻"
+  },
+  "heartbeat": {
+    "hex_list": [
+      "1f493"
+    ],
+    "symbols": "💓"
+  },
+  "heartpulse": {
+    "hex_list": [
+      "1f497"
+    ],
+    "symbols": "💗"
+  },
+  "hearts": {
+    "hex_list": [
+      "2665"
+    ],
+    "symbols": "♥"
+  },
+  "heavy_check_mark": {
+    "hex_list": [
+      "2714"
+    ],
+    "symbols": "✔"
+  },
+  "heavy_division_sign": {
+    "hex_list": [
+      "2797"
+    ],
+    "symbols": "➗"
+  },
+  "heavy_dollar_sign": {
+    "hex_list": [
+      "1f4b2"
+    ],
+    "symbols": "💲"
+  },
+  "heavy_exclamation_mark": {
+    "hex_list": [
+      "2757"
+    ],
+    "symbols": "❗"
+  },
+  "heavy_heart_exclamation": {
+    "hex_list": [
+      "2763"
+    ],
+    "symbols": "❣"
+  },
+  "heavy_minus_sign": {
+    "hex_list": [
+      "2796"
+    ],
+    "symbols": "➖"
+  },
+  "heavy_multiplication_x": {
+    "hex_list": [
+      "2716"
+    ],
+    "symbols": "✖"
+  },
+  "heavy_plus_sign": {
+    "hex_list": [
+      "2795"
+    ],
+    "symbols": "➕"
+  },
+  "hedgehog": {
+    "hex_list": [
+      "1f994"
+    ],
+    "symbols": "🦔"
+  },
+  "helicopter": {
+    "hex_list": [
+      "1f681"
+    ],
+    "symbols": "🚁"
+  },
+  "herb": {
+    "hex_list": [
+      "1f33f"
+    ],
+    "symbols": "🌿"
+  },
+  "hibiscus": {
+    "hex_list": [
+      "1f33a"
+    ],
+    "symbols": "🌺"
+  },
+  "high_brightness": {
+    "hex_list": [
+      "1f506"
+    ],
+    "symbols": "🔆"
+  },
+  "high_heel": {
+    "hex_list": [
+      "1f460"
+    ],
+    "symbols": "👠"
+  },
+  "hiking_boot": {
+    "hex_list": [
+      "1f97e"
+    ],
+    "symbols": "🥾"
+  },
+  "hindu_temple": {
+    "hex_list": [
+      "1f6d5"
+    ],
+    "symbols": "🛕"
+  },
+  "hippopotamus": {
+    "hex_list": [
+      "1f99b"
+    ],
+    "symbols": "🦛"
+  },
+  "hocho": {
+    "hex_list": [
+      "1f52a"
+    ],
+    "symbols": "🔪"
+  },
+  "hole": {
+    "hex_list": [
+      "1f573"
+    ],
+    "symbols": "🕳"
+  },
+  "honduras": {
+    "hex_list": [
+      "1f1ed",
+      "1f1f3"
+    ],
+    "symbols": "🇭🇳"
+  },
+  "honey_pot": {
+    "hex_list": [
+      "1f36f"
+    ],
+    "symbols": "🍯"
+  },
+  "honeybee": {
+    "hex_list": [
+      "1f41d"
+    ],
+    "symbols": "🐝"
+  },
+  "hong_kong": {
+    "hex_list": [
+      "1f1ed",
+      "1f1f0"
+    ],
+    "symbols": "🇭🇰"
+  },
+  "horse": {
+    "hex_list": [
+      "1f434"
+    ],
+    "symbols": "🐴"
+  },
+  "horse_racing": {
+    "hex_list": [
+      "1f3c7"
+    ],
+    "symbols": "🏇"
+  },
+  "hospital": {
+    "hex_list": [
+      "1f3e5"
+    ],
+    "symbols": "🏥"
+  },
+  "hot_face": {
+    "hex_list": [
+      "1f975"
+    ],
+    "symbols": "🥵"
+  },
+  "hot_pepper": {
+    "hex_list": [
+      "1f336"
+    ],
+    "symbols": "🌶"
+  },
+  "hotdog": {
+    "hex_list": [
+      "1f32d"
+    ],
+    "symbols": "🌭"
+  },
+  "hotel": {
+    "hex_list": [
+      "1f3e8"
+    ],
+    "symbols": "🏨"
+  },
+  "hotsprings": {
+    "hex_list": [
+      "2668"
+    ],
+    "symbols": "♨"
+  },
+  "hourglass": {
+    "hex_list": [
+      "231b"
+    ],
+    "symbols": "⌛"
+  },
+  "hourglass_flowing_sand": {
+    "hex_list": [
+      "23f3"
+    ],
+    "symbols": "⏳"
+  },
+  "house": {
+    "hex_list": [
+      "1f3e0"
+    ],
+    "symbols": "🏠"
+  },
+  "house_with_garden": {
+    "hex_list": [
+      "1f3e1"
+    ],
+    "symbols": "🏡"
+  },
+  "houses": {
+    "hex_list": [
+      "1f3d8"
+    ],
+    "symbols": "🏘"
+  },
+  "hugs": {
+    "hex_list": [
+      "1f917"
+    ],
+    "symbols": "🤗"
+  },
+  "hungary": {
+    "hex_list": [
+      "1f1ed",
+      "1f1fa"
+    ],
+    "symbols": "🇭🇺"
+  },
+  "hushed": {
+    "hex_list": [
+      "1f62f"
+    ],
+    "symbols": "😯"
+  },
+  "ice_cream": {
+    "hex_list": [
+      "1f368"
+    ],
+    "symbols": "🍨"
+  },
+  "ice_cube": {
+    "hex_list": [
+      "1f9ca"
+    ],
+    "symbols": "🧊"
+  },
+  "ice_hockey": {
+    "hex_list": [
+      "1f3d2"
+    ],
+    "symbols": "🏒"
+  },
+  "ice_skate": {
+    "hex_list": [
+      "26f8"
+    ],
+    "symbols": "⛸"
+  },
+  "icecream": {
+    "hex_list": [
+      "1f366"
+    ],
+    "symbols": "🍦"
+  },
+  "iceland": {
+    "hex_list": [
+      "1f1ee",
+      "1f1f8"
+    ],
+    "symbols": "🇮🇸"
+  },
+  "id": {
+    "hex_list": [
+      "1f194"
+    ],
+    "symbols": "🆔"
+  },
+  "ideograph_advantage": {
+    "hex_list": [
+      "1f250"
+    ],
+    "symbols": "🉐"
+  },
+  "imp": {
+    "hex_list": [
+      "1f47f"
+    ],
+    "symbols": "👿"
+  },
+  "inbox_tray": {
+    "hex_list": [
+      "1f4e5"
+    ],
+    "symbols": "📥"
+  },
+  "incoming_envelope": {
+    "hex_list": [
+      "1f4e8"
+    ],
+    "symbols": "📨"
+  },
+  "india": {
+    "hex_list": [
+      "1f1ee",
+      "1f1f3"
+    ],
+    "symbols": "🇮🇳"
+  },
+  "indonesia": {
+    "hex_list": [
+      "1f1ee",
+      "1f1e9"
+    ],
+    "symbols": "🇮🇩"
+  },
+  "infinity": {
+    "hex_list": [
+      "267e"
+    ],
+    "symbols": "♾"
+  },
+  "information_desk_person": {
+    "hex_list": [
+      "1f481"
+    ],
+    "symbols": "💁"
+  },
+  "information_source": {
+    "hex_list": [
+      "2139"
+    ],
+    "symbols": "ℹ"
+  },
+  "innocent": {
+    "hex_list": [
+      "1f607"
+    ],
+    "symbols": "😇"
+  },
+  "interrobang": {
+    "hex_list": [
+      "2049"
+    ],
+    "symbols": "⁉"
+  },
+  "iphone": {
+    "hex_list": [
+      "1f4f1"
+    ],
+    "symbols": "📱"
+  },
+  "iran": {
+    "hex_list": [
+      "1f1ee",
+      "1f1f7"
+    ],
+    "symbols": "🇮🇷"
+  },
+  "iraq": {
+    "hex_list": [
+      "1f1ee",
+      "1f1f6"
+    ],
+    "symbols": "🇮🇶"
+  },
+  "ireland": {
+    "hex_list": [
+      "1f1ee",
+      "1f1ea"
+    ],
+    "symbols": "🇮🇪"
+  },
+  "isle_of_man": {
+    "hex_list": [
+      "1f1ee",
+      "1f1f2"
+    ],
+    "symbols": "🇮🇲"
+  },
+  "israel": {
+    "hex_list": [
+      "1f1ee",
+      "1f1f1"
+    ],
+    "symbols": "🇮🇱"
+  },
+  "it": {
+    "hex_list": [
+      "1f1ee",
+      "1f1f9"
+    ],
+    "symbols": "🇮🇹"
+  },
+  "izakaya_lantern": {
+    "hex_list": [
+      "1f3ee"
+    ],
+    "symbols": "🏮"
+  },
+  "jack_o_lantern": {
+    "hex_list": [
+      "1f383"
+    ],
+    "symbols": "🎃"
+  },
+  "jamaica": {
+    "hex_list": [
+      "1f1ef",
+      "1f1f2"
+    ],
+    "symbols": "🇯🇲"
+  },
+  "japan": {
+    "hex_list": [
+      "1f5fe"
+    ],
+    "symbols": "🗾"
+  },
+  "japanese_castle": {
+    "hex_list": [
+      "1f3ef"
+    ],
+    "symbols": "🏯"
+  },
+  "japanese_goblin": {
+    "hex_list": [
+      "1f47a"
+    ],
+    "symbols": "👺"
+  },
+  "japanese_ogre": {
+    "hex_list": [
+      "1f479"
+    ],
+    "symbols": "👹"
+  },
+  "jeans": {
+    "hex_list": [
+      "1f456"
+    ],
+    "symbols": "👖"
+  },
+  "jersey": {
+    "hex_list": [
+      "1f1ef",
+      "1f1ea"
+    ],
+    "symbols": "🇯🇪"
+  },
+  "jigsaw": {
+    "hex_list": [
+      "1f9e9"
+    ],
+    "symbols": "🧩"
+  },
+  "jordan": {
+    "hex_list": [
+      "1f1ef",
+      "1f1f4"
+    ],
+    "symbols": "🇯🇴"
+  },
+  "joy": {
+    "hex_list": [
+      "1f602"
+    ],
+    "symbols": "😂"
+  },
+  "joy_cat": {
+    "hex_list": [
+      "1f639"
+    ],
+    "symbols": "😹"
+  },
+  "joystick": {
+    "hex_list": [
+      "1f579"
+    ],
+    "symbols": "🕹"
+  },
+  "jp": {
+    "hex_list": [
+      "1f1ef",
+      "1f1f5"
+    ],
+    "symbols": "🇯🇵"
+  },
+  "judge": {
+    "hex_list": [
+      "1f9d1",
+      "2696"
+    ],
+    "symbols": "🧑⚖"
+  },
+  "juggling_person": {
+    "hex_list": [
+      "1f939"
+    ],
+    "symbols": "🤹"
+  },
+  "kaaba": {
+    "hex_list": [
+      "1f54b"
+    ],
+    "symbols": "🕋"
+  },
+  "kangaroo": {
+    "hex_list": [
+      "1f998"
+    ],
+    "symbols": "🦘"
+  },
+  "kazakhstan": {
+    "hex_list": [
+      "1f1f0",
+      "1f1ff"
+    ],
+    "symbols": "🇰🇿"
+  },
+  "kenya": {
+    "hex_list": [
+      "1f1f0",
+      "1f1ea"
+    ],
+    "symbols": "🇰🇪"
+  },
+  "key": {
+    "hex_list": [
+      "1f511"
+    ],
+    "symbols": "🔑"
+  },
+  "keyboard": {
+    "hex_list": [
+      "2328"
+    ],
+    "symbols": "⌨"
+  },
+  "keycap_ten": {
+    "hex_list": [
+      "1f51f"
+    ],
+    "symbols": "🔟"
+  },
+  "kick_scooter": {
+    "hex_list": [
+      "1f6f4"
+    ],
+    "symbols": "🛴"
+  },
+  "kimono": {
+    "hex_list": [
+      "1f458"
+    ],
+    "symbols": "👘"
+  },
+  "kiribati": {
+    "hex_list": [
+      "1f1f0",
+      "1f1ee"
+    ],
+    "symbols": "🇰🇮"
+  },
+  "kiss": {
+    "hex_list": [
+      "1f48b"
+    ],
+    "symbols": "💋"
+  },
+  "kissing": {
+    "hex_list": [
+      "1f617"
+    ],
+    "symbols": "😗"
+  },
+  "kissing_cat": {
+    "hex_list": [
+      "1f63d"
+    ],
+    "symbols": "😽"
+  },
+  "kissing_closed_eyes": {
+    "hex_list": [
+      "1f61a"
+    ],
+    "symbols": "😚"
+  },
+  "kissing_heart": {
+    "hex_list": [
+      "1f618"
+    ],
+    "symbols": "😘"
+  },
+  "kissing_smiling_eyes": {
+    "hex_list": [
+      "1f619"
+    ],
+    "symbols": "😙"
+  },
+  "kite": {
+    "hex_list": [
+      "1fa81"
+    ],
+    "symbols": "🪁"
+  },
+  "kiwi_fruit": {
+    "hex_list": [
+      "1f95d"
+    ],
+    "symbols": "🥝"
+  },
+  "kneeling_man": {
+    "hex_list": [
+      "1f9ce",
+      "2642"
+    ],
+    "symbols": "🧎♂"
+  },
+  "kneeling_person": {
+    "hex_list": [
+      "1f9ce"
+    ],
+    "symbols": "🧎"
+  },
+  "kneeling_woman": {
+    "hex_list": [
+      "1f9ce",
+      "2640"
+    ],
+    "symbols": "🧎♀"
+  },
+  "knife": {
+    "hex_list": [
+      "1f52a"
+    ],
+    "symbols": "🔪"
+  },
+  "koala": {
+    "hex_list": [
+      "1f428"
+    ],
+    "symbols": "🐨"
+  },
+  "koko": {
+    "hex_list": [
+      "1f201"
+    ],
+    "symbols": "🈁"
+  },
+  "kosovo": {
+    "hex_list": [
+      "1f1fd",
+      "1f1f0"
+    ],
+    "symbols": "🇽🇰"
+  },
+  "kr": {
+    "hex_list": [
+      "1f1f0",
+      "1f1f7"
+    ],
+    "symbols": "🇰🇷"
+  },
+  "kuwait": {
+    "hex_list": [
+      "1f1f0",
+      "1f1fc"
+    ],
+    "symbols": "🇰🇼"
+  },
+  "kyrgyzstan": {
+    "hex_list": [
+      "1f1f0",
+      "1f1ec"
+    ],
+    "symbols": "🇰🇬"
+  },
+  "lab_coat": {
+    "hex_list": [
+      "1f97c"
+    ],
+    "symbols": "🥼"
+  },
+  "label": {
+    "hex_list": [
+      "1f3f7"
+    ],
+    "symbols": "🏷"
+  },
+  "lacrosse": {
+    "hex_list": [
+      "1f94d"
+    ],
+    "symbols": "🥍"
+  },
+  "lantern": {
+    "hex_list": [
+      "1f3ee"
+    ],
+    "symbols": "🏮"
+  },
+  "laos": {
+    "hex_list": [
+      "1f1f1",
+      "1f1e6"
+    ],
+    "symbols": "🇱🇦"
+  },
+  "large_blue_circle": {
+    "hex_list": [
+      "1f535"
+    ],
+    "symbols": "🔵"
+  },
+  "large_blue_diamond": {
+    "hex_list": [
+      "1f537"
+    ],
+    "symbols": "🔷"
+  },
+  "large_orange_diamond": {
+    "hex_list": [
+      "1f536"
+    ],
+    "symbols": "🔶"
+  },
+  "last_quarter_moon": {
+    "hex_list": [
+      "1f317"
+    ],
+    "symbols": "🌗"
+  },
+  "last_quarter_moon_with_face": {
+    "hex_list": [
+      "1f31c"
+    ],
+    "symbols": "🌜"
+  },
+  "latin_cross": {
+    "hex_list": [
+      "271d"
+    ],
+    "symbols": "✝"
+  },
+  "latvia": {
+    "hex_list": [
+      "1f1f1",
+      "1f1fb"
+    ],
+    "symbols": "🇱🇻"
+  },
+  "laughing": {
+    "hex_list": [
+      "1f606"
+    ],
+    "symbols": "😆"
+  },
+  "leafy_green": {
+    "hex_list": [
+      "1f96c"
+    ],
+    "symbols": "🥬"
+  },
+  "leaves": {
+    "hex_list": [
+      "1f343"
+    ],
+    "symbols": "🍃"
+  },
+  "lebanon": {
+    "hex_list": [
+      "1f1f1",
+      "1f1e7"
+    ],
+    "symbols": "🇱🇧"
+  },
+  "ledger": {
+    "hex_list": [
+      "1f4d2"
+    ],
+    "symbols": "📒"
+  },
+  "left_luggage": {
+    "hex_list": [
+      "1f6c5"
+    ],
+    "symbols": "🛅"
+  },
+  "left_right_arrow": {
+    "hex_list": [
+      "2194"
+    ],
+    "symbols": "↔"
+  },
+  "left_speech_bubble": {
+    "hex_list": [
+      "1f5e8"
+    ],
+    "symbols": "🗨"
+  },
+  "leftwards_arrow_with_hook": {
+    "hex_list": [
+      "21a9"
+    ],
+    "symbols": "↩"
+  },
+  "leg": {
+    "hex_list": [
+      "1f9b5"
+    ],
+    "symbols": "🦵"
+  },
+  "lemon": {
+    "hex_list": [
+      "1f34b"
+    ],
+    "symbols": "🍋"
+  },
+  "leo": {
+    "hex_list": [
+      "264c"
+    ],
+    "symbols": "♌"
+  },
+  "leopard": {
+    "hex_list": [
+      "1f406"
+    ],
+    "symbols": "🐆"
+  },
+  "lesotho": {
+    "hex_list": [
+      "1f1f1",
+      "1f1f8"
+    ],
+    "symbols": "🇱🇸"
+  },
+  "level_slider": {
+    "hex_list": [
+      "1f39a"
+    ],
+    "symbols": "🎚"
+  },
+  "liberia": {
+    "hex_list": [
+      "1f1f1",
+      "1f1f7"
+    ],
+    "symbols": "🇱🇷"
+  },
+  "libra": {
+    "hex_list": [
+      "264e"
+    ],
+    "symbols": "♎"
+  },
+  "libya": {
+    "hex_list": [
+      "1f1f1",
+      "1f1fe"
+    ],
+    "symbols": "🇱🇾"
+  },
+  "liechtenstein": {
+    "hex_list": [
+      "1f1f1",
+      "1f1ee"
+    ],
+    "symbols": "🇱🇮"
+  },
+  "light_rail": {
+    "hex_list": [
+      "1f688"
+    ],
+    "symbols": "🚈"
+  },
+  "link": {
+    "hex_list": [
+      "1f517"
+    ],
+    "symbols": "🔗"
+  },
+  "lion": {
+    "hex_list": [
+      "1f981"
+    ],
+    "symbols": "🦁"
+  },
+  "lips": {
+    "hex_list": [
+      "1f444"
+    ],
+    "symbols": "👄"
+  },
+  "lipstick": {
+    "hex_list": [
+      "1f484"
+    ],
+    "symbols": "💄"
+  },
+  "lithuania": {
+    "hex_list": [
+      "1f1f1",
+      "1f1f9"
+    ],
+    "symbols": "🇱🇹"
+  },
+  "lizard": {
+    "hex_list": [
+      "1f98e"
+    ],
+    "symbols": "🦎"
+  },
+  "llama": {
+    "hex_list": [
+      "1f999"
+    ],
+    "symbols": "🦙"
+  },
+  "lobster": {
+    "hex_list": [
+      "1f99e"
+    ],
+    "symbols": "🦞"
+  },
+  "lock": {
+    "hex_list": [
+      "1f512"
+    ],
+    "symbols": "🔒"
+  },
+  "lock_with_ink_pen": {
+    "hex_list": [
+      "1f50f"
+    ],
+    "symbols": "🔏"
+  },
+  "lollipop": {
+    "hex_list": [
+      "1f36d"
+    ],
+    "symbols": "🍭"
+  },
+  "loop": {
+    "hex_list": [
+      "27bf"
+    ],
+    "symbols": "➿"
+  },
+  "lotion_bottle": {
+    "hex_list": [
+      "1f9f4"
+    ],
+    "symbols": "🧴"
+  },
+  "lotus_position": {
+    "hex_list": [
+      "1f9d8"
+    ],
+    "symbols": "🧘"
+  },
+  "lotus_position_man": {
+    "hex_list": [
+      "1f9d8",
+      "2642"
+    ],
+    "symbols": "🧘♂"
+  },
+  "lotus_position_woman": {
+    "hex_list": [
+      "1f9d8",
+      "2640"
+    ],
+    "symbols": "🧘♀"
+  },
+  "loud_sound": {
+    "hex_list": [
+      "1f50a"
+    ],
+    "symbols": "🔊"
+  },
+  "loudspeaker": {
+    "hex_list": [
+      "1f4e2"
+    ],
+    "symbols": "📢"
+  },
+  "love_hotel": {
+    "hex_list": [
+      "1f3e9"
+    ],
+    "symbols": "🏩"
+  },
+  "love_letter": {
+    "hex_list": [
+      "1f48c"
+    ],
+    "symbols": "💌"
+  },
+  "love_you_gesture": {
+    "hex_list": [
+      "1f91f"
+    ],
+    "symbols": "🤟"
+  },
+  "low_brightness": {
+    "hex_list": [
+      "1f505"
+    ],
+    "symbols": "🔅"
+  },
+  "luggage": {
+    "hex_list": [
+      "1f9f3"
+    ],
+    "symbols": "🧳"
+  },
+  "luxembourg": {
+    "hex_list": [
+      "1f1f1",
+      "1f1fa"
+    ],
+    "symbols": "🇱🇺"
+  },
+  "lying_face": {
+    "hex_list": [
+      "1f925"
+    ],
+    "symbols": "🤥"
+  },
+  "m": {
+    "hex_list": [
+      "24c2"
+    ],
+    "symbols": "Ⓜ"
+  },
+  "macau": {
+    "hex_list": [
+      "1f1f2",
+      "1f1f4"
+    ],
+    "symbols": "🇲🇴"
+  },
+  "macedonia": {
+    "hex_list": [
+      "1f1f2",
+      "1f1f0"
+    ],
+    "symbols": "🇲🇰"
+  },
+  "madagascar": {
+    "hex_list": [
+      "1f1f2",
+      "1f1ec"
+    ],
+    "symbols": "🇲🇬"
+  },
+  "mag": {
+    "hex_list": [
+      "1f50d"
+    ],
+    "symbols": "🔍"
+  },
+  "mag_right": {
+    "hex_list": [
+      "1f50e"
+    ],
+    "symbols": "🔎"
+  },
+  "mage": {
+    "hex_list": [
+      "1f9d9"
+    ],
+    "symbols": "🧙"
+  },
+  "mage_man": {
+    "hex_list": [
+      "1f9d9",
+      "2642"
+    ],
+    "symbols": "🧙♂"
+  },
+  "mage_woman": {
+    "hex_list": [
+      "1f9d9",
+      "2640"
+    ],
+    "symbols": "🧙♀"
+  },
+  "magnet": {
+    "hex_list": [
+      "1f9f2"
+    ],
+    "symbols": "🧲"
+  },
+  "mahjong": {
+    "hex_list": [
+      "1f004"
+    ],
+    "symbols": "🀄"
+  },
+  "mailbox": {
+    "hex_list": [
+      "1f4eb"
+    ],
+    "symbols": "📫"
+  },
+  "mailbox_closed": {
+    "hex_list": [
+      "1f4ea"
+    ],
+    "symbols": "📪"
+  },
+  "mailbox_with_mail": {
+    "hex_list": [
+      "1f4ec"
+    ],
+    "symbols": "📬"
+  },
+  "mailbox_with_no_mail": {
+    "hex_list": [
+      "1f4ed"
+    ],
+    "symbols": "📭"
+  },
+  "malawi": {
+    "hex_list": [
+      "1f1f2",
+      "1f1fc"
+    ],
+    "symbols": "🇲🇼"
+  },
+  "malaysia": {
+    "hex_list": [
+      "1f1f2",
+      "1f1fe"
+    ],
+    "symbols": "🇲🇾"
+  },
+  "maldives": {
+    "hex_list": [
+      "1f1f2",
+      "1f1fb"
+    ],
+    "symbols": "🇲🇻"
+  },
+  "male_detective": {
+    "hex_list": [
+      "1f575",
+      "2642"
+    ],
+    "symbols": "🕵♂"
+  },
+  "male_sign": {
+    "hex_list": [
+      "2642"
+    ],
+    "symbols": "♂"
+  },
+  "mali": {
+    "hex_list": [
+      "1f1f2",
+      "1f1f1"
+    ],
+    "symbols": "🇲🇱"
+  },
+  "malta": {
+    "hex_list": [
+      "1f1f2",
+      "1f1f9"
+    ],
+    "symbols": "🇲🇹"
+  },
+  "man": {
+    "hex_list": [
+      "1f468"
+    ],
+    "symbols": "👨"
+  },
+  "man_artist": {
+    "hex_list": [
+      "1f468",
+      "1f3a8"
+    ],
+    "symbols": "👨🎨"
+  },
+  "man_astronaut": {
+    "hex_list": [
+      "1f468",
+      "1f680"
+    ],
+    "symbols": "👨🚀"
+  },
+  "man_cartwheeling": {
+    "hex_list": [
+      "1f938",
+      "2642"
+    ],
+    "symbols": "🤸♂"
+  },
+  "man_cook": {
+    "hex_list": [
+      "1f468",
+      "1f373"
+    ],
+    "symbols": "👨🍳"
+  },
+  "man_dancing": {
+    "hex_list": [
+      "1f57a"
+    ],
+    "symbols": "🕺"
+  },
+  "man_facepalming": {
+    "hex_list": [
+      "1f926",
+      "2642"
+    ],
+    "symbols": "🤦♂"
+  },
+  "man_factory_worker": {
+    "hex_list": [
+      "1f468",
+      "1f3ed"
+    ],
+    "symbols": "👨🏭"
+  },
+  "man_farmer": {
+    "hex_list": [
+      "1f468",
+      "1f33e"
+    ],
+    "symbols": "👨🌾"
+  },
+  "man_firefighter": {
+    "hex_list": [
+      "1f468",
+      "1f692"
+    ],
+    "symbols": "👨🚒"
+  },
+  "man_health_worker": {
+    "hex_list": [
+      "1f468",
+      "2695"
+    ],
+    "symbols": "👨⚕"
+  },
+  "man_in_manual_wheelchair": {
+    "hex_list": [
+      "1f468",
+      "1f9bd"
+    ],
+    "symbols": "👨🦽"
+  },
+  "man_in_motorized_wheelchair": {
+    "hex_list": [
+      "1f468",
+      "1f9bc"
+    ],
+    "symbols": "👨🦼"
+  },
+  "man_in_tuxedo": {
+    "hex_list": [
+      "1f935"
+    ],
+    "symbols": "🤵"
+  },
+  "man_judge": {
+    "hex_list": [
+      "1f468",
+      "2696"
+    ],
+    "symbols": "👨⚖"
+  },
+  "man_juggling": {
+    "hex_list": [
+      "1f939",
+      "2642"
+    ],
+    "symbols": "🤹♂"
+  },
+  "man_mechanic": {
+    "hex_list": [
+      "1f468",
+      "1f527"
+    ],
+    "symbols": "👨🔧"
+  },
+  "man_office_worker": {
+    "hex_list": [
+      "1f468",
+      "1f4bc"
+    ],
+    "symbols": "👨💼"
+  },
+  "man_pilot": {
+    "hex_list": [
+      "1f468",
+      "2708"
+    ],
+    "symbols": "👨✈"
+  },
+  "man_playing_handball": {
+    "hex_list": [
+      "1f93e",
+      "2642"
+    ],
+    "symbols": "🤾♂"
+  },
+  "man_playing_water_polo": {
+    "hex_list": [
+      "1f93d",
+      "2642"
+    ],
+    "symbols": "🤽♂"
+  },
+  "man_scientist": {
+    "hex_list": [
+      "1f468",
+      "1f52c"
+    ],
+    "symbols": "👨🔬"
+  },
+  "man_shrugging": {
+    "hex_list": [
+      "1f937",
+      "2642"
+    ],
+    "symbols": "🤷♂"
+  },
+  "man_singer": {
+    "hex_list": [
+      "1f468",
+      "1f3a4"
+    ],
+    "symbols": "👨🎤"
+  },
+  "man_student": {
+    "hex_list": [
+      "1f468",
+      "1f393"
+    ],
+    "symbols": "👨🎓"
+  },
+  "man_teacher": {
+    "hex_list": [
+      "1f468",
+      "1f3eb"
+    ],
+    "symbols": "👨🏫"
+  },
+  "man_technologist": {
+    "hex_list": [
+      "1f468",
+      "1f4bb"
+    ],
+    "symbols": "👨💻"
+  },
+  "man_with_gua_pi_mao": {
+    "hex_list": [
+      "1f472"
+    ],
+    "symbols": "👲"
+  },
+  "man_with_probing_cane": {
+    "hex_list": [
+      "1f468",
+      "1f9af"
+    ],
+    "symbols": "👨🦯"
+  },
+  "man_with_turban": {
+    "hex_list": [
+      "1f473",
+      "2642"
+    ],
+    "symbols": "👳♂"
+  },
+  "mandarin": {
+    "hex_list": [
+      "1f34a"
+    ],
+    "symbols": "🍊"
+  },
+  "mango": {
+    "hex_list": [
+      "1f96d"
+    ],
+    "symbols": "🥭"
+  },
+  "mans_shoe": {
+    "hex_list": [
+      "1f45e"
+    ],
+    "symbols": "👞"
+  },
+  "mantelpiece_clock": {
+    "hex_list": [
+      "1f570"
+    ],
+    "symbols": "🕰"
+  },
+  "manual_wheelchair": {
+    "hex_list": [
+      "1f9bd"
+    ],
+    "symbols": "🦽"
+  },
+  "maple_leaf": {
+    "hex_list": [
+      "1f341"
+    ],
+    "symbols": "🍁"
+  },
+  "marshall_islands": {
+    "hex_list": [
+      "1f1f2",
+      "1f1ed"
+    ],
+    "symbols": "🇲🇭"
+  },
+  "martial_arts_uniform": {
+    "hex_list": [
+      "1f94b"
+    ],
+    "symbols": "🥋"
+  },
+  "martinique": {
+    "hex_list": [
+      "1f1f2",
+      "1f1f6"
+    ],
+    "symbols": "🇲🇶"
+  },
+  "mask": {
+    "hex_list": [
+      "1f637"
+    ],
+    "symbols": "😷"
+  },
+  "massage": {
+    "hex_list": [
+      "1f486"
+    ],
+    "symbols": "💆"
+  },
+  "massage_man": {
+    "hex_list": [
+      "1f486",
+      "2642"
+    ],
+    "symbols": "💆♂"
+  },
+  "massage_woman": {
+    "hex_list": [
+      "1f486",
+      "2640"
+    ],
+    "symbols": "💆♀"
+  },
+  "mate": {
+    "hex_list": [
+      "1f9c9"
+    ],
+    "symbols": "🧉"
+  },
+  "mauritania": {
+    "hex_list": [
+      "1f1f2",
+      "1f1f7"
+    ],
+    "symbols": "🇲🇷"
+  },
+  "mauritius": {
+    "hex_list": [
+      "1f1f2",
+      "1f1fa"
+    ],
+    "symbols": "🇲🇺"
+  },
+  "mayotte": {
+    "hex_list": [
+      "1f1fe",
+      "1f1f9"
+    ],
+    "symbols": "🇾🇹"
+  },
+  "meat_on_bone": {
+    "hex_list": [
+      "1f356"
+    ],
+    "symbols": "🍖"
+  },
+  "mechanic": {
+    "hex_list": [
+      "1f9d1",
+      "1f527"
+    ],
+    "symbols": "🧑🔧"
+  },
+  "mechanical_arm": {
+    "hex_list": [
+      "1f9be"
+    ],
+    "symbols": "🦾"
+  },
+  "mechanical_leg": {
+    "hex_list": [
+      "1f9bf"
+    ],
+    "symbols": "🦿"
+  },
+  "medal_military": {
+    "hex_list": [
+      "1f396"
+    ],
+    "symbols": "🎖"
+  },
+  "medal_sports": {
+    "hex_list": [
+      "1f3c5"
+    ],
+    "symbols": "🏅"
+  },
+  "medical_symbol": {
+    "hex_list": [
+      "2695"
+    ],
+    "symbols": "⚕"
+  },
+  "mega": {
+    "hex_list": [
+      "1f4e3"
+    ],
+    "symbols": "📣"
+  },
+  "melon": {
+    "hex_list": [
+      "1f348"
+    ],
+    "symbols": "🍈"
+  },
+  "memo": {
+    "hex_list": [
+      "1f4dd"
+    ],
+    "symbols": "📝"
+  },
+  "men_wrestling": {
+    "hex_list": [
+      "1f93c",
+      "2642"
+    ],
+    "symbols": "🤼♂"
+  },
+  "menorah": {
+    "hex_list": [
+      "1f54e"
+    ],
+    "symbols": "🕎"
+  },
+  "mens": {
+    "hex_list": [
+      "1f6b9"
+    ],
+    "symbols": "🚹"
+  },
+  "mermaid": {
+    "hex_list": [
+      "1f9dc",
+      "2640"
+    ],
+    "symbols": "🧜♀"
+  },
+  "merman": {
+    "hex_list": [
+      "1f9dc",
+      "2642"
+    ],
+    "symbols": "🧜♂"
+  },
+  "merperson": {
+    "hex_list": [
+      "1f9dc"
+    ],
+    "symbols": "🧜"
+  },
+  "metal": {
+    "hex_list": [
+      "1f918"
+    ],
+    "symbols": "🤘"
+  },
+  "metro": {
+    "hex_list": [
+      "1f687"
+    ],
+    "symbols": "🚇"
+  },
+  "mexico": {
+    "hex_list": [
+      "1f1f2",
+      "1f1fd"
+    ],
+    "symbols": "🇲🇽"
+  },
+  "microbe": {
+    "hex_list": [
+      "1f9a0"
+    ],
+    "symbols": "🦠"
+  },
+  "micronesia": {
+    "hex_list": [
+      "1f1eb",
+      "1f1f2"
+    ],
+    "symbols": "🇫🇲"
+  },
+  "microphone": {
+    "hex_list": [
+      "1f3a4"
+    ],
+    "symbols": "🎤"
+  },
+  "microscope": {
+    "hex_list": [
+      "1f52c"
+    ],
+    "symbols": "🔬"
+  },
+  "middle_finger": {
+    "hex_list": [
+      "1f595"
+    ],
+    "symbols": "🖕"
+  },
+  "milk_glass": {
+    "hex_list": [
+      "1f95b"
+    ],
+    "symbols": "🥛"
+  },
+  "milky_way": {
+    "hex_list": [
+      "1f30c"
+    ],
+    "symbols": "🌌"
+  },
+  "minibus": {
+    "hex_list": [
+      "1f690"
+    ],
+    "symbols": "🚐"
+  },
+  "minidisc": {
+    "hex_list": [
+      "1f4bd"
+    ],
+    "symbols": "💽"
+  },
+  "mobile_phone_off": {
+    "hex_list": [
+      "1f4f4"
+    ],
+    "symbols": "📴"
+  },
+  "moldova": {
+    "hex_list": [
+      "1f1f2",
+      "1f1e9"
+    ],
+    "symbols": "🇲🇩"
+  },
+  "monaco": {
+    "hex_list": [
+      "1f1f2",
+      "1f1e8"
+    ],
+    "symbols": "🇲🇨"
+  },
+  "money_mouth_face": {
+    "hex_list": [
+      "1f911"
+    ],
+    "symbols": "🤑"
+  },
+  "money_with_wings": {
+    "hex_list": [
+      "1f4b8"
+    ],
+    "symbols": "💸"
+  },
+  "moneybag": {
+    "hex_list": [
+      "1f4b0"
+    ],
+    "symbols": "💰"
+  },
+  "mongolia": {
+    "hex_list": [
+      "1f1f2",
+      "1f1f3"
+    ],
+    "symbols": "🇲🇳"
+  },
+  "monkey": {
+    "hex_list": [
+      "1f412"
+    ],
+    "symbols": "🐒"
+  },
+  "monkey_face": {
+    "hex_list": [
+      "1f435"
+    ],
+    "symbols": "🐵"
+  },
+  "monocle_face": {
+    "hex_list": [
+      "1f9d0"
+    ],
+    "symbols": "🧐"
+  },
+  "monorail": {
+    "hex_list": [
+      "1f69d"
+    ],
+    "symbols": "🚝"
+  },
+  "montenegro": {
+    "hex_list": [
+      "1f1f2",
+      "1f1ea"
+    ],
+    "symbols": "🇲🇪"
+  },
+  "montserrat": {
+    "hex_list": [
+      "1f1f2",
+      "1f1f8"
+    ],
+    "symbols": "🇲🇸"
+  },
+  "moon": {
+    "hex_list": [
+      "1f314"
+    ],
+    "symbols": "🌔"
+  },
+  "moon_cake": {
+    "hex_list": [
+      "1f96e"
+    ],
+    "symbols": "🥮"
+  },
+  "morocco": {
+    "hex_list": [
+      "1f1f2",
+      "1f1e6"
+    ],
+    "symbols": "🇲🇦"
+  },
+  "mortar_board": {
+    "hex_list": [
+      "1f393"
+    ],
+    "symbols": "🎓"
+  },
+  "mosque": {
+    "hex_list": [
+      "1f54c"
+    ],
+    "symbols": "🕌"
+  },
+  "mosquito": {
+    "hex_list": [
+      "1f99f"
+    ],
+    "symbols": "🦟"
+  },
+  "motor_boat": {
+    "hex_list": [
+      "1f6e5"
+    ],
+    "symbols": "🛥"
+  },
+  "motor_scooter": {
+    "hex_list": [
+      "1f6f5"
+    ],
+    "symbols": "🛵"
+  },
+  "motorcycle": {
+    "hex_list": [
+      "1f3cd"
+    ],
+    "symbols": "🏍"
+  },
+  "motorized_wheelchair": {
+    "hex_list": [
+      "1f9bc"
+    ],
+    "symbols": "🦼"
+  },
+  "motorway": {
+    "hex_list": [
+      "1f6e3"
+    ],
+    "symbols": "🛣"
+  },
+  "mount_fuji": {
+    "hex_list": [
+      "1f5fb"
+    ],
+    "symbols": "🗻"
+  },
+  "mountain": {
+    "hex_list": [
+      "26f0"
+    ],
+    "symbols": "⛰"
+  },
+  "mountain_bicyclist": {
+    "hex_list": [
+      "1f6b5"
+    ],
+    "symbols": "🚵"
+  },
+  "mountain_biking_man": {
+    "hex_list": [
+      "1f6b5",
+      "2642"
+    ],
+    "symbols": "🚵♂"
+  },
+  "mountain_biking_woman": {
+    "hex_list": [
+      "1f6b5",
+      "2640"
+    ],
+    "symbols": "🚵♀"
+  },
+  "mountain_cableway": {
+    "hex_list": [
+      "1f6a0"
+    ],
+    "symbols": "🚠"
+  },
+  "mountain_railway": {
+    "hex_list": [
+      "1f69e"
+    ],
+    "symbols": "🚞"
+  },
+  "mountain_snow": {
+    "hex_list": [
+      "1f3d4"
+    ],
+    "symbols": "🏔"
+  },
+  "mouse": {
+    "hex_list": [
+      "1f42d"
+    ],
+    "symbols": "🐭"
+  },
+  "mouse2": {
+    "hex_list": [
+      "1f401"
+    ],
+    "symbols": "🐁"
+  },
+  "movie_camera": {
+    "hex_list": [
+      "1f3a5"
+    ],
+    "symbols": "🎥"
+  },
+  "moyai": {
+    "hex_list": [
+      "1f5ff"
+    ],
+    "symbols": "🗿"
+  },
+  "mozambique": {
+    "hex_list": [
+      "1f1f2",
+      "1f1ff"
+    ],
+    "symbols": "🇲🇿"
+  },
+  "mrs_claus": {
+    "hex_list": [
+      "1f936"
+    ],
+    "symbols": "🤶"
+  },
+  "muscle": {
+    "hex_list": [
+      "1f4aa"
+    ],
+    "symbols": "💪"
+  },
+  "mushroom": {
+    "hex_list": [
+      "1f344"
+    ],
+    "symbols": "🍄"
+  },
+  "musical_keyboard": {
+    "hex_list": [
+      "1f3b9"
+    ],
+    "symbols": "🎹"
+  },
+  "musical_note": {
+    "hex_list": [
+      "1f3b5"
+    ],
+    "symbols": "🎵"
+  },
+  "musical_score": {
+    "hex_list": [
+      "1f3bc"
+    ],
+    "symbols": "🎼"
+  },
+  "mute": {
+    "hex_list": [
+      "1f507"
+    ],
+    "symbols": "🔇"
+  },
+  "myanmar": {
+    "hex_list": [
+      "1f1f2",
+      "1f1f2"
+    ],
+    "symbols": "🇲🇲"
+  },
+  "nail_care": {
+    "hex_list": [
+      "1f485"
+    ],
+    "symbols": "💅"
+  },
+  "name_badge": {
+    "hex_list": [
+      "1f4db"
+    ],
+    "symbols": "📛"
+  },
+  "namibia": {
+    "hex_list": [
+      "1f1f3",
+      "1f1e6"
+    ],
+    "symbols": "🇳🇦"
+  },
+  "national_park": {
+    "hex_list": [
+      "1f3de"
+    ],
+    "symbols": "🏞"
+  },
+  "nauru": {
+    "hex_list": [
+      "1f1f3",
+      "1f1f7"
+    ],
+    "symbols": "🇳🇷"
+  },
+  "nauseated_face": {
+    "hex_list": [
+      "1f922"
+    ],
+    "symbols": "🤢"
+  },
+  "nazar_amulet": {
+    "hex_list": [
+      "1f9ff"
+    ],
+    "symbols": "🧿"
+  },
+  "necktie": {
+    "hex_list": [
+      "1f454"
+    ],
+    "symbols": "👔"
+  },
+  "negative_squared_cross_mark": {
+    "hex_list": [
+      "274e"
+    ],
+    "symbols": "❎"
+  },
+  "nepal": {
+    "hex_list": [
+      "1f1f3",
+      "1f1f5"
+    ],
+    "symbols": "🇳🇵"
+  },
+  "nerd_face": {
+    "hex_list": [
+      "1f913"
+    ],
+    "symbols": "🤓"
+  },
+  "netherlands": {
+    "hex_list": [
+      "1f1f3",
+      "1f1f1"
+    ],
+    "symbols": "🇳🇱"
+  },
+  "neutral_face": {
+    "hex_list": [
+      "1f610"
+    ],
+    "symbols": "😐"
+  },
+  "new": {
+    "hex_list": [
+      "1f195"
+    ],
+    "symbols": "🆕"
+  },
+  "new_caledonia": {
+    "hex_list": [
+      "1f1f3",
+      "1f1e8"
+    ],
+    "symbols": "🇳🇨"
+  },
+  "new_moon": {
+    "hex_list": [
+      "1f311"
+    ],
+    "symbols": "🌑"
+  },
+  "new_moon_with_face": {
+    "hex_list": [
+      "1f31a"
+    ],
+    "symbols": "🌚"
+  },
+  "new_zealand": {
+    "hex_list": [
+      "1f1f3",
+      "1f1ff"
+    ],
+    "symbols": "🇳🇿"
+  },
+  "newspaper": {
+    "hex_list": [
+      "1f4f0"
+    ],
+    "symbols": "📰"
+  },
+  "newspaper_roll": {
+    "hex_list": [
+      "1f5de"
+    ],
+    "symbols": "🗞"
+  },
+  "next_track_button": {
+    "hex_list": [
+      "23ed"
+    ],
+    "symbols": "⏭"
+  },
+  "ng": {
+    "hex_list": [
+      "1f196"
+    ],
+    "symbols": "🆖"
+  },
+  "ng_man": {
+    "hex_list": [
+      "1f645",
+      "2642"
+    ],
+    "symbols": "🙅♂"
+  },
+  "ng_woman": {
+    "hex_list": [
+      "1f645",
+      "2640"
+    ],
+    "symbols": "🙅♀"
+  },
+  "nicaragua": {
+    "hex_list": [
+      "1f1f3",
+      "1f1ee"
+    ],
+    "symbols": "🇳🇮"
+  },
+  "niger": {
+    "hex_list": [
+      "1f1f3",
+      "1f1ea"
+    ],
+    "symbols": "🇳🇪"
+  },
+  "nigeria": {
+    "hex_list": [
+      "1f1f3",
+      "1f1ec"
+    ],
+    "symbols": "🇳🇬"
+  },
+  "night_with_stars": {
+    "hex_list": [
+      "1f303"
+    ],
+    "symbols": "🌃"
+  },
+  "nine": {
+    "hex_list": [
+      "0039",
+      "20e3"
+    ],
+    "symbols": "9⃣"
+  },
+  "niue": {
+    "hex_list": [
+      "1f1f3",
+      "1f1fa"
+    ],
+    "symbols": "🇳🇺"
+  },
+  "no_bell": {
+    "hex_list": [
+      "1f515"
+    ],
+    "symbols": "🔕"
+  },
+  "no_bicycles": {
+    "hex_list": [
+      "1f6b3"
+    ],
+    "symbols": "🚳"
+  },
+  "no_entry": {
+    "hex_list": [
+      "26d4"
+    ],
+    "symbols": "⛔"
+  },
+  "no_entry_sign": {
+    "hex_list": [
+      "1f6ab"
+    ],
+    "symbols": "🚫"
+  },
+  "no_good": {
+    "hex_list": [
+      "1f645"
+    ],
+    "symbols": "🙅"
+  },
+  "no_good_man": {
+    "hex_list": [
+      "1f645",
+      "2642"
+    ],
+    "symbols": "🙅♂"
+  },
+  "no_good_woman": {
+    "hex_list": [
+      "1f645",
+      "2640"
+    ],
+    "symbols": "🙅♀"
+  },
+  "no_mobile_phones": {
+    "hex_list": [
+      "1f4f5"
+    ],
+    "symbols": "📵"
+  },
+  "no_mouth": {
+    "hex_list": [
+      "1f636"
+    ],
+    "symbols": "😶"
+  },
+  "no_pedestrians": {
+    "hex_list": [
+      "1f6b7"
+    ],
+    "symbols": "🚷"
+  },
+  "no_smoking": {
+    "hex_list": [
+      "1f6ad"
+    ],
+    "symbols": "🚭"
+  },
+  "non-potable_water": {
+    "hex_list": [
+      "1f6b1"
+    ],
+    "symbols": "🚱"
+  },
+  "norfolk_island": {
+    "hex_list": [
+      "1f1f3",
+      "1f1eb"
+    ],
+    "symbols": "🇳🇫"
+  },
+  "north_korea": {
+    "hex_list": [
+      "1f1f0",
+      "1f1f5"
+    ],
+    "symbols": "🇰🇵"
+  },
+  "northern_mariana_islands": {
+    "hex_list": [
+      "1f1f2",
+      "1f1f5"
+    ],
+    "symbols": "🇲🇵"
+  },
+  "norway": {
+    "hex_list": [
+      "1f1f3",
+      "1f1f4"
+    ],
+    "symbols": "🇳🇴"
+  },
+  "nose": {
+    "hex_list": [
+      "1f443"
+    ],
+    "symbols": "👃"
+  },
+  "notebook": {
+    "hex_list": [
+      "1f4d3"
+    ],
+    "symbols": "📓"
+  },
+  "notebook_with_decorative_cover": {
+    "hex_list": [
+      "1f4d4"
+    ],
+    "symbols": "📔"
+  },
+  "notes": {
+    "hex_list": [
+      "1f3b6"
+    ],
+    "symbols": "🎶"
+  },
+  "nut_and_bolt": {
+    "hex_list": [
+      "1f529"
+    ],
+    "symbols": "🔩"
+  },
+  "o": {
+    "hex_list": [
+      "2b55"
+    ],
+    "symbols": "⭕"
+  },
+  "o2": {
+    "hex_list": [
+      "1f17e"
+    ],
+    "symbols": "🅾"
+  },
+  "ocean": {
+    "hex_list": [
+      "1f30a"
+    ],
+    "symbols": "🌊"
+  },
+  "octopus": {
+    "hex_list": [
+      "1f419"
+    ],
+    "symbols": "🐙"
+  },
+  "oden": {
+    "hex_list": [
+      "1f362"
+    ],
+    "symbols": "🍢"
+  },
+  "office": {
+    "hex_list": [
+      "1f3e2"
+    ],
+    "symbols": "🏢"
+  },
+  "office_worker": {
+    "hex_list": [
+      "1f9d1",
+      "1f4bc"
+    ],
+    "symbols": "🧑💼"
+  },
+  "oil_drum": {
+    "hex_list": [
+      "1f6e2"
+    ],
+    "symbols": "🛢"
+  },
+  "ok": {
+    "hex_list": [
+      "1f197"
+    ],
+    "symbols": "🆗"
+  },
+  "ok_hand": {
+    "hex_list": [
+      "1f44c"
+    ],
+    "symbols": "👌"
+  },
+  "ok_man": {
+    "hex_list": [
+      "1f646",
+      "2642"
+    ],
+    "symbols": "🙆♂"
+  },
+  "ok_person": {
+    "hex_list": [
+      "1f646"
+    ],
+    "symbols": "🙆"
+  },
+  "ok_woman": {
+    "hex_list": [
+      "1f646",
+      "2640"
+    ],
+    "symbols": "🙆♀"
+  },
+  "old_key": {
+    "hex_list": [
+      "1f5dd"
+    ],
+    "symbols": "🗝"
+  },
+  "older_adult": {
+    "hex_list": [
+      "1f9d3"
+    ],
+    "symbols": "🧓"
+  },
+  "older_man": {
+    "hex_list": [
+      "1f474"
+    ],
+    "symbols": "👴"
+  },
+  "older_woman": {
+    "hex_list": [
+      "1f475"
+    ],
+    "symbols": "👵"
+  },
+  "om": {
+    "hex_list": [
+      "1f549"
+    ],
+    "symbols": "🕉"
+  },
+  "oman": {
+    "hex_list": [
+      "1f1f4",
+      "1f1f2"
+    ],
+    "symbols": "🇴🇲"
+  },
+  "on": {
+    "hex_list": [
+      "1f51b"
+    ],
+    "symbols": "🔛"
+  },
+  "oncoming_automobile": {
+    "hex_list": [
+      "1f698"
+    ],
+    "symbols": "🚘"
+  },
+  "oncoming_bus": {
+    "hex_list": [
+      "1f68d"
+    ],
+    "symbols": "🚍"
+  },
+  "oncoming_police_car": {
+    "hex_list": [
+      "1f694"
+    ],
+    "symbols": "🚔"
+  },
+  "oncoming_taxi": {
+    "hex_list": [
+      "1f696"
+    ],
+    "symbols": "🚖"
+  },
+  "one": {
+    "hex_list": [
+      "0031",
+      "20e3"
+    ],
+    "symbols": "1⃣"
+  },
+  "one_piece_swimsuit": {
+    "hex_list": [
+      "1fa71"
+    ],
+    "symbols": "🩱"
+  },
+  "onion": {
+    "hex_list": [
+      "1f9c5"
+    ],
+    "symbols": "🧅"
+  },
+  "open_book": {
+    "hex_list": [
+      "1f4d6"
+    ],
+    "symbols": "📖"
+  },
+  "open_file_folder": {
+    "hex_list": [
+      "1f4c2"
+    ],
+    "symbols": "📂"
+  },
+  "open_hands": {
+    "hex_list": [
+      "1f450"
+    ],
+    "symbols": "👐"
+  },
+  "open_mouth": {
+    "hex_list": [
+      "1f62e"
+    ],
+    "symbols": "😮"
+  },
+  "open_umbrella": {
+    "hex_list": [
+      "2602"
+    ],
+    "symbols": "☂"
+  },
+  "ophiuchus": {
+    "hex_list": [
+      "26ce"
+    ],
+    "symbols": "⛎"
+  },
+  "orange": {
+    "hex_list": [
+      "1f34a"
+    ],
+    "symbols": "🍊"
+  },
+  "orange_book": {
+    "hex_list": [
+      "1f4d9"
+    ],
+    "symbols": "📙"
+  },
+  "orange_circle": {
+    "hex_list": [
+      "1f7e0"
+    ],
+    "symbols": "🟠"
+  },
+  "orange_heart": {
+    "hex_list": [
+      "1f9e1"
+    ],
+    "symbols": "🧡"
+  },
+  "orange_square": {
+    "hex_list": [
+      "1f7e7"
+    ],
+    "symbols": "🟧"
+  },
+  "orangutan": {
+    "hex_list": [
+      "1f9a7"
+    ],
+    "symbols": "🦧"
+  },
+  "orthodox_cross": {
+    "hex_list": [
+      "2626"
+    ],
+    "symbols": "☦"
+  },
+  "otter": {
+    "hex_list": [
+      "1f9a6"
+    ],
+    "symbols": "🦦"
+  },
+  "outbox_tray": {
+    "hex_list": [
+      "1f4e4"
+    ],
+    "symbols": "📤"
+  },
+  "owl": {
+    "hex_list": [
+      "1f989"
+    ],
+    "symbols": "🦉"
+  },
+  "ox": {
+    "hex_list": [
+      "1f402"
+    ],
+    "symbols": "🐂"
+  },
+  "oyster": {
+    "hex_list": [
+      "1f9aa"
+    ],
+    "symbols": "🦪"
+  },
+  "package": {
+    "hex_list": [
+      "1f4e6"
+    ],
+    "symbols": "📦"
+  },
+  "page_facing_up": {
+    "hex_list": [
+      "1f4c4"
+    ],
+    "symbols": "📄"
+  },
+  "page_with_curl": {
+    "hex_list": [
+      "1f4c3"
+    ],
+    "symbols": "📃"
+  },
+  "pager": {
+    "hex_list": [
+      "1f4df"
+    ],
+    "symbols": "📟"
+  },
+  "paintbrush": {
+    "hex_list": [
+      "1f58c"
+    ],
+    "symbols": "🖌"
+  },
+  "pakistan": {
+    "hex_list": [
+      "1f1f5",
+      "1f1f0"
+    ],
+    "symbols": "🇵🇰"
+  },
+  "palau": {
+    "hex_list": [
+      "1f1f5",
+      "1f1fc"
+    ],
+    "symbols": "🇵🇼"
+  },
+  "palestinian_territories": {
+    "hex_list": [
+      "1f1f5",
+      "1f1f8"
+    ],
+    "symbols": "🇵🇸"
+  },
+  "palm_tree": {
+    "hex_list": [
+      "1f334"
+    ],
+    "symbols": "🌴"
+  },
+  "palms_up_together": {
+    "hex_list": [
+      "1f932"
+    ],
+    "symbols": "🤲"
+  },
+  "panama": {
+    "hex_list": [
+      "1f1f5",
+      "1f1e6"
+    ],
+    "symbols": "🇵🇦"
+  },
+  "pancakes": {
+    "hex_list": [
+      "1f95e"
+    ],
+    "symbols": "🥞"
+  },
+  "panda_face": {
+    "hex_list": [
+      "1f43c"
+    ],
+    "symbols": "🐼"
+  },
+  "paperclip": {
+    "hex_list": [
+      "1f4ce"
+    ],
+    "symbols": "📎"
+  },
+  "paperclips": {
+    "hex_list": [
+      "1f587"
+    ],
+    "symbols": "🖇"
+  },
+  "papua_new_guinea": {
+    "hex_list": [
+      "1f1f5",
+      "1f1ec"
+    ],
+    "symbols": "🇵🇬"
+  },
+  "parachute": {
+    "hex_list": [
+      "1fa82"
+    ],
+    "symbols": "🪂"
+  },
+  "paraguay": {
+    "hex_list": [
+      "1f1f5",
+      "1f1fe"
+    ],
+    "symbols": "🇵🇾"
+  },
+  "parasol_on_ground": {
+    "hex_list": [
+      "26f1"
+    ],
+    "symbols": "⛱"
+  },
+  "parking": {
+    "hex_list": [
+      "1f17f"
+    ],
+    "symbols": "🅿"
+  },
+  "parrot": {
+    "hex_list": [
+      "1f99c"
+    ],
+    "symbols": "🦜"
+  },
+  "part_alternation_mark": {
+    "hex_list": [
+      "303d"
+    ],
+    "symbols": "〽"
+  },
+  "partly_sunny": {
+    "hex_list": [
+      "26c5"
+    ],
+    "symbols": "⛅"
+  },
+  "partying_face": {
+    "hex_list": [
+      "1f973"
+    ],
+    "symbols": "🥳"
+  },
+  "passenger_ship": {
+    "hex_list": [
+      "1f6f3"
+    ],
+    "symbols": "🛳"
+  },
+  "passport_control": {
+    "hex_list": [
+      "1f6c2"
+    ],
+    "symbols": "🛂"
+  },
+  "pause_button": {
+    "hex_list": [
+      "23f8"
+    ],
+    "symbols": "⏸"
+  },
+  "paw_prints": {
+    "hex_list": [
+      "1f43e"
+    ],
+    "symbols": "🐾"
+  },
+  "peace_symbol": {
+    "hex_list": [
+      "262e"
+    ],
+    "symbols": "☮"
+  },
+  "peach": {
+    "hex_list": [
+      "1f351"
+    ],
+    "symbols": "🍑"
+  },
+  "peacock": {
+    "hex_list": [
+      "1f99a"
+    ],
+    "symbols": "🦚"
+  },
+  "peanuts": {
+    "hex_list": [
+      "1f95c"
+    ],
+    "symbols": "🥜"
+  },
+  "pear": {
+    "hex_list": [
+      "1f350"
+    ],
+    "symbols": "🍐"
+  },
+  "pen": {
+    "hex_list": [
+      "1f58a"
+    ],
+    "symbols": "🖊"
+  },
+  "pencil": {
+    "hex_list": [
+      "1f4dd"
+    ],
+    "symbols": "📝"
+  },
+  "pencil2": {
+    "hex_list": [
+      "270f"
+    ],
+    "symbols": "✏"
+  },
+  "penguin": {
+    "hex_list": [
+      "1f427"
+    ],
+    "symbols": "🐧"
+  },
+  "pensive": {
+    "hex_list": [
+      "1f614"
+    ],
+    "symbols": "😔"
+  },
+  "people_holding_hands": {
+    "hex_list": [
+      "1f9d1",
+      "1f91d",
+      "1f9d1"
+    ],
+    "symbols": "🧑🤝🧑"
+  },
+  "performing_arts": {
+    "hex_list": [
+      "1f3ad"
+    ],
+    "symbols": "🎭"
+  },
+  "persevere": {
+    "hex_list": [
+      "1f623"
+    ],
+    "symbols": "😣"
+  },
+  "person_bald": {
+    "hex_list": [
+      "1f9d1",
+      "1f9b2"
+    ],
+    "symbols": "🧑🦲"
+  },
+  "person_curly_hair": {
+    "hex_list": [
+      "1f9d1",
+      "1f9b1"
+    ],
+    "symbols": "🧑🦱"
+  },
+  "person_fencing": {
+    "hex_list": [
+      "1f93a"
+    ],
+    "symbols": "🤺"
+  },
+  "person_in_manual_wheelchair": {
+    "hex_list": [
+      "1f9d1",
+      "1f9bd"
+    ],
+    "symbols": "🧑🦽"
+  },
+  "person_in_motorized_wheelchair": {
+    "hex_list": [
+      "1f9d1",
+      "1f9bc"
+    ],
+    "symbols": "🧑🦼"
+  },
+  "person_red_hair": {
+    "hex_list": [
+      "1f9d1",
+      "1f9b0"
+    ],
+    "symbols": "🧑🦰"
+  },
+  "person_white_hair": {
+    "hex_list": [
+      "1f9d1",
+      "1f9b3"
+    ],
+    "symbols": "🧑🦳"
+  },
+  "person_with_probing_cane": {
+    "hex_list": [
+      "1f9d1",
+      "1f9af"
+    ],
+    "symbols": "🧑🦯"
+  },
+  "person_with_turban": {
+    "hex_list": [
+      "1f473"
+    ],
+    "symbols": "👳"
+  },
+  "peru": {
+    "hex_list": [
+      "1f1f5",
+      "1f1ea"
+    ],
+    "symbols": "🇵🇪"
+  },
+  "petri_dish": {
+    "hex_list": [
+      "1f9eb"
+    ],
+    "symbols": "🧫"
+  },
+  "philippines": {
+    "hex_list": [
+      "1f1f5",
+      "1f1ed"
+    ],
+    "symbols": "🇵🇭"
+  },
+  "phone": {
+    "hex_list": [
+      "260e"
+    ],
+    "symbols": "☎"
+  },
+  "pick": {
+    "hex_list": [
+      "26cf"
+    ],
+    "symbols": "⛏"
+  },
+  "pie": {
+    "hex_list": [
+      "1f967"
+    ],
+    "symbols": "🥧"
+  },
+  "pig": {
+    "hex_list": [
+      "1f437"
+    ],
+    "symbols": "🐷"
+  },
+  "pig2": {
+    "hex_list": [
+      "1f416"
+    ],
+    "symbols": "🐖"
+  },
+  "pig_nose": {
+    "hex_list": [
+      "1f43d"
+    ],
+    "symbols": "🐽"
+  },
+  "pill": {
+    "hex_list": [
+      "1f48a"
+    ],
+    "symbols": "💊"
+  },
+  "pilot": {
+    "hex_list": [
+      "1f9d1",
+      "2708"
+    ],
+    "symbols": "🧑✈"
+  },
+  "pinching_hand": {
+    "hex_list": [
+      "1f90f"
+    ],
+    "symbols": "🤏"
+  },
+  "pineapple": {
+    "hex_list": [
+      "1f34d"
+    ],
+    "symbols": "🍍"
+  },
+  "ping_pong": {
+    "hex_list": [
+      "1f3d3"
+    ],
+    "symbols": "🏓"
+  },
+  "pirate_flag": {
+    "hex_list": [
+      "1f3f4",
+      "2620"
+    ],
+    "symbols": "🏴☠"
+  },
+  "pisces": {
+    "hex_list": [
+      "2653"
+    ],
+    "symbols": "♓"
+  },
+  "pitcairn_islands": {
+    "hex_list": [
+      "1f1f5",
+      "1f1f3"
+    ],
+    "symbols": "🇵🇳"
+  },
+  "pizza": {
+    "hex_list": [
+      "1f355"
+    ],
+    "symbols": "🍕"
+  },
+  "place_of_worship": {
+    "hex_list": [
+      "1f6d0"
+    ],
+    "symbols": "🛐"
+  },
+  "plate_with_cutlery": {
+    "hex_list": [
+      "1f37d"
+    ],
+    "symbols": "🍽"
+  },
+  "play_or_pause_button": {
+    "hex_list": [
+      "23ef"
+    ],
+    "symbols": "⏯"
+  },
+  "pleading_face": {
+    "hex_list": [
+      "1f97a"
+    ],
+    "symbols": "🥺"
+  },
+  "point_down": {
+    "hex_list": [
+      "1f447"
+    ],
+    "symbols": "👇"
+  },
+  "point_left": {
+    "hex_list": [
+      "1f448"
+    ],
+    "symbols": "👈"
+  },
+  "point_right": {
+    "hex_list": [
+      "1f449"
+    ],
+    "symbols": "👉"
+  },
+  "point_up": {
+    "hex_list": [
+      "261d"
+    ],
+    "symbols": "☝"
+  },
+  "point_up_2": {
+    "hex_list": [
+      "1f446"
+    ],
+    "symbols": "👆"
+  },
+  "poland": {
+    "hex_list": [
+      "1f1f5",
+      "1f1f1"
+    ],
+    "symbols": "🇵🇱"
+  },
+  "police_car": {
+    "hex_list": [
+      "1f693"
+    ],
+    "symbols": "🚓"
+  },
+  "police_officer": {
+    "hex_list": [
+      "1f46e"
+    ],
+    "symbols": "👮"
+  },
+  "policeman": {
+    "hex_list": [
+      "1f46e",
+      "2642"
+    ],
+    "symbols": "👮♂"
+  },
+  "policewoman": {
+    "hex_list": [
+      "1f46e",
+      "2640"
+    ],
+    "symbols": "👮♀"
+  },
+  "poodle": {
+    "hex_list": [
+      "1f429"
+    ],
+    "symbols": "🐩"
+  },
+  "poop": {
+    "hex_list": [
+      "1f4a9"
+    ],
+    "symbols": "💩"
+  },
+  "popcorn": {
+    "hex_list": [
+      "1f37f"
+    ],
+    "symbols": "🍿"
+  },
+  "portugal": {
+    "hex_list": [
+      "1f1f5",
+      "1f1f9"
+    ],
+    "symbols": "🇵🇹"
+  },
+  "post_office": {
+    "hex_list": [
+      "1f3e3"
+    ],
+    "symbols": "🏣"
+  },
+  "postal_horn": {
+    "hex_list": [
+      "1f4ef"
+    ],
+    "symbols": "📯"
+  },
+  "postbox": {
+    "hex_list": [
+      "1f4ee"
+    ],
+    "symbols": "📮"
+  },
+  "potable_water": {
+    "hex_list": [
+      "1f6b0"
+    ],
+    "symbols": "🚰"
+  },
+  "potato": {
+    "hex_list": [
+      "1f954"
+    ],
+    "symbols": "🥔"
+  },
+  "pouch": {
+    "hex_list": [
+      "1f45d"
+    ],
+    "symbols": "👝"
+  },
+  "poultry_leg": {
+    "hex_list": [
+      "1f357"
+    ],
+    "symbols": "🍗"
+  },
+  "pound": {
+    "hex_list": [
+      "1f4b7"
+    ],
+    "symbols": "💷"
+  },
+  "pout": {
+    "hex_list": [
+      "1f621"
+    ],
+    "symbols": "😡"
+  },
+  "pouting_cat": {
+    "hex_list": [
+      "1f63e"
+    ],
+    "symbols": "😾"
+  },
+  "pouting_face": {
+    "hex_list": [
+      "1f64e"
+    ],
+    "symbols": "🙎"
+  },
+  "pouting_man": {
+    "hex_list": [
+      "1f64e",
+      "2642"
+    ],
+    "symbols": "🙎♂"
+  },
+  "pouting_woman": {
+    "hex_list": [
+      "1f64e",
+      "2640"
+    ],
+    "symbols": "🙎♀"
+  },
+  "pray": {
+    "hex_list": [
+      "1f64f"
+    ],
+    "symbols": "🙏"
+  },
+  "prayer_beads": {
+    "hex_list": [
+      "1f4ff"
+    ],
+    "symbols": "📿"
+  },
+  "pregnant_woman": {
+    "hex_list": [
+      "1f930"
+    ],
+    "symbols": "🤰"
+  },
+  "pretzel": {
+    "hex_list": [
+      "1f968"
+    ],
+    "symbols": "🥨"
+  },
+  "previous_track_button": {
+    "hex_list": [
+      "23ee"
+    ],
+    "symbols": "⏮"
+  },
+  "prince": {
+    "hex_list": [
+      "1f934"
+    ],
+    "symbols": "🤴"
+  },
+  "princess": {
+    "hex_list": [
+      "1f478"
+    ],
+    "symbols": "👸"
+  },
+  "printer": {
+    "hex_list": [
+      "1f5a8"
+    ],
+    "symbols": "🖨"
+  },
+  "probing_cane": {
+    "hex_list": [
+      "1f9af"
+    ],
+    "symbols": "🦯"
+  },
+  "puerto_rico": {
+    "hex_list": [
+      "1f1f5",
+      "1f1f7"
+    ],
+    "symbols": "🇵🇷"
+  },
+  "punch": {
+    "hex_list": [
+      "1f44a"
+    ],
+    "symbols": "👊"
+  },
+  "purple_circle": {
+    "hex_list": [
+      "1f7e3"
+    ],
+    "symbols": "🟣"
+  },
+  "purple_heart": {
+    "hex_list": [
+      "1f49c"
+    ],
+    "symbols": "💜"
+  },
+  "purple_square": {
+    "hex_list": [
+      "1f7ea"
+    ],
+    "symbols": "🟪"
+  },
+  "purse": {
+    "hex_list": [
+      "1f45b"
+    ],
+    "symbols": "👛"
+  },
+  "pushpin": {
+    "hex_list": [
+      "1f4cc"
+    ],
+    "symbols": "📌"
+  },
+  "put_litter_in_its_place": {
+    "hex_list": [
+      "1f6ae"
+    ],
+    "symbols": "🚮"
+  },
+  "qatar": {
+    "hex_list": [
+      "1f1f6",
+      "1f1e6"
+    ],
+    "symbols": "🇶🇦"
+  },
+  "question": {
+    "hex_list": [
+      "2753"
+    ],
+    "symbols": "❓"
+  },
+  "rabbit": {
+    "hex_list": [
+      "1f430"
+    ],
+    "symbols": "🐰"
+  },
+  "rabbit2": {
+    "hex_list": [
+      "1f407"
+    ],
+    "symbols": "🐇"
+  },
+  "raccoon": {
+    "hex_list": [
+      "1f99d"
+    ],
+    "symbols": "🦝"
+  },
+  "racehorse": {
+    "hex_list": [
+      "1f40e"
+    ],
+    "symbols": "🐎"
+  },
+  "racing_car": {
+    "hex_list": [
+      "1f3ce"
+    ],
+    "symbols": "🏎"
+  },
+  "radio": {
+    "hex_list": [
+      "1f4fb"
+    ],
+    "symbols": "📻"
+  },
+  "radio_button": {
+    "hex_list": [
+      "1f518"
+    ],
+    "symbols": "🔘"
+  },
+  "radioactive": {
+    "hex_list": [
+      "2622"
+    ],
+    "symbols": "☢"
+  },
+  "rage": {
+    "hex_list": [
+      "1f621"
+    ],
+    "symbols": "😡"
+  },
+  "railway_car": {
+    "hex_list": [
+      "1f683"
+    ],
+    "symbols": "🚃"
+  },
+  "railway_track": {
+    "hex_list": [
+      "1f6e4"
+    ],
+    "symbols": "🛤"
+  },
+  "rainbow": {
+    "hex_list": [
+      "1f308"
+    ],
+    "symbols": "🌈"
+  },
+  "rainbow_flag": {
+    "hex_list": [
+      "1f3f3",
+      "1f308"
+    ],
+    "symbols": "🏳🌈"
+  },
+  "raised_back_of_hand": {
+    "hex_list": [
+      "1f91a"
+    ],
+    "symbols": "🤚"
+  },
+  "raised_eyebrow": {
+    "hex_list": [
+      "1f928"
+    ],
+    "symbols": "🤨"
+  },
+  "raised_hand": {
+    "hex_list": [
+      "270b"
+    ],
+    "symbols": "✋"
+  },
+  "raised_hand_with_fingers_splayed": {
+    "hex_list": [
+      "1f590"
+    ],
+    "symbols": "🖐"
+  },
+  "raised_hands": {
+    "hex_list": [
+      "1f64c"
+    ],
+    "symbols": "🙌"
+  },
+  "raising_hand": {
+    "hex_list": [
+      "1f64b"
+    ],
+    "symbols": "🙋"
+  },
+  "raising_hand_man": {
+    "hex_list": [
+      "1f64b",
+      "2642"
+    ],
+    "symbols": "🙋♂"
+  },
+  "raising_hand_woman": {
+    "hex_list": [
+      "1f64b",
+      "2640"
+    ],
+    "symbols": "🙋♀"
+  },
+  "ram": {
+    "hex_list": [
+      "1f40f"
+    ],
+    "symbols": "🐏"
+  },
+  "ramen": {
+    "hex_list": [
+      "1f35c"
+    ],
+    "symbols": "🍜"
+  },
+  "rat": {
+    "hex_list": [
+      "1f400"
+    ],
+    "symbols": "🐀"
+  },
+  "razor": {
+    "hex_list": [
+      "1fa92"
+    ],
+    "symbols": "🪒"
+  },
+  "receipt": {
+    "hex_list": [
+      "1f9fe"
+    ],
+    "symbols": "🧾"
+  },
+  "record_button": {
+    "hex_list": [
+      "23fa"
+    ],
+    "symbols": "⏺"
+  },
+  "recycle": {
+    "hex_list": [
+      "267b"
+    ],
+    "symbols": "♻"
+  },
+  "red_car": {
+    "hex_list": [
+      "1f697"
+    ],
+    "symbols": "🚗"
+  },
+  "red_circle": {
+    "hex_list": [
+      "1f534"
+    ],
+    "symbols": "🔴"
+  },
+  "red_envelope": {
+    "hex_list": [
+      "1f9e7"
+    ],
+    "symbols": "🧧"
+  },
+  "red_haired_man": {
+    "hex_list": [
+      "1f468",
+      "1f9b0"
+    ],
+    "symbols": "👨🦰"
+  },
+  "red_haired_woman": {
+    "hex_list": [
+      "1f469",
+      "1f9b0"
+    ],
+    "symbols": "👩🦰"
+  },
+  "red_square": {
+    "hex_list": [
+      "1f7e5"
+    ],
+    "symbols": "🟥"
+  },
+  "registered": {
+    "hex_list": [
+      "00ae"
+    ],
+    "symbols": "®"
+  },
+  "relaxed": {
+    "hex_list": [
+      "263a"
+    ],
+    "symbols": "☺"
+  },
+  "relieved": {
+    "hex_list": [
+      "1f60c"
+    ],
+    "symbols": "😌"
+  },
+  "reminder_ribbon": {
+    "hex_list": [
+      "1f397"
+    ],
+    "symbols": "🎗"
+  },
+  "repeat": {
+    "hex_list": [
+      "1f501"
+    ],
+    "symbols": "🔁"
+  },
+  "repeat_one": {
+    "hex_list": [
+      "1f502"
+    ],
+    "symbols": "🔂"
+  },
+  "rescue_worker_helmet": {
+    "hex_list": [
+      "26d1"
+    ],
+    "symbols": "⛑"
+  },
+  "restroom": {
+    "hex_list": [
+      "1f6bb"
+    ],
+    "symbols": "🚻"
+  },
+  "reunion": {
+    "hex_list": [
+      "1f1f7",
+      "1f1ea"
+    ],
+    "symbols": "🇷🇪"
+  },
+  "revolving_hearts": {
+    "hex_list": [
+      "1f49e"
+    ],
+    "symbols": "💞"
+  },
+  "rewind": {
+    "hex_list": [
+      "23ea"
+    ],
+    "symbols": "⏪"
+  },
+  "rhinoceros": {
+    "hex_list": [
+      "1f98f"
+    ],
+    "symbols": "🦏"
+  },
+  "ribbon": {
+    "hex_list": [
+      "1f380"
+    ],
+    "symbols": "🎀"
+  },
+  "rice": {
+    "hex_list": [
+      "1f35a"
+    ],
+    "symbols": "🍚"
+  },
+  "rice_ball": {
+    "hex_list": [
+      "1f359"
+    ],
+    "symbols": "🍙"
+  },
+  "rice_cracker": {
+    "hex_list": [
+      "1f358"
+    ],
+    "symbols": "🍘"
+  },
+  "rice_scene": {
+    "hex_list": [
+      "1f391"
+    ],
+    "symbols": "🎑"
+  },
+  "right_anger_bubble": {
+    "hex_list": [
+      "1f5ef"
+    ],
+    "symbols": "🗯"
+  },
+  "ring": {
+    "hex_list": [
+      "1f48d"
+    ],
+    "symbols": "💍"
+  },
+  "ringed_planet": {
+    "hex_list": [
+      "1fa90"
+    ],
+    "symbols": "🪐"
+  },
+  "robot": {
+    "hex_list": [
+      "1f916"
+    ],
+    "symbols": "🤖"
+  },
+  "rocket": {
+    "hex_list": [
+      "1f680"
+    ],
+    "symbols": "🚀"
+  },
+  "rofl": {
+    "hex_list": [
+      "1f923"
+    ],
+    "symbols": "🤣"
+  },
+  "roll_eyes": {
+    "hex_list": [
+      "1f644"
+    ],
+    "symbols": "🙄"
+  },
+  "roll_of_paper": {
+    "hex_list": [
+      "1f9fb"
+    ],
+    "symbols": "🧻"
+  },
+  "roller_coaster": {
+    "hex_list": [
+      "1f3a2"
+    ],
+    "symbols": "🎢"
+  },
+  "romania": {
+    "hex_list": [
+      "1f1f7",
+      "1f1f4"
+    ],
+    "symbols": "🇷🇴"
+  },
+  "rooster": {
+    "hex_list": [
+      "1f413"
+    ],
+    "symbols": "🐓"
+  },
+  "rose": {
+    "hex_list": [
+      "1f339"
+    ],
+    "symbols": "🌹"
+  },
+  "rosette": {
+    "hex_list": [
+      "1f3f5"
+    ],
+    "symbols": "🏵"
+  },
+  "rotating_light": {
+    "hex_list": [
+      "1f6a8"
+    ],
+    "symbols": "🚨"
+  },
+  "round_pushpin": {
+    "hex_list": [
+      "1f4cd"
+    ],
+    "symbols": "📍"
+  },
+  "rowboat": {
+    "hex_list": [
+      "1f6a3"
+    ],
+    "symbols": "🚣"
+  },
+  "rowing_man": {
+    "hex_list": [
+      "1f6a3",
+      "2642"
+    ],
+    "symbols": "🚣♂"
+  },
+  "rowing_woman": {
+    "hex_list": [
+      "1f6a3",
+      "2640"
+    ],
+    "symbols": "🚣♀"
+  },
+  "ru": {
+    "hex_list": [
+      "1f1f7",
+      "1f1fa"
+    ],
+    "symbols": "🇷🇺"
+  },
+  "rugby_football": {
+    "hex_list": [
+      "1f3c9"
+    ],
+    "symbols": "🏉"
+  },
+  "runner": {
+    "hex_list": [
+      "1f3c3"
+    ],
+    "symbols": "🏃"
+  },
+  "running": {
+    "hex_list": [
+      "1f3c3"
+    ],
+    "symbols": "🏃"
+  },
+  "running_man": {
+    "hex_list": [
+      "1f3c3",
+      "2642"
+    ],
+    "symbols": "🏃♂"
+  },
+  "running_shirt_with_sash": {
+    "hex_list": [
+      "1f3bd"
+    ],
+    "symbols": "🎽"
+  },
+  "running_woman": {
+    "hex_list": [
+      "1f3c3",
+      "2640"
+    ],
+    "symbols": "🏃♀"
+  },
+  "rwanda": {
+    "hex_list": [
+      "1f1f7",
+      "1f1fc"
+    ],
+    "symbols": "🇷🇼"
+  },
+  "sa": {
+    "hex_list": [
+      "1f202"
+    ],
+    "symbols": "🈂"
+  },
+  "safety_pin": {
+    "hex_list": [
+      "1f9f7"
+    ],
+    "symbols": "🧷"
+  },
+  "safety_vest": {
+    "hex_list": [
+      "1f9ba"
+    ],
+    "symbols": "🦺"
+  },
+  "sagittarius": {
+    "hex_list": [
+      "2650"
+    ],
+    "symbols": "♐"
+  },
+  "sailboat": {
+    "hex_list": [
+      "26f5"
+    ],
+    "symbols": "⛵"
+  },
+  "sake": {
+    "hex_list": [
+      "1f376"
+    ],
+    "symbols": "🍶"
+  },
+  "salt": {
+    "hex_list": [
+      "1f9c2"
+    ],
+    "symbols": "🧂"
+  },
+  "samoa": {
+    "hex_list": [
+      "1f1fc",
+      "1f1f8"
+    ],
+    "symbols": "🇼🇸"
+  },
+  "san_marino": {
+    "hex_list": [
+      "1f1f8",
+      "1f1f2"
+    ],
+    "symbols": "🇸🇲"
+  },
+  "sandal": {
+    "hex_list": [
+      "1f461"
+    ],
+    "symbols": "👡"
+  },
+  "sandwich": {
+    "hex_list": [
+      "1f96a"
+    ],
+    "symbols": "🥪"
+  },
+  "santa": {
+    "hex_list": [
+      "1f385"
+    ],
+    "symbols": "🎅"
+  },
+  "sao_tome_principe": {
+    "hex_list": [
+      "1f1f8",
+      "1f1f9"
+    ],
+    "symbols": "🇸🇹"
+  },
+  "sari": {
+    "hex_list": [
+      "1f97b"
+    ],
+    "symbols": "🥻"
+  },
+  "sassy_man": {
+    "hex_list": [
+      "1f481",
+      "2642"
+    ],
+    "symbols": "💁♂"
+  },
+  "sassy_woman": {
+    "hex_list": [
+      "1f481",
+      "2640"
+    ],
+    "symbols": "💁♀"
+  },
+  "satellite": {
+    "hex_list": [
+      "1f4e1"
+    ],
+    "symbols": "📡"
+  },
+  "satisfied": {
+    "hex_list": [
+      "1f606"
+    ],
+    "symbols": "😆"
+  },
+  "saudi_arabia": {
+    "hex_list": [
+      "1f1f8",
+      "1f1e6"
+    ],
+    "symbols": "🇸🇦"
+  },
+  "sauna_man": {
+    "hex_list": [
+      "1f9d6",
+      "2642"
+    ],
+    "symbols": "🧖♂"
+  },
+  "sauna_person": {
+    "hex_list": [
+      "1f9d6"
+    ],
+    "symbols": "🧖"
+  },
+  "sauna_woman": {
+    "hex_list": [
+      "1f9d6",
+      "2640"
+    ],
+    "symbols": "🧖♀"
+  },
+  "sauropod": {
+    "hex_list": [
+      "1f995"
+    ],
+    "symbols": "🦕"
+  },
+  "saxophone": {
+    "hex_list": [
+      "1f3b7"
+    ],
+    "symbols": "🎷"
+  },
+  "scarf": {
+    "hex_list": [
+      "1f9e3"
+    ],
+    "symbols": "🧣"
+  },
+  "school": {
+    "hex_list": [
+      "1f3eb"
+    ],
+    "symbols": "🏫"
+  },
+  "school_satchel": {
+    "hex_list": [
+      "1f392"
+    ],
+    "symbols": "🎒"
+  },
+  "scientist": {
+    "hex_list": [
+      "1f9d1",
+      "1f52c"
+    ],
+    "symbols": "🧑🔬"
+  },
+  "scissors": {
+    "hex_list": [
+      "2702"
+    ],
+    "symbols": "✂"
+  },
+  "scorpion": {
+    "hex_list": [
+      "1f982"
+    ],
+    "symbols": "🦂"
+  },
+  "scorpius": {
+    "hex_list": [
+      "264f"
+    ],
+    "symbols": "♏"
+  },
+  "scotland": {
+    "hex_list": [
+      "1f3f4",
+      "e0067",
+      "e0062",
+      "e0073",
+      "e0063",
+      "e0074",
+      "e007f"
+    ],
+    "symbols": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+  },
+  "scream": {
+    "hex_list": [
+      "1f631"
+    ],
+    "symbols": "😱"
+  },
+  "scream_cat": {
+    "hex_list": [
+      "1f640"
+    ],
+    "symbols": "🙀"
+  },
+  "scroll": {
+    "hex_list": [
+      "1f4dc"
+    ],
+    "symbols": "📜"
+  },
+  "seat": {
+    "hex_list": [
+      "1f4ba"
+    ],
+    "symbols": "💺"
+  },
+  "secret": {
+    "hex_list": [
+      "3299"
+    ],
+    "symbols": "㊙"
+  },
+  "see_no_evil": {
+    "hex_list": [
+      "1f648"
+    ],
+    "symbols": "🙈"
+  },
+  "seedling": {
+    "hex_list": [
+      "1f331"
+    ],
+    "symbols": "🌱"
+  },
+  "selfie": {
+    "hex_list": [
+      "1f933"
+    ],
+    "symbols": "🤳"
+  },
+  "senegal": {
+    "hex_list": [
+      "1f1f8",
+      "1f1f3"
+    ],
+    "symbols": "🇸🇳"
+  },
+  "serbia": {
+    "hex_list": [
+      "1f1f7",
+      "1f1f8"
+    ],
+    "symbols": "🇷🇸"
+  },
+  "service_dog": {
+    "hex_list": [
+      "1f415",
+      "1f9ba"
+    ],
+    "symbols": "🐕🦺"
+  },
+  "seven": {
+    "hex_list": [
+      "0037",
+      "20e3"
+    ],
+    "symbols": "7⃣"
+  },
+  "seychelles": {
+    "hex_list": [
+      "1f1f8",
+      "1f1e8"
+    ],
+    "symbols": "🇸🇨"
+  },
+  "shallow_pan_of_food": {
+    "hex_list": [
+      "1f958"
+    ],
+    "symbols": "🥘"
+  },
+  "shamrock": {
+    "hex_list": [
+      "2618"
+    ],
+    "symbols": "☘"
+  },
+  "shark": {
+    "hex_list": [
+      "1f988"
+    ],
+    "symbols": "🦈"
+  },
+  "shaved_ice": {
+    "hex_list": [
+      "1f367"
+    ],
+    "symbols": "🍧"
+  },
+  "sheep": {
+    "hex_list": [
+      "1f411"
+    ],
+    "symbols": "🐑"
+  },
+  "shell": {
+    "hex_list": [
+      "1f41a"
+    ],
+    "symbols": "🐚"
+  },
+  "shield": {
+    "hex_list": [
+      "1f6e1"
+    ],
+    "symbols": "🛡"
+  },
+  "shinto_shrine": {
+    "hex_list": [
+      "26e9"
+    ],
+    "symbols": "⛩"
+  },
+  "ship": {
+    "hex_list": [
+      "1f6a2"
+    ],
+    "symbols": "🚢"
+  },
+  "shirt": {
+    "hex_list": [
+      "1f455"
+    ],
+    "symbols": "👕"
+  },
+  "shit": {
+    "hex_list": [
+      "1f4a9"
+    ],
+    "symbols": "💩"
+  },
+  "shoe": {
+    "hex_list": [
+      "1f45e"
+    ],
+    "symbols": "👞"
+  },
+  "shopping": {
+    "hex_list": [
+      "1f6cd"
+    ],
+    "symbols": "🛍"
+  },
+  "shopping_cart": {
+    "hex_list": [
+      "1f6d2"
+    ],
+    "symbols": "🛒"
+  },
+  "shorts": {
+    "hex_list": [
+      "1fa73"
+    ],
+    "symbols": "🩳"
+  },
+  "shower": {
+    "hex_list": [
+      "1f6bf"
+    ],
+    "symbols": "🚿"
+  },
+  "shrimp": {
+    "hex_list": [
+      "1f990"
+    ],
+    "symbols": "🦐"
+  },
+  "shrug": {
+    "hex_list": [
+      "1f937"
+    ],
+    "symbols": "🤷"
+  },
+  "shushing_face": {
+    "hex_list": [
+      "1f92b"
+    ],
+    "symbols": "🤫"
+  },
+  "sierra_leone": {
+    "hex_list": [
+      "1f1f8",
+      "1f1f1"
+    ],
+    "symbols": "🇸🇱"
+  },
+  "signal_strength": {
+    "hex_list": [
+      "1f4f6"
+    ],
+    "symbols": "📶"
+  },
+  "singapore": {
+    "hex_list": [
+      "1f1f8",
+      "1f1ec"
+    ],
+    "symbols": "🇸🇬"
+  },
+  "singer": {
+    "hex_list": [
+      "1f9d1",
+      "1f3a4"
+    ],
+    "symbols": "🧑🎤"
+  },
+  "sint_maarten": {
+    "hex_list": [
+      "1f1f8",
+      "1f1fd"
+    ],
+    "symbols": "🇸🇽"
+  },
+  "six": {
+    "hex_list": [
+      "0036",
+      "20e3"
+    ],
+    "symbols": "6⃣"
+  },
+  "six_pointed_star": {
+    "hex_list": [
+      "1f52f"
+    ],
+    "symbols": "🔯"
+  },
+  "skateboard": {
+    "hex_list": [
+      "1f6f9"
+    ],
+    "symbols": "🛹"
+  },
+  "ski": {
+    "hex_list": [
+      "1f3bf"
+    ],
+    "symbols": "🎿"
+  },
+  "skier": {
+    "hex_list": [
+      "26f7"
+    ],
+    "symbols": "⛷"
+  },
+  "skull": {
+    "hex_list": [
+      "1f480"
+    ],
+    "symbols": "💀"
+  },
+  "skull_and_crossbones": {
+    "hex_list": [
+      "2620"
+    ],
+    "symbols": "☠"
+  },
+  "skunk": {
+    "hex_list": [
+      "1f9a8"
+    ],
+    "symbols": "🦨"
+  },
+  "sled": {
+    "hex_list": [
+      "1f6f7"
+    ],
+    "symbols": "🛷"
+  },
+  "sleeping": {
+    "hex_list": [
+      "1f634"
+    ],
+    "symbols": "😴"
+  },
+  "sleeping_bed": {
+    "hex_list": [
+      "1f6cc"
+    ],
+    "symbols": "🛌"
+  },
+  "sleepy": {
+    "hex_list": [
+      "1f62a"
+    ],
+    "symbols": "😪"
+  },
+  "slightly_frowning_face": {
+    "hex_list": [
+      "1f641"
+    ],
+    "symbols": "🙁"
+  },
+  "slightly_smiling_face": {
+    "hex_list": [
+      "1f642"
+    ],
+    "symbols": "🙂"
+  },
+  "slot_machine": {
+    "hex_list": [
+      "1f3b0"
+    ],
+    "symbols": "🎰"
+  },
+  "sloth": {
+    "hex_list": [
+      "1f9a5"
+    ],
+    "symbols": "🦥"
+  },
+  "slovakia": {
+    "hex_list": [
+      "1f1f8",
+      "1f1f0"
+    ],
+    "symbols": "🇸🇰"
+  },
+  "slovenia": {
+    "hex_list": [
+      "1f1f8",
+      "1f1ee"
+    ],
+    "symbols": "🇸🇮"
+  },
+  "small_airplane": {
+    "hex_list": [
+      "1f6e9"
+    ],
+    "symbols": "🛩"
+  },
+  "small_blue_diamond": {
+    "hex_list": [
+      "1f539"
+    ],
+    "symbols": "🔹"
+  },
+  "small_orange_diamond": {
+    "hex_list": [
+      "1f538"
+    ],
+    "symbols": "🔸"
+  },
+  "small_red_triangle": {
+    "hex_list": [
+      "1f53a"
+    ],
+    "symbols": "🔺"
+  },
+  "small_red_triangle_down": {
+    "hex_list": [
+      "1f53b"
+    ],
+    "symbols": "🔻"
+  },
+  "smile": {
+    "hex_list": [
+      "1f604"
+    ],
+    "symbols": "😄"
+  },
+  "smile_cat": {
+    "hex_list": [
+      "1f638"
+    ],
+    "symbols": "😸"
+  },
+  "smiley": {
+    "hex_list": [
+      "1f603"
+    ],
+    "symbols": "😃"
+  },
+  "smiley_cat": {
+    "hex_list": [
+      "1f63a"
+    ],
+    "symbols": "😺"
+  },
+  "smiling_face_with_three_hearts": {
+    "hex_list": [
+      "1f970"
+    ],
+    "symbols": "🥰"
+  },
+  "smiling_imp": {
+    "hex_list": [
+      "1f608"
+    ],
+    "symbols": "😈"
+  },
+  "smirk": {
+    "hex_list": [
+      "1f60f"
+    ],
+    "symbols": "😏"
+  },
+  "smirk_cat": {
+    "hex_list": [
+      "1f63c"
+    ],
+    "symbols": "😼"
+  },
+  "smoking": {
+    "hex_list": [
+      "1f6ac"
+    ],
+    "symbols": "🚬"
+  },
+  "snail": {
+    "hex_list": [
+      "1f40c"
+    ],
+    "symbols": "🐌"
+  },
+  "snake": {
+    "hex_list": [
+      "1f40d"
+    ],
+    "symbols": "🐍"
+  },
+  "sneezing_face": {
+    "hex_list": [
+      "1f927"
+    ],
+    "symbols": "🤧"
+  },
+  "snowboarder": {
+    "hex_list": [
+      "1f3c2"
+    ],
+    "symbols": "🏂"
+  },
+  "snowflake": {
+    "hex_list": [
+      "2744"
+    ],
+    "symbols": "❄"
+  },
+  "snowman": {
+    "hex_list": [
+      "26c4"
+    ],
+    "symbols": "⛄"
+  },
+  "snowman_with_snow": {
+    "hex_list": [
+      "2603"
+    ],
+    "symbols": "☃"
+  },
+  "soap": {
+    "hex_list": [
+      "1f9fc"
+    ],
+    "symbols": "🧼"
+  },
+  "sob": {
+    "hex_list": [
+      "1f62d"
+    ],
+    "symbols": "😭"
+  },
+  "soccer": {
+    "hex_list": [
+      "26bd"
+    ],
+    "symbols": "⚽"
+  },
+  "socks": {
+    "hex_list": [
+      "1f9e6"
+    ],
+    "symbols": "🧦"
+  },
+  "softball": {
+    "hex_list": [
+      "1f94e"
+    ],
+    "symbols": "🥎"
+  },
+  "solomon_islands": {
+    "hex_list": [
+      "1f1f8",
+      "1f1e7"
+    ],
+    "symbols": "🇸🇧"
+  },
+  "somalia": {
+    "hex_list": [
+      "1f1f8",
+      "1f1f4"
+    ],
+    "symbols": "🇸🇴"
+  },
+  "soon": {
+    "hex_list": [
+      "1f51c"
+    ],
+    "symbols": "🔜"
+  },
+  "sos": {
+    "hex_list": [
+      "1f198"
+    ],
+    "symbols": "🆘"
+  },
+  "sound": {
+    "hex_list": [
+      "1f509"
+    ],
+    "symbols": "🔉"
+  },
+  "south_africa": {
+    "hex_list": [
+      "1f1ff",
+      "1f1e6"
+    ],
+    "symbols": "🇿🇦"
+  },
+  "south_georgia_south_sandwich_islands": {
+    "hex_list": [
+      "1f1ec",
+      "1f1f8"
+    ],
+    "symbols": "🇬🇸"
+  },
+  "south_sudan": {
+    "hex_list": [
+      "1f1f8",
+      "1f1f8"
+    ],
+    "symbols": "🇸🇸"
+  },
+  "space_invader": {
+    "hex_list": [
+      "1f47e"
+    ],
+    "symbols": "👾"
+  },
+  "spades": {
+    "hex_list": [
+      "2660"
+    ],
+    "symbols": "♠"
+  },
+  "spaghetti": {
+    "hex_list": [
+      "1f35d"
+    ],
+    "symbols": "🍝"
+  },
+  "sparkle": {
+    "hex_list": [
+      "2747"
+    ],
+    "symbols": "❇"
+  },
+  "sparkler": {
+    "hex_list": [
+      "1f387"
+    ],
+    "symbols": "🎇"
+  },
+  "sparkles": {
+    "hex_list": [
+      "2728"
+    ],
+    "symbols": "✨"
+  },
+  "sparkling_heart": {
+    "hex_list": [
+      "1f496"
+    ],
+    "symbols": "💖"
+  },
+  "speak_no_evil": {
+    "hex_list": [
+      "1f64a"
+    ],
+    "symbols": "🙊"
+  },
+  "speaker": {
+    "hex_list": [
+      "1f508"
+    ],
+    "symbols": "🔈"
+  },
+  "speaking_head": {
+    "hex_list": [
+      "1f5e3"
+    ],
+    "symbols": "🗣"
+  },
+  "speech_balloon": {
+    "hex_list": [
+      "1f4ac"
+    ],
+    "symbols": "💬"
+  },
+  "speedboat": {
+    "hex_list": [
+      "1f6a4"
+    ],
+    "symbols": "🚤"
+  },
+  "spider": {
+    "hex_list": [
+      "1f577"
+    ],
+    "symbols": "🕷"
+  },
+  "spider_web": {
+    "hex_list": [
+      "1f578"
+    ],
+    "symbols": "🕸"
+  },
+  "spiral_calendar": {
+    "hex_list": [
+      "1f5d3"
+    ],
+    "symbols": "🗓"
+  },
+  "spiral_notepad": {
+    "hex_list": [
+      "1f5d2"
+    ],
+    "symbols": "🗒"
+  },
+  "sponge": {
+    "hex_list": [
+      "1f9fd"
+    ],
+    "symbols": "🧽"
+  },
+  "spoon": {
+    "hex_list": [
+      "1f944"
+    ],
+    "symbols": "🥄"
+  },
+  "squid": {
+    "hex_list": [
+      "1f991"
+    ],
+    "symbols": "🦑"
+  },
+  "sri_lanka": {
+    "hex_list": [
+      "1f1f1",
+      "1f1f0"
+    ],
+    "symbols": "🇱🇰"
+  },
+  "st_barthelemy": {
+    "hex_list": [
+      "1f1e7",
+      "1f1f1"
+    ],
+    "symbols": "🇧🇱"
+  },
+  "st_helena": {
+    "hex_list": [
+      "1f1f8",
+      "1f1ed"
+    ],
+    "symbols": "🇸🇭"
+  },
+  "st_kitts_nevis": {
+    "hex_list": [
+      "1f1f0",
+      "1f1f3"
+    ],
+    "symbols": "🇰🇳"
+  },
+  "st_lucia": {
+    "hex_list": [
+      "1f1f1",
+      "1f1e8"
+    ],
+    "symbols": "🇱🇨"
+  },
+  "st_martin": {
+    "hex_list": [
+      "1f1f2",
+      "1f1eb"
+    ],
+    "symbols": "🇲🇫"
+  },
+  "st_pierre_miquelon": {
+    "hex_list": [
+      "1f1f5",
+      "1f1f2"
+    ],
+    "symbols": "🇵🇲"
+  },
+  "st_vincent_grenadines": {
+    "hex_list": [
+      "1f1fb",
+      "1f1e8"
+    ],
+    "symbols": "🇻🇨"
+  },
+  "stadium": {
+    "hex_list": [
+      "1f3df"
+    ],
+    "symbols": "🏟"
+  },
+  "standing_man": {
+    "hex_list": [
+      "1f9cd",
+      "2642"
+    ],
+    "symbols": "🧍♂"
+  },
+  "standing_person": {
+    "hex_list": [
+      "1f9cd"
+    ],
+    "symbols": "🧍"
+  },
+  "standing_woman": {
+    "hex_list": [
+      "1f9cd",
+      "2640"
+    ],
+    "symbols": "🧍♀"
+  },
+  "star": {
+    "hex_list": [
+      "2b50"
+    ],
+    "symbols": "⭐"
+  },
+  "star2": {
+    "hex_list": [
+      "1f31f"
+    ],
+    "symbols": "🌟"
+  },
+  "star_and_crescent": {
+    "hex_list": [
+      "262a"
+    ],
+    "symbols": "☪"
+  },
+  "star_of_david": {
+    "hex_list": [
+      "2721"
+    ],
+    "symbols": "✡"
+  },
+  "star_struck": {
+    "hex_list": [
+      "1f929"
+    ],
+    "symbols": "🤩"
+  },
+  "stars": {
+    "hex_list": [
+      "1f320"
+    ],
+    "symbols": "🌠"
+  },
+  "station": {
+    "hex_list": [
+      "1f689"
+    ],
+    "symbols": "🚉"
+  },
+  "statue_of_liberty": {
+    "hex_list": [
+      "1f5fd"
+    ],
+    "symbols": "🗽"
+  },
+  "steam_locomotive": {
+    "hex_list": [
+      "1f682"
+    ],
+    "symbols": "🚂"
+  },
+  "stethoscope": {
+    "hex_list": [
+      "1fa7a"
+    ],
+    "symbols": "🩺"
+  },
+  "stew": {
+    "hex_list": [
+      "1f372"
+    ],
+    "symbols": "🍲"
+  },
+  "stop_button": {
+    "hex_list": [
+      "23f9"
+    ],
+    "symbols": "⏹"
+  },
+  "stop_sign": {
+    "hex_list": [
+      "1f6d1"
+    ],
+    "symbols": "🛑"
+  },
+  "stopwatch": {
+    "hex_list": [
+      "23f1"
+    ],
+    "symbols": "⏱"
+  },
+  "straight_ruler": {
+    "hex_list": [
+      "1f4cf"
+    ],
+    "symbols": "📏"
+  },
+  "strawberry": {
+    "hex_list": [
+      "1f353"
+    ],
+    "symbols": "🍓"
+  },
+  "stuck_out_tongue": {
+    "hex_list": [
+      "1f61b"
+    ],
+    "symbols": "😛"
+  },
+  "stuck_out_tongue_closed_eyes": {
+    "hex_list": [
+      "1f61d"
+    ],
+    "symbols": "😝"
+  },
+  "stuck_out_tongue_winking_eye": {
+    "hex_list": [
+      "1f61c"
+    ],
+    "symbols": "😜"
+  },
+  "student": {
+    "hex_list": [
+      "1f9d1",
+      "1f393"
+    ],
+    "symbols": "🧑🎓"
+  },
+  "studio_microphone": {
+    "hex_list": [
+      "1f399"
+    ],
+    "symbols": "🎙"
+  },
+  "stuffed_flatbread": {
+    "hex_list": [
+      "1f959"
+    ],
+    "symbols": "🥙"
+  },
+  "sudan": {
+    "hex_list": [
+      "1f1f8",
+      "1f1e9"
+    ],
+    "symbols": "🇸🇩"
+  },
+  "sun_behind_large_cloud": {
+    "hex_list": [
+      "1f325"
+    ],
+    "symbols": "🌥"
+  },
+  "sun_behind_rain_cloud": {
+    "hex_list": [
+      "1f326"
+    ],
+    "symbols": "🌦"
+  },
+  "sun_behind_small_cloud": {
+    "hex_list": [
+      "1f324"
+    ],
+    "symbols": "🌤"
+  },
+  "sun_with_face": {
+    "hex_list": [
+      "1f31e"
+    ],
+    "symbols": "🌞"
+  },
+  "sunflower": {
+    "hex_list": [
+      "1f33b"
+    ],
+    "symbols": "🌻"
+  },
+  "sunglasses": {
+    "hex_list": [
+      "1f60e"
+    ],
+    "symbols": "😎"
+  },
+  "sunny": {
+    "hex_list": [
+      "2600"
+    ],
+    "symbols": "☀"
+  },
+  "sunrise": {
+    "hex_list": [
+      "1f305"
+    ],
+    "symbols": "🌅"
+  },
+  "sunrise_over_mountains": {
+    "hex_list": [
+      "1f304"
+    ],
+    "symbols": "🌄"
+  },
+  "superhero": {
+    "hex_list": [
+      "1f9b8"
+    ],
+    "symbols": "🦸"
+  },
+  "superhero_man": {
+    "hex_list": [
+      "1f9b8",
+      "2642"
+    ],
+    "symbols": "🦸♂"
+  },
+  "superhero_woman": {
+    "hex_list": [
+      "1f9b8",
+      "2640"
+    ],
+    "symbols": "🦸♀"
+  },
+  "supervillain": {
+    "hex_list": [
+      "1f9b9"
+    ],
+    "symbols": "🦹"
+  },
+  "supervillain_man": {
+    "hex_list": [
+      "1f9b9",
+      "2642"
+    ],
+    "symbols": "🦹♂"
+  },
+  "supervillain_woman": {
+    "hex_list": [
+      "1f9b9",
+      "2640"
+    ],
+    "symbols": "🦹♀"
+  },
+  "surfer": {
+    "hex_list": [
+      "1f3c4"
+    ],
+    "symbols": "🏄"
+  },
+  "surfing_man": {
+    "hex_list": [
+      "1f3c4",
+      "2642"
+    ],
+    "symbols": "🏄♂"
+  },
+  "surfing_woman": {
+    "hex_list": [
+      "1f3c4",
+      "2640"
+    ],
+    "symbols": "🏄♀"
+  },
+  "suriname": {
+    "hex_list": [
+      "1f1f8",
+      "1f1f7"
+    ],
+    "symbols": "🇸🇷"
+  },
+  "sushi": {
+    "hex_list": [
+      "1f363"
+    ],
+    "symbols": "🍣"
+  },
+  "suspension_railway": {
+    "hex_list": [
+      "1f69f"
+    ],
+    "symbols": "🚟"
+  },
+  "svalbard_jan_mayen": {
+    "hex_list": [
+      "1f1f8",
+      "1f1ef"
+    ],
+    "symbols": "🇸🇯"
+  },
+  "swan": {
+    "hex_list": [
+      "1f9a2"
+    ],
+    "symbols": "🦢"
+  },
+  "swaziland": {
+    "hex_list": [
+      "1f1f8",
+      "1f1ff"
+    ],
+    "symbols": "🇸🇿"
+  },
+  "sweat": {
+    "hex_list": [
+      "1f613"
+    ],
+    "symbols": "😓"
+  },
+  "sweat_drops": {
+    "hex_list": [
+      "1f4a6"
+    ],
+    "symbols": "💦"
+  },
+  "sweat_smile": {
+    "hex_list": [
+      "1f605"
+    ],
+    "symbols": "😅"
+  },
+  "sweden": {
+    "hex_list": [
+      "1f1f8",
+      "1f1ea"
+    ],
+    "symbols": "🇸🇪"
+  },
+  "sweet_potato": {
+    "hex_list": [
+      "1f360"
+    ],
+    "symbols": "🍠"
+  },
+  "swim_brief": {
+    "hex_list": [
+      "1fa72"
+    ],
+    "symbols": "🩲"
+  },
+  "swimmer": {
+    "hex_list": [
+      "1f3ca"
+    ],
+    "symbols": "🏊"
+  },
+  "swimming_man": {
+    "hex_list": [
+      "1f3ca",
+      "2642"
+    ],
+    "symbols": "🏊♂"
+  },
+  "swimming_woman": {
+    "hex_list": [
+      "1f3ca",
+      "2640"
+    ],
+    "symbols": "🏊♀"
+  },
+  "switzerland": {
+    "hex_list": [
+      "1f1e8",
+      "1f1ed"
+    ],
+    "symbols": "🇨🇭"
+  },
+  "symbols": {
+    "hex_list": [
+      "1f523"
+    ],
+    "symbols": "🔣"
+  },
+  "synagogue": {
+    "hex_list": [
+      "1f54d"
+    ],
+    "symbols": "🕍"
+  },
+  "syria": {
+    "hex_list": [
+      "1f1f8",
+      "1f1fe"
+    ],
+    "symbols": "🇸🇾"
+  },
+  "syringe": {
+    "hex_list": [
+      "1f489"
+    ],
+    "symbols": "💉"
+  },
+  "t-rex": {
+    "hex_list": [
+      "1f996"
+    ],
+    "symbols": "🦖"
+  },
+  "taco": {
+    "hex_list": [
+      "1f32e"
+    ],
+    "symbols": "🌮"
+  },
+  "tada": {
+    "hex_list": [
+      "1f389"
+    ],
+    "symbols": "🎉"
+  },
+  "taiwan": {
+    "hex_list": [
+      "1f1f9",
+      "1f1fc"
+    ],
+    "symbols": "🇹🇼"
+  },
+  "tajikistan": {
+    "hex_list": [
+      "1f1f9",
+      "1f1ef"
+    ],
+    "symbols": "🇹🇯"
+  },
+  "takeout_box": {
+    "hex_list": [
+      "1f961"
+    ],
+    "symbols": "🥡"
+  },
+  "tanabata_tree": {
+    "hex_list": [
+      "1f38b"
+    ],
+    "symbols": "🎋"
+  },
+  "tangerine": {
+    "hex_list": [
+      "1f34a"
+    ],
+    "symbols": "🍊"
+  },
+  "tanzania": {
+    "hex_list": [
+      "1f1f9",
+      "1f1ff"
+    ],
+    "symbols": "🇹🇿"
+  },
+  "taurus": {
+    "hex_list": [
+      "2649"
+    ],
+    "symbols": "♉"
+  },
+  "taxi": {
+    "hex_list": [
+      "1f695"
+    ],
+    "symbols": "🚕"
+  },
+  "tea": {
+    "hex_list": [
+      "1f375"
+    ],
+    "symbols": "🍵"
+  },
+  "teacher": {
+    "hex_list": [
+      "1f9d1",
+      "1f3eb"
+    ],
+    "symbols": "🧑🏫"
+  },
+  "technologist": {
+    "hex_list": [
+      "1f9d1",
+      "1f4bb"
+    ],
+    "symbols": "🧑💻"
+  },
+  "teddy_bear": {
+    "hex_list": [
+      "1f9f8"
+    ],
+    "symbols": "🧸"
+  },
+  "telephone": {
+    "hex_list": [
+      "260e"
+    ],
+    "symbols": "☎"
+  },
+  "telephone_receiver": {
+    "hex_list": [
+      "1f4de"
+    ],
+    "symbols": "📞"
+  },
+  "telescope": {
+    "hex_list": [
+      "1f52d"
+    ],
+    "symbols": "🔭"
+  },
+  "tennis": {
+    "hex_list": [
+      "1f3be"
+    ],
+    "symbols": "🎾"
+  },
+  "tent": {
+    "hex_list": [
+      "26fa"
+    ],
+    "symbols": "⛺"
+  },
+  "test_tube": {
+    "hex_list": [
+      "1f9ea"
+    ],
+    "symbols": "🧪"
+  },
+  "thailand": {
+    "hex_list": [
+      "1f1f9",
+      "1f1ed"
+    ],
+    "symbols": "🇹🇭"
+  },
+  "thermometer": {
+    "hex_list": [
+      "1f321"
+    ],
+    "symbols": "🌡"
+  },
+  "thinking": {
+    "hex_list": [
+      "1f914"
+    ],
+    "symbols": "🤔"
+  },
+  "thought_balloon": {
+    "hex_list": [
+      "1f4ad"
+    ],
+    "symbols": "💭"
+  },
+  "thread": {
+    "hex_list": [
+      "1f9f5"
+    ],
+    "symbols": "🧵"
+  },
+  "three": {
+    "hex_list": [
+      "0033",
+      "20e3"
+    ],
+    "symbols": "3⃣"
+  },
+  "thumbsdown": {
+    "hex_list": [
+      "1f44e"
+    ],
+    "symbols": "👎"
+  },
+  "thumbsup": {
+    "hex_list": [
+      "1f44d"
+    ],
+    "symbols": "👍"
+  },
+  "ticket": {
+    "hex_list": [
+      "1f3ab"
+    ],
+    "symbols": "🎫"
+  },
+  "tickets": {
+    "hex_list": [
+      "1f39f"
+    ],
+    "symbols": "🎟"
+  },
+  "tiger": {
+    "hex_list": [
+      "1f42f"
+    ],
+    "symbols": "🐯"
+  },
+  "tiger2": {
+    "hex_list": [
+      "1f405"
+    ],
+    "symbols": "🐅"
+  },
+  "timer_clock": {
+    "hex_list": [
+      "23f2"
+    ],
+    "symbols": "⏲"
+  },
+  "timor_leste": {
+    "hex_list": [
+      "1f1f9",
+      "1f1f1"
+    ],
+    "symbols": "🇹🇱"
+  },
+  "tipping_hand_man": {
+    "hex_list": [
+      "1f481",
+      "2642"
+    ],
+    "symbols": "💁♂"
+  },
+  "tipping_hand_person": {
+    "hex_list": [
+      "1f481"
+    ],
+    "symbols": "💁"
+  },
+  "tipping_hand_woman": {
+    "hex_list": [
+      "1f481",
+      "2640"
+    ],
+    "symbols": "💁♀"
+  },
+  "tired_face": {
+    "hex_list": [
+      "1f62b"
+    ],
+    "symbols": "😫"
+  },
+  "tm": {
+    "hex_list": [
+      "2122"
+    ],
+    "symbols": "™"
+  },
+  "togo": {
+    "hex_list": [
+      "1f1f9",
+      "1f1ec"
+    ],
+    "symbols": "🇹🇬"
+  },
+  "toilet": {
+    "hex_list": [
+      "1f6bd"
+    ],
+    "symbols": "🚽"
+  },
+  "tokelau": {
+    "hex_list": [
+      "1f1f9",
+      "1f1f0"
+    ],
+    "symbols": "🇹🇰"
+  },
+  "tokyo_tower": {
+    "hex_list": [
+      "1f5fc"
+    ],
+    "symbols": "🗼"
+  },
+  "tomato": {
+    "hex_list": [
+      "1f345"
+    ],
+    "symbols": "🍅"
+  },
+  "tonga": {
+    "hex_list": [
+      "1f1f9",
+      "1f1f4"
+    ],
+    "symbols": "🇹🇴"
+  },
+  "tongue": {
+    "hex_list": [
+      "1f445"
+    ],
+    "symbols": "👅"
+  },
+  "toolbox": {
+    "hex_list": [
+      "1f9f0"
+    ],
+    "symbols": "🧰"
+  },
+  "tooth": {
+    "hex_list": [
+      "1f9b7"
+    ],
+    "symbols": "🦷"
+  },
+  "top": {
+    "hex_list": [
+      "1f51d"
+    ],
+    "symbols": "🔝"
+  },
+  "tophat": {
+    "hex_list": [
+      "1f3a9"
+    ],
+    "symbols": "🎩"
+  },
+  "tornado": {
+    "hex_list": [
+      "1f32a"
+    ],
+    "symbols": "🌪"
+  },
+  "tr": {
+    "hex_list": [
+      "1f1f9",
+      "1f1f7"
+    ],
+    "symbols": "🇹🇷"
+  },
+  "trackball": {
+    "hex_list": [
+      "1f5b2"
+    ],
+    "symbols": "🖲"
+  },
+  "tractor": {
+    "hex_list": [
+      "1f69c"
+    ],
+    "symbols": "🚜"
+  },
+  "traffic_light": {
+    "hex_list": [
+      "1f6a5"
+    ],
+    "symbols": "🚥"
+  },
+  "train": {
+    "hex_list": [
+      "1f68b"
+    ],
+    "symbols": "🚋"
+  },
+  "train2": {
+    "hex_list": [
+      "1f686"
+    ],
+    "symbols": "🚆"
+  },
+  "tram": {
+    "hex_list": [
+      "1f68a"
+    ],
+    "symbols": "🚊"
+  },
+  "triangular_flag_on_post": {
+    "hex_list": [
+      "1f6a9"
+    ],
+    "symbols": "🚩"
+  },
+  "triangular_ruler": {
+    "hex_list": [
+      "1f4d0"
+    ],
+    "symbols": "📐"
+  },
+  "trident": {
+    "hex_list": [
+      "1f531"
+    ],
+    "symbols": "🔱"
+  },
+  "trinidad_tobago": {
+    "hex_list": [
+      "1f1f9",
+      "1f1f9"
+    ],
+    "symbols": "🇹🇹"
+  },
+  "tristan_da_cunha": {
+    "hex_list": [
+      "1f1f9",
+      "1f1e6"
+    ],
+    "symbols": "🇹🇦"
+  },
+  "triumph": {
+    "hex_list": [
+      "1f624"
+    ],
+    "symbols": "😤"
+  },
+  "trolleybus": {
+    "hex_list": [
+      "1f68e"
+    ],
+    "symbols": "🚎"
+  },
+  "trophy": {
+    "hex_list": [
+      "1f3c6"
+    ],
+    "symbols": "🏆"
+  },
+  "tropical_drink": {
+    "hex_list": [
+      "1f379"
+    ],
+    "symbols": "🍹"
+  },
+  "tropical_fish": {
+    "hex_list": [
+      "1f420"
+    ],
+    "symbols": "🐠"
+  },
+  "truck": {
+    "hex_list": [
+      "1f69a"
+    ],
+    "symbols": "🚚"
+  },
+  "trumpet": {
+    "hex_list": [
+      "1f3ba"
+    ],
+    "symbols": "🎺"
+  },
+  "tshirt": {
+    "hex_list": [
+      "1f455"
+    ],
+    "symbols": "👕"
+  },
+  "tulip": {
+    "hex_list": [
+      "1f337"
+    ],
+    "symbols": "🌷"
+  },
+  "tumbler_glass": {
+    "hex_list": [
+      "1f943"
+    ],
+    "symbols": "🥃"
+  },
+  "tunisia": {
+    "hex_list": [
+      "1f1f9",
+      "1f1f3"
+    ],
+    "symbols": "🇹🇳"
+  },
+  "turkey": {
+    "hex_list": [
+      "1f983"
+    ],
+    "symbols": "🦃"
+  },
+  "turkmenistan": {
+    "hex_list": [
+      "1f1f9",
+      "1f1f2"
+    ],
+    "symbols": "🇹🇲"
+  },
+  "turks_caicos_islands": {
+    "hex_list": [
+      "1f1f9",
+      "1f1e8"
+    ],
+    "symbols": "🇹🇨"
+  },
+  "turtle": {
+    "hex_list": [
+      "1f422"
+    ],
+    "symbols": "🐢"
+  },
+  "tuvalu": {
+    "hex_list": [
+      "1f1f9",
+      "1f1fb"
+    ],
+    "symbols": "🇹🇻"
+  },
+  "tv": {
+    "hex_list": [
+      "1f4fa"
+    ],
+    "symbols": "📺"
+  },
+  "twisted_rightwards_arrows": {
+    "hex_list": [
+      "1f500"
+    ],
+    "symbols": "🔀"
+  },
+  "two": {
+    "hex_list": [
+      "0032",
+      "20e3"
+    ],
+    "symbols": "2⃣"
+  },
+  "two_hearts": {
+    "hex_list": [
+      "1f495"
+    ],
+    "symbols": "💕"
+  },
+  "two_men_holding_hands": {
+    "hex_list": [
+      "1f46c"
+    ],
+    "symbols": "👬"
+  },
+  "two_women_holding_hands": {
+    "hex_list": [
+      "1f46d"
+    ],
+    "symbols": "👭"
+  },
+  "u5272": {
+    "hex_list": [
+      "1f239"
+    ],
+    "symbols": "🈹"
+  },
+  "u5408": {
+    "hex_list": [
+      "1f234"
+    ],
+    "symbols": "🈴"
+  },
+  "u55b6": {
+    "hex_list": [
+      "1f23a"
+    ],
+    "symbols": "🈺"
+  },
+  "u6307": {
+    "hex_list": [
+      "1f22f"
+    ],
+    "symbols": "🈯"
+  },
+  "u6708": {
+    "hex_list": [
+      "1f237"
+    ],
+    "symbols": "🈷"
+  },
+  "u6709": {
+    "hex_list": [
+      "1f236"
+    ],
+    "symbols": "🈶"
+  },
+  "u6e80": {
+    "hex_list": [
+      "1f235"
+    ],
+    "symbols": "🈵"
+  },
+  "u7121": {
+    "hex_list": [
+      "1f21a"
+    ],
+    "symbols": "🈚"
+  },
+  "u7533": {
+    "hex_list": [
+      "1f238"
+    ],
+    "symbols": "🈸"
+  },
+  "u7981": {
+    "hex_list": [
+      "1f232"
+    ],
+    "symbols": "🈲"
+  },
+  "u7a7a": {
+    "hex_list": [
+      "1f233"
+    ],
+    "symbols": "🈳"
+  },
+  "uganda": {
+    "hex_list": [
+      "1f1fa",
+      "1f1ec"
+    ],
+    "symbols": "🇺🇬"
+  },
+  "uk": {
+    "hex_list": [
+      "1f1ec",
+      "1f1e7"
+    ],
+    "symbols": "🇬🇧"
+  },
+  "ukraine": {
+    "hex_list": [
+      "1f1fa",
+      "1f1e6"
+    ],
+    "symbols": "🇺🇦"
+  },
+  "umbrella": {
+    "hex_list": [
+      "2614"
+    ],
+    "symbols": "☔"
+  },
+  "unamused": {
+    "hex_list": [
+      "1f612"
+    ],
+    "symbols": "😒"
+  },
+  "underage": {
+    "hex_list": [
+      "1f51e"
+    ],
+    "symbols": "🔞"
+  },
+  "unicorn": {
+    "hex_list": [
+      "1f984"
+    ],
+    "symbols": "🦄"
+  },
+  "united_arab_emirates": {
+    "hex_list": [
+      "1f1e6",
+      "1f1ea"
+    ],
+    "symbols": "🇦🇪"
+  },
+  "united_nations": {
+    "hex_list": [
+      "1f1fa",
+      "1f1f3"
+    ],
+    "symbols": "🇺🇳"
+  },
+  "unlock": {
+    "hex_list": [
+      "1f513"
+    ],
+    "symbols": "🔓"
+  },
+  "up": {
+    "hex_list": [
+      "1f199"
+    ],
+    "symbols": "🆙"
+  },
+  "upside_down_face": {
+    "hex_list": [
+      "1f643"
+    ],
+    "symbols": "🙃"
+  },
+  "uruguay": {
+    "hex_list": [
+      "1f1fa",
+      "1f1fe"
+    ],
+    "symbols": "🇺🇾"
+  },
+  "us": {
+    "hex_list": [
+      "1f1fa",
+      "1f1f8"
+    ],
+    "symbols": "🇺🇸"
+  },
+  "us_outlying_islands": {
+    "hex_list": [
+      "1f1fa",
+      "1f1f2"
+    ],
+    "symbols": "🇺🇲"
+  },
+  "us_virgin_islands": {
+    "hex_list": [
+      "1f1fb",
+      "1f1ee"
+    ],
+    "symbols": "🇻🇮"
+  },
+  "uzbekistan": {
+    "hex_list": [
+      "1f1fa",
+      "1f1ff"
+    ],
+    "symbols": "🇺🇿"
+  },
+  "v": {
+    "hex_list": [
+      "270c"
+    ],
+    "symbols": "✌"
+  },
+  "vampire": {
+    "hex_list": [
+      "1f9db"
+    ],
+    "symbols": "🧛"
+  },
+  "vampire_man": {
+    "hex_list": [
+      "1f9db",
+      "2642"
+    ],
+    "symbols": "🧛♂"
+  },
+  "vampire_woman": {
+    "hex_list": [
+      "1f9db",
+      "2640"
+    ],
+    "symbols": "🧛♀"
+  },
+  "vanuatu": {
+    "hex_list": [
+      "1f1fb",
+      "1f1fa"
+    ],
+    "symbols": "🇻🇺"
+  },
+  "vatican_city": {
+    "hex_list": [
+      "1f1fb",
+      "1f1e6"
+    ],
+    "symbols": "🇻🇦"
+  },
+  "venezuela": {
+    "hex_list": [
+      "1f1fb",
+      "1f1ea"
+    ],
+    "symbols": "🇻🇪"
+  },
+  "vertical_traffic_light": {
+    "hex_list": [
+      "1f6a6"
+    ],
+    "symbols": "🚦"
+  },
+  "vhs": {
+    "hex_list": [
+      "1f4fc"
+    ],
+    "symbols": "📼"
+  },
+  "vibration_mode": {
+    "hex_list": [
+      "1f4f3"
+    ],
+    "symbols": "📳"
+  },
+  "video_camera": {
+    "hex_list": [
+      "1f4f9"
+    ],
+    "symbols": "📹"
+  },
+  "video_game": {
+    "hex_list": [
+      "1f3ae"
+    ],
+    "symbols": "🎮"
+  },
+  "vietnam": {
+    "hex_list": [
+      "1f1fb",
+      "1f1f3"
+    ],
+    "symbols": "🇻🇳"
+  },
+  "violin": {
+    "hex_list": [
+      "1f3bb"
+    ],
+    "symbols": "🎻"
+  },
+  "virgo": {
+    "hex_list": [
+      "264d"
+    ],
+    "symbols": "♍"
+  },
+  "volcano": {
+    "hex_list": [
+      "1f30b"
+    ],
+    "symbols": "🌋"
+  },
+  "volleyball": {
+    "hex_list": [
+      "1f3d0"
+    ],
+    "symbols": "🏐"
+  },
+  "vomiting_face": {
+    "hex_list": [
+      "1f92e"
+    ],
+    "symbols": "🤮"
+  },
+  "vs": {
+    "hex_list": [
+      "1f19a"
+    ],
+    "symbols": "🆚"
+  },
+  "vulcan_salute": {
+    "hex_list": [
+      "1f596"
+    ],
+    "symbols": "🖖"
+  },
+  "waffle": {
+    "hex_list": [
+      "1f9c7"
+    ],
+    "symbols": "🧇"
+  },
+  "wales": {
+    "hex_list": [
+      "1f3f4",
+      "e0067",
+      "e0062",
+      "e0077",
+      "e006c",
+      "e0073",
+      "e007f"
+    ],
+    "symbols": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+  },
+  "walking": {
+    "hex_list": [
+      "1f6b6"
+    ],
+    "symbols": "🚶"
+  },
+  "walking_man": {
+    "hex_list": [
+      "1f6b6",
+      "2642"
+    ],
+    "symbols": "🚶♂"
+  },
+  "walking_woman": {
+    "hex_list": [
+      "1f6b6",
+      "2640"
+    ],
+    "symbols": "🚶♀"
+  },
+  "wallis_futuna": {
+    "hex_list": [
+      "1f1fc",
+      "1f1eb"
+    ],
+    "symbols": "🇼🇫"
+  },
+  "waning_crescent_moon": {
+    "hex_list": [
+      "1f318"
+    ],
+    "symbols": "🌘"
+  },
+  "waning_gibbous_moon": {
+    "hex_list": [
+      "1f316"
+    ],
+    "symbols": "🌖"
+  },
+  "warning": {
+    "hex_list": [
+      "26a0"
+    ],
+    "symbols": "⚠"
+  },
+  "wastebasket": {
+    "hex_list": [
+      "1f5d1"
+    ],
+    "symbols": "🗑"
+  },
+  "watch": {
+    "hex_list": [
+      "231a"
+    ],
+    "symbols": "⌚"
+  },
+  "water_buffalo": {
+    "hex_list": [
+      "1f403"
+    ],
+    "symbols": "🐃"
+  },
+  "water_polo": {
+    "hex_list": [
+      "1f93d"
+    ],
+    "symbols": "🤽"
+  },
+  "watermelon": {
+    "hex_list": [
+      "1f349"
+    ],
+    "symbols": "🍉"
+  },
+  "wave": {
+    "hex_list": [
+      "1f44b"
+    ],
+    "symbols": "👋"
+  },
+  "wavy_dash": {
+    "hex_list": [
+      "3030"
+    ],
+    "symbols": "〰"
+  },
+  "waxing_crescent_moon": {
+    "hex_list": [
+      "1f312"
+    ],
+    "symbols": "🌒"
+  },
+  "waxing_gibbous_moon": {
+    "hex_list": [
+      "1f314"
+    ],
+    "symbols": "🌔"
+  },
+  "wc": {
+    "hex_list": [
+      "1f6be"
+    ],
+    "symbols": "🚾"
+  },
+  "weary": {
+    "hex_list": [
+      "1f629"
+    ],
+    "symbols": "😩"
+  },
+  "wedding": {
+    "hex_list": [
+      "1f492"
+    ],
+    "symbols": "💒"
+  },
+  "weight_lifting": {
+    "hex_list": [
+      "1f3cb"
+    ],
+    "symbols": "🏋"
+  },
+  "weight_lifting_man": {
+    "hex_list": [
+      "1f3cb",
+      "2642"
+    ],
+    "symbols": "🏋♂"
+  },
+  "weight_lifting_woman": {
+    "hex_list": [
+      "1f3cb",
+      "2640"
+    ],
+    "symbols": "🏋♀"
+  },
+  "western_sahara": {
+    "hex_list": [
+      "1f1ea",
+      "1f1ed"
+    ],
+    "symbols": "🇪🇭"
+  },
+  "whale": {
+    "hex_list": [
+      "1f433"
+    ],
+    "symbols": "🐳"
+  },
+  "whale2": {
+    "hex_list": [
+      "1f40b"
+    ],
+    "symbols": "🐋"
+  },
+  "wheel_of_dharma": {
+    "hex_list": [
+      "2638"
+    ],
+    "symbols": "☸"
+  },
+  "wheelchair": {
+    "hex_list": [
+      "267f"
+    ],
+    "symbols": "♿"
+  },
+  "white_check_mark": {
+    "hex_list": [
+      "2705"
+    ],
+    "symbols": "✅"
+  },
+  "white_circle": {
+    "hex_list": [
+      "26aa"
+    ],
+    "symbols": "⚪"
+  },
+  "white_flag": {
+    "hex_list": [
+      "1f3f3"
+    ],
+    "symbols": "🏳"
+  },
+  "white_flower": {
+    "hex_list": [
+      "1f4ae"
+    ],
+    "symbols": "💮"
+  },
+  "white_haired_man": {
+    "hex_list": [
+      "1f468",
+      "1f9b3"
+    ],
+    "symbols": "👨🦳"
+  },
+  "white_haired_woman": {
+    "hex_list": [
+      "1f469",
+      "1f9b3"
+    ],
+    "symbols": "👩🦳"
+  },
+  "white_heart": {
+    "hex_list": [
+      "1f90d"
+    ],
+    "symbols": "🤍"
+  },
+  "white_large_square": {
+    "hex_list": [
+      "2b1c"
+    ],
+    "symbols": "⬜"
+  },
+  "white_medium_small_square": {
+    "hex_list": [
+      "25fd"
+    ],
+    "symbols": "◽"
+  },
+  "white_medium_square": {
+    "hex_list": [
+      "25fb"
+    ],
+    "symbols": "◻"
+  },
+  "white_small_square": {
+    "hex_list": [
+      "25ab"
+    ],
+    "symbols": "▫"
+  },
+  "white_square_button": {
+    "hex_list": [
+      "1f533"
+    ],
+    "symbols": "🔳"
+  },
+  "wilted_flower": {
+    "hex_list": [
+      "1f940"
+    ],
+    "symbols": "🥀"
+  },
+  "wind_chime": {
+    "hex_list": [
+      "1f390"
+    ],
+    "symbols": "🎐"
+  },
+  "wind_face": {
+    "hex_list": [
+      "1f32c"
+    ],
+    "symbols": "🌬"
+  },
+  "wine_glass": {
+    "hex_list": [
+      "1f377"
+    ],
+    "symbols": "🍷"
+  },
+  "wink": {
+    "hex_list": [
+      "1f609"
+    ],
+    "symbols": "😉"
+  },
+  "wolf": {
+    "hex_list": [
+      "1f43a"
+    ],
+    "symbols": "🐺"
+  },
+  "woman": {
+    "hex_list": [
+      "1f469"
+    ],
+    "symbols": "👩"
+  },
+  "woman_artist": {
+    "hex_list": [
+      "1f469",
+      "1f3a8"
+    ],
+    "symbols": "👩🎨"
+  },
+  "woman_astronaut": {
+    "hex_list": [
+      "1f469",
+      "1f680"
+    ],
+    "symbols": "👩🚀"
+  },
+  "woman_cartwheeling": {
+    "hex_list": [
+      "1f938",
+      "2640"
+    ],
+    "symbols": "🤸♀"
+  },
+  "woman_cook": {
+    "hex_list": [
+      "1f469",
+      "1f373"
+    ],
+    "symbols": "👩🍳"
+  },
+  "woman_dancing": {
+    "hex_list": [
+      "1f483"
+    ],
+    "symbols": "💃"
+  },
+  "woman_facepalming": {
+    "hex_list": [
+      "1f926",
+      "2640"
+    ],
+    "symbols": "🤦♀"
+  },
+  "woman_factory_worker": {
+    "hex_list": [
+      "1f469",
+      "1f3ed"
+    ],
+    "symbols": "👩🏭"
+  },
+  "woman_farmer": {
+    "hex_list": [
+      "1f469",
+      "1f33e"
+    ],
+    "symbols": "👩🌾"
+  },
+  "woman_firefighter": {
+    "hex_list": [
+      "1f469",
+      "1f692"
+    ],
+    "symbols": "👩🚒"
+  },
+  "woman_health_worker": {
+    "hex_list": [
+      "1f469",
+      "2695"
+    ],
+    "symbols": "👩⚕"
+  },
+  "woman_in_manual_wheelchair": {
+    "hex_list": [
+      "1f469",
+      "1f9bd"
+    ],
+    "symbols": "👩🦽"
+  },
+  "woman_in_motorized_wheelchair": {
+    "hex_list": [
+      "1f469",
+      "1f9bc"
+    ],
+    "symbols": "👩🦼"
+  },
+  "woman_judge": {
+    "hex_list": [
+      "1f469",
+      "2696"
+    ],
+    "symbols": "👩⚖"
+  },
+  "woman_juggling": {
+    "hex_list": [
+      "1f939",
+      "2640"
+    ],
+    "symbols": "🤹♀"
+  },
+  "woman_mechanic": {
+    "hex_list": [
+      "1f469",
+      "1f527"
+    ],
+    "symbols": "👩🔧"
+  },
+  "woman_office_worker": {
+    "hex_list": [
+      "1f469",
+      "1f4bc"
+    ],
+    "symbols": "👩💼"
+  },
+  "woman_pilot": {
+    "hex_list": [
+      "1f469",
+      "2708"
+    ],
+    "symbols": "👩✈"
+  },
+  "woman_playing_handball": {
+    "hex_list": [
+      "1f93e",
+      "2640"
+    ],
+    "symbols": "🤾♀"
+  },
+  "woman_playing_water_polo": {
+    "hex_list": [
+      "1f93d",
+      "2640"
+    ],
+    "symbols": "🤽♀"
+  },
+  "woman_scientist": {
+    "hex_list": [
+      "1f469",
+      "1f52c"
+    ],
+    "symbols": "👩🔬"
+  },
+  "woman_shrugging": {
+    "hex_list": [
+      "1f937",
+      "2640"
+    ],
+    "symbols": "🤷♀"
+  },
+  "woman_singer": {
+    "hex_list": [
+      "1f469",
+      "1f3a4"
+    ],
+    "symbols": "👩🎤"
+  },
+  "woman_student": {
+    "hex_list": [
+      "1f469",
+      "1f393"
+    ],
+    "symbols": "👩🎓"
+  },
+  "woman_teacher": {
+    "hex_list": [
+      "1f469",
+      "1f3eb"
+    ],
+    "symbols": "👩🏫"
+  },
+  "woman_technologist": {
+    "hex_list": [
+      "1f469",
+      "1f4bb"
+    ],
+    "symbols": "👩💻"
+  },
+  "woman_with_headscarf": {
+    "hex_list": [
+      "1f9d5"
+    ],
+    "symbols": "🧕"
+  },
+  "woman_with_probing_cane": {
+    "hex_list": [
+      "1f469",
+      "1f9af"
+    ],
+    "symbols": "👩🦯"
+  },
+  "woman_with_turban": {
+    "hex_list": [
+      "1f473",
+      "2640"
+    ],
+    "symbols": "👳♀"
+  },
+  "womans_clothes": {
+    "hex_list": [
+      "1f45a"
+    ],
+    "symbols": "👚"
+  },
+  "womans_hat": {
+    "hex_list": [
+      "1f452"
+    ],
+    "symbols": "👒"
+  },
+  "women_wrestling": {
+    "hex_list": [
+      "1f93c",
+      "2640"
+    ],
+    "symbols": "🤼♀"
+  },
+  "womens": {
+    "hex_list": [
+      "1f6ba"
+    ],
+    "symbols": "🚺"
+  },
+  "woozy_face": {
+    "hex_list": [
+      "1f974"
+    ],
+    "symbols": "🥴"
+  },
+  "world_map": {
+    "hex_list": [
+      "1f5fa"
+    ],
+    "symbols": "🗺"
+  },
+  "worried": {
+    "hex_list": [
+      "1f61f"
+    ],
+    "symbols": "😟"
+  },
+  "wrench": {
+    "hex_list": [
+      "1f527"
+    ],
+    "symbols": "🔧"
+  },
+  "wrestling": {
+    "hex_list": [
+      "1f93c"
+    ],
+    "symbols": "🤼"
+  },
+  "writing_hand": {
+    "hex_list": [
+      "270d"
+    ],
+    "symbols": "✍"
+  },
+  "x": {
+    "hex_list": [
+      "274c"
+    ],
+    "symbols": "❌"
+  },
+  "yarn": {
+    "hex_list": [
+      "1f9f6"
+    ],
+    "symbols": "🧶"
+  },
+  "yawning_face": {
+    "hex_list": [
+      "1f971"
+    ],
+    "symbols": "🥱"
+  },
+  "yellow_circle": {
+    "hex_list": [
+      "1f7e1"
+    ],
+    "symbols": "🟡"
+  },
+  "yellow_heart": {
+    "hex_list": [
+      "1f49b"
+    ],
+    "symbols": "💛"
+  },
+  "yellow_square": {
+    "hex_list": [
+      "1f7e8"
+    ],
+    "symbols": "🟨"
+  },
+  "yemen": {
+    "hex_list": [
+      "1f1fe",
+      "1f1ea"
+    ],
+    "symbols": "🇾🇪"
+  },
+  "yen": {
+    "hex_list": [
+      "1f4b4"
+    ],
+    "symbols": "💴"
+  },
+  "yin_yang": {
+    "hex_list": [
+      "262f"
+    ],
+    "symbols": "☯"
+  },
+  "yo_yo": {
+    "hex_list": [
+      "1fa80"
+    ],
+    "symbols": "🪀"
+  },
+  "yum": {
+    "hex_list": [
+      "1f60b"
+    ],
+    "symbols": "😋"
+  },
+  "zambia": {
+    "hex_list": [
+      "1f1ff",
+      "1f1f2"
+    ],
+    "symbols": "🇿🇲"
+  },
+  "zany_face": {
+    "hex_list": [
+      "1f92a"
+    ],
+    "symbols": "🤪"
+  },
+  "zap": {
+    "hex_list": [
+      "26a1"
+    ],
+    "symbols": "⚡"
+  },
+  "zebra": {
+    "hex_list": [
+      "1f993"
+    ],
+    "symbols": "🦓"
+  },
+  "zero": {
+    "hex_list": [
+      "0030",
+      "20e3"
+    ],
+    "symbols": "0⃣"
+  },
+  "zimbabwe": {
+    "hex_list": [
+      "1f1ff",
+      "1f1fc"
+    ],
+    "symbols": "🇿🇼"
+  },
+  "zipper_mouth_face": {
+    "hex_list": [
+      "1f910"
+    ],
+    "symbols": "🤐"
+  },
+  "zombie": {
+    "hex_list": [
+      "1f9df"
+    ],
+    "symbols": "🧟"
+  },
+  "zombie_man": {
+    "hex_list": [
+      "1f9df",
+      "2642"
+    ],
+    "symbols": "🧟♂"
+  },
+  "zombie_woman": {
+    "hex_list": [
+      "1f9df",
+      "2640"
+    ],
+    "symbols": "🧟♀"
+  },
+  "zzz": {
+    "hex_list": [
+      "1f4a4"
+    ],
+    "symbols": "💤"
+  }
+}

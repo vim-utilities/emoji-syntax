@@ -1,0 +1,35 @@
+{
+  "name": "markdown-emoji-syntax",
+  "version": "0.0.1",
+  "description": "Vim Emoji Syntax",
+  "main": "build-from-github-api.js",
+  "scripts": {
+    "ts-build": "tsc --build",
+    "emoji-build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vim-utilities/emoji-syntax.git"
+  },
+  "keywords": [
+    "Vim",
+    "Emoji",
+    "Syntax"
+  ],
+  "author": "S0AndS0",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vim-utilities/emoji-syntax/issues"
+  },
+  "homepage": "https://github.com/vim-utilities/emoji-syntax#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "request": "^2.88.2",
+    "to-unicode": "github:javascript-utilities/to-unicode"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.27",
+    "typescript": "^3.9.7"
+  }
+}

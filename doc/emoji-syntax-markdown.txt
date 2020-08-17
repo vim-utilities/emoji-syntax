@@ -1,0 +1,29 @@
+*emoji-syntax-markdown.txt*  For Vim version 8.0.  Last change: 
+
+
+                  Emoji Syntax MarkDown      by S0AndS0
+
+
+Emoji Syntax MarkDown                                  *emoji-syntax-markdown*
+
+1. Usage                                         |emoji-syntax-markdown-usage|
+
+==============================================================================
+1. Usage                                         *emoji-syntax-markdown-usage*
+
+When `filetype` is `markdown` the syntax from this repository _should_ become
+enabled automatically, however, please ensure that the `conceallevel` is
+non-zero. Example: >
+                :set conceallevel=1
+<
+At which point writing Emoji _words_ surrounded by colons (`:`) will transmute
+into symbols via `cchar`.
+
+MarkDown input example: >
+                Fancy :tophat: was on :fire:
+<
+MarkDown preview example: >
+                Fancy 🎩 was on 🔥
+<
+
+ vim:tw=78:ts=8:ft=help:norl:
