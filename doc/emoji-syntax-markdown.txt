@@ -1,4 +1,4 @@
-*emoji-syntax-markdown.txt*  For Vim version 8.0.  Last change: 
+*emoji-syntax-markdown.txt*   For Vim version 8.0.    Last change: 2020 Aug 16
 
 
                   Emoji Syntax MarkDown      by S0AndS0
